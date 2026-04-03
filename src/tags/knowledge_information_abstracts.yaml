@@ -1,0 +1,1237 @@
+# Knowledge, Information & Abstracts Category Tags
+
+gate_qids:
+  # Articles
+  - Q13442814  # scholarly article
+  - Q191067    # article
+  - Q2782326   # case report
+  - Q871232    # editorial
+  - Q815382    # meta-analysis
+  - Q19389637  # biographical article
+  - Q13433827  # encyclopedia article
+  - Q17633526  # Wikinews article
+  - Q309481    # obituary
+  - Q5707594   # news article
+  # Wikimedia internal
+  - Q4167836   # Wikimedia category
+  - Q4167410   # Wikimedia disambiguation page
+  - Q11266439  # Wikimedia template
+  - Q13406463  # Wikimedia list article
+  - Q22808320  # Wikimedia human name disambiguation page
+  - Q17362920  # Wikimedia duplicated page
+  - Q11753321  # Wikimedia navigational template
+  - Q23894233  # Wikimedia templates category
+  - Q24046192  # Wikimedia category of stubs
+  - Q59541917  # Wikimedia topic category
+  - Q56428020  # Wikimedia lists category
+  - Q15647814  # Wikimedia administration category
+  - Q14204246  # Wikimedia project page
+  # Names
+  - Q101352    # family name
+  - Q12308941  # male given name
+  - Q11879590  # female given name
+  - Q202444    # given name
+  # Positions
+  - Q4164871   # position
+  - Q294414    # public office
+  - Q5663900   # alcalde
+  # Numbers
+  - Q28920044  # positive integer
+  # Law
+  - Q7748      # law
+  - Q820655    # statute
+  # Programming languages
+  - Q9143      # programming language
+  - Q845739    # query language
+  - Q37045     # markup language
+  - Q65943     # theorem
+  - Q8366      # algorithm
+  - Q317623    # technical standard
+  - Q235557    # file format
+  - Q151885    # concept
+  - Q17737     # theory
+  - Q186150    # fallacy
+  - Q47574     # unit of measurement
+  - Q11862829  # academic discipline
+  - Q483247    # phenomenon
+  # Wikimedia/Technical additions
+  - Q29654788  # Unicode character
+  - Q115595777 # taxonomy template
+  - Q1002697   # periodical
+  - Q26267864  # Wikimedia KML file
+  - Q74817647  # aspect in a geographic region
+  # Wikimedia additions
+  - Q15184295  # Wikimedia module
+  # Legal documents
+  - Q43305660  # United States patent
+  - Q7604686   # UK Statutory Instrument
+  - Q100532807 # Irish Statutory Instrument
+  - Q7604693   # statutory rules of Northern Ireland
+  - Q105774620 # Public General Act of the Parliament of the United Kingdom
+  - Q6453643   # decree-law
+  # Math
+  - Q49008     # prime number
+  # Academia
+  - Q187685    # doctoral thesis
+  - Q1907875   # master's thesis
+  - Q23927052  # conference paper
+  # Standards
+  - Q67035425  # ASTM standard
+  - Q212971    # Request for Comments
+  - Q2661442   # W3C Recommendation
+  - Q15087423  # ISO standard
+  # Concept additions
+  - Q1260524   # time of day
+  - Q47461807  # candidate set
+  - Q1697305   # narrative motif
+  - Q125390868 # hijri month of a given year
+  - Q47150325  # calendar day of a given year
+  # Article additions
+  - Q18918145  # academic journal article
+  - Q6451276   # Congressional Research Service report
+  - Q28869365  # issue
+  - Q56731284  # Act of the Parliament of Australia
+  - Q106612246 # Wikimedia albums-by-performer category
+  - Q98645843  # Wikimedia music-related list
+  - Q34770     # language
+  - Q15221623  # bilateral relation
+  - Q41710     # ethnic group
+  - Q17524420  # aspect of history
+  - Q1302249   # cross-reference
+
+  - Q112841289  # physical effect
+  - Q1140046  # mathematical notation
+  - Q1167393  # economic indicator
+  - Q11784425  # physical model
+  - Q1401304  # economic theory
+  - Q174923  # optical illusion
+  - Q193946  # scientific model
+  - Q1979154  # model
+  - Q2001982  # notation
+  - Q233861  # musical notation
+  - Q29028649  # economic concept
+  - Q3249551  # process
+  - Q339466  # accounting method
+  - Q3409032  # unisex given name
+  - Q483372  # paradox
+  - Q486902  # mathematical model
+  - Q832161  # financial ratio
+  - Q9134  # mythology
+  - Q926230  # effect
+  - Q19930933 # decision of the Supreme Court of Canada
+  - Q7604692  # Statutory Rules and Orders
+  - Q7437991  # Scottish statutory instrument
+  - Q170584   # project
+  - Q32945461 # taxonomic treatment
+  - Q10870555 # report
+  - Q59191021 # Wikimedia albums discography
+  - Q30070590 # magazine article
+  - Q21481766 # scholarly chapter
+  - Q58632367 # scholarly conference abstract
+  - Q15781350 # final project report
+  - Q3099732  # technical report
+  - Q1580166  # dictionary entry
+  - Q19692072 # United States Supreme Court decision
+  - Q1338798  # United States executive order
+  - Q20010800 # Wikimedia user language category
+  - Q17146139 # Wikimedia route diagram
+  - Q29154550 # verse of the Bible
+  - Q96323920 # 《古今图书集成》的一卷
+  - Q1143604  # conference proceedings
+  - Q1238720  # volume
+  - Q12504877 # Government Regulation of the Republic of Indonesia
+  - Q7241458  # presidential proclamation
+  - Q38647918 # United Nations Treaty Series volume
+  - Q104635718 # Wikimedia artist discography
+  - Q108783631 # Wikimedia country data template
+  - Q17442446  # Wikimedia internal item
+  - Q30432511  # Wikimedia meta category
+  - Q2217301  # serial
+  - Q1266946  # thesis
+  - Q54875403 # research grant
+  - Q171318   # kinship
+  - Q63981612 # product category
+  - Q30227593 # one-year-period overlapping two calendar years
+  - Q28640    # profession
+  - Q16695773 # WikiProject
+  - Q104696061 # Wikibook page
+  - Q115668764 # Wiktionary rhymes page
+  - Q94574287  # Wikinews date page
+  - Q67131190  # Wikimedia tracking category
+  - Q326124   # directive of the European Union
+  - Q91586285 # Act of the Oireachtas
+  - Q101073581 # New Zealand Statutory Regulation
+  - Q96482904  # decision of the Supreme Court of Sweden
+  - Q11242653  # Supreme Commander for the Allied Powers Instruction Note
+  - Q524352   # Hansard
+  - Q88865432 # undifferentiated kanji surname
+  - Q66480858 # affixed family name
+  - Q30185    # mayor
+  - Q38033430  # class of award
+  - Q355567  # noble title
+  - Q577  # year
+  - Q10541491  # legal form
+  - Q3186692  # calendar year
+  - Q118867680  # paleographic sign variant
+  - Q18972207  # feminine family name
+  - Q88865447  # undifferentiated Japanese kana surname
+  - Q1172284  # data set
+  - Q113376528  # PM20 ware/country folder
+  - Q66050470  # conjugation table for French verb
+  - Q273057  # discography
+  - Q49848  # document
+  - Q17928402  # blog post
+  - Q75006800  # Ang
+  - Q88163834  # bulletin
+  - Q19887878  # Wikimedia infobox template
+  - Q63032896  # Wikimedia list of fictional characters
+  - Q125101257  # Wikimedia category of redirects
+  - Q18711811  # map data module
+  - Q33283984  # Act of the Parliament of India
+  # Conjecture / math problem
+  - Q319141    # conjecture
+  - Q1166625   # mathematical problem
+  # Sorting algorithm
+  - Q181593    # sorting algorithm
+  - Q2632949   # comparison sort
+  - Q2705718   # stable sorting algorithm
+  # Concept additions
+  - Q48264     # gender identity
+  - Q1127759   # cognitive bias
+  - Q602884    # social phenomenon
+  - Q1151067   # rule
+  - Q3505845   # state
+  - Q46857     # scientific method
+  # Physical phenomenon
+  - Q1293220   # physical phenomenon
+  - Q104934    # fundamental interaction
+  # Unit additions
+  - Q1371562   # unit of area
+  # Language additions
+  - Q187432    # scripting language
+  - Q165436    # assembly language
+  # Standard additions
+  - Q15836568  # computer network protocol
+  # Concept additions
+  - Q12737077  # occupation
+  - Q3024240   # historical country
+  - Q16334295  # group of humans
+  - Q107357104 # type of dance
+  - Q18759100  # baronetcy
+  - Q24034552  # mathematical concept
+  - Q1197685   # public holiday
+  - Q29964144  # year BC
+  - Q32880     # architectural style
+  - Q186117    # timeline
+  - Q108300140 # occupation group according to ISCO-08
+  - Q23847174  # religious concept
+  - Q47018478  # calendar month of a given year
+  - Q33104279  # philosophical concept
+  - Q2135465   # legal term or legal concept
+  - Q164950    # dynasty
+  - Q56019     # military rank
+  - Q223393    # literary genre
+  - Q968159    # art movement
+  - Q29791211  # sport in a geographic region
+  - Q23983664  # demographics of country or region
+  - Q14795564  # point in time with respect to recurrent timeframe
+  # Legal additions
+  - Q12504879  # Regulation of the President of the Republic of Indonesia
+  - Q114079647 # Supreme Court of Ghana decision
+  - Q1671773   # bilateral investment treaty
+  - Q101073445 # New Zealand Legislative Instrument
+  - Q125364588 # Nigeria Supreme Court decision
+  - Q19752986  # Law of the Republic of Indonesia
+  - Q100165600 # Local Act of the Parliament of the United Kingdom
+  - Q476068    # Act of Congress in the United States
+  - Q253623    # patent
+  - Q49371     # legislation
+  # Technical additions
+  - Q95074     # character
+  - Q55809450  # Hangul syllable
+  - Q55074511  # reconstructed word
+  - Q109483637 # GB 12052 character
+  - Q109483604 # KS X 1002 character
+  - Q19776628  # Latin-script letter
+  - Q133492    # letter
+  - Q8171      # word
+  - Q386208    # mascot character
+  # Language additions
+  - Q33384     # dialect
+  - Q25295     # language family
+  - Q1288568   # modern language
+  - Q33742     # natural language
+  # Name additions
+  - Q82799     # name
+  - Q106319018 # hyphenated family name
+  - Q29042997  # double family name
+  - Q18972245  # masculine family name
+  - Q55983715  # organisms known by a particular common name
+  # Religion additions
+  - Q15217609  # titular see
+  - Q27780831  # defunct Roman Catholic diocese
+  - Q385337    # deanery
+  - Q105390172 # Roman Catholic metropolitan archdiocese
+  - Q879146    # Christian denomination
+  # Religion / worldview
+  - Q9174       # religion
+  - Q71966963   # religion or world view
+  - Q6957341    # major religious group
+  - Q123129246  # Christian denominational family
+  - Q13414953   # religious denomination
+  - Q222516     # school of Buddhism
+  - Q1192063    # Islamic denomination
+  # Article additions
+  - Q1631107   # bibliography
+  - Q1371849   # filmography
+  - Q59248059  # Wikimedia singles discography
+  # Award additions
+  - Q107655869 # group of awards
+  - Q60754876  # grade of an order
+  - Q193622    # order
+  - Q1788716   # military decoration
+  - Q24017414  # second-order class
+  # Position additions
+  - Q99829399  # mayor of a municipality in São Paulo
+  - Q87008012  # mayor of a place in Norway
+  # Hub update round 1 — position
+  - Q4611891   # association football position
+  - Q17279032  # elective office
+  # Hub update round 1 — abstract
+  - Q189533    # academic degree
+  # Hub update round 1 — award
+  - Q3320743   # title of honor
+  - Q116374627 # Soviet state award
+  - Q18328097  # courage award
+  # Hub update round 2 — field
+  - Q1047113   # field of study
+  - Q2465832   # branch of science
+  # Hub update round 2 — culture
+  - Q1792379   # art genre
+  # Hub update round 3 — field
+  - Q930752    # medical specialty
+  - Q1936384   # branch of mathematics
+  # Hub update round 3 — position
+  - Q114962596 # historical position
+  # Hub update round 3 — gate only
+  - Q12909644  # political ideology
+  - Q112965645 # symptom or sign
+  # Hub update round 4 — field
+  - Q4162444   # branch of physics
+  - Q28598684  # branch of biology
+  - Q22811234  # branch of philosophy
+  # Hub update round 4 — religion
+  - Q49447     # world view
+  # Hub update round 5 — field
+  - Q60680430  # branch of psychology
+  - Q1665984   # interdisciplinary science
+  - Q99397804  # branch of zoology
+  # Hub update round 6 — field
+  - Q11790203  # branch of chemistry
+  - Q12015335  # branch of engineering
+  # Hub update round 7 — field
+  - Q4785472   # archaeological sub-discipline
+  # Hub update round 8 — field
+  - Q60310061  # branch of theology
+  - Q19935939  # branch of geography
+  # Hub update round 8 — abstract
+  - Q207621    # software license
+  # Hub update round 9 — field
+  - Q105760881 # branch of sociology
+  - Q137582043 # branch of mechanics
+  # Hub update round 9 — abstract
+  - Q179805    # political philosophy
+  # Hub update round 9 — culture
+  - Q25484644  # architectural style of an area
+  # Hub update round 10 — abstract
+  - Q7257      # ideology
+  - Q1387659   # school of thought
+  # Hub update round 10 — culture
+  - Q1792644   # art style
+  # Hub update round 10 — field
+  - Q135892289 # branch of linguistics
+  # Hub update round 1 (second pass) — position
+  - Q21114371  # episcopal title
+  - Q124467070 # historical episcopal title
+  - Q11773926  # ecclesiastical occupation
+  - Q63188808  # Catholic vocation
+  - Q486983    # academic rank
+  - Q694589    # American football position
+  - Q1148974   # basketball position
+  - Q1151733   # baseball position
+  - Q3399646   # ice hockey position
+  - Q6583019   # rugby union position
+  - Q2105663   # rugby league position
+  - Q18533990  # volleyball position
+  # Hub update round 1 (second pass) — award
+  - Q20006438  # fellowship award
+  - Q11796413  # decoration
+  - Q973011    # campaign medal
+  - Q131647    # medallion
+  - Q2693624   # jubilee medal
+  - Q2003221   # order of chivalry
+  - Q4121104   # sports title
+  - Q18677266  # order of merit
+  - Q19020     # Academy Awards
+  # Hub update round 2 (second pass) — award
+  - Q4220917   # film award
+  - Q1709894   # journalism prize
+  - Q25536240  # mathematics award
+  - Q5124642   # civil decoration
+  - Q107471043 # statistics award
+  - Q55956975  # honorary sporting title
+  - Q4375509   # official honorary title of RSFSR
+  - Q4375520   # official honorary title of Russia
+  - Q42245028  # sports hall of fame
+  # Hub update round 2 (second pass) — position
+  - Q18533943  # handball position
+  - Q28648649  # softball position
+  - Q103838820 # elected position
+  - Q23015928  # postgraduate degree
+  # Hub update round 2 (second pass) — religion
+  - Q60176300  # Eastern Orthodox eparchy
+  - Q66818387  # Lutheran diocese
+  - Q1649443   # national Church
+  - Q565744    # Landeskirche
+  # Hub update round 2 (second pass) — culture
+  - Q1406161   # artistic theme
+  - Q11177771  # artistic technique
+  - Q16743958  # genre of painting
+  # Hub update round 2 (second pass) — field
+  - Q1756157   # area of law
+  # Hub update round 2 (second pass) — gate only
+  - Q898786    # crystal system
+  - Q130753312 # symptom type
+  - Q130583773 # type of crime
+  # Hub update round 3 (second pass) — award
+  - Q13257647  # service award
+  - Q3302125   # state decoration
+  - Q56291528  # state order
+  - Q6866472   # ministerial awards of the Russian Federation
+  # Hub update round 3 (second pass) — abstract
+  - Q28819924  # political alignment
+  # Hub update round 3 (second pass) — culture
+  - Q3326717   # literary movement
+  # Hub update round 3 (second pass) — position
+  - Q889821    # governor
+  - Q16631188  # military position
+  # Hub update round 3 (second pass) — field
+  - Q123370638 # branch of computer science
+  # Hub update round 4 (second pass) — abstract
+  - Q1622058   # academic degree
+  - Q20076756  # speculative fiction genre
+  - Q60075825  # Christian holy day
+  # Hub update round 4 (second pass) — publication
+  - Q27785883  # conference proceedings series
+  - Q1787111   # biographical dictionary
+  # Hub update round 5 (second pass) — position
+  - Q3529618   # academic title
+  - Q11488158  # corporate title
+  # Hub update round 6 (second pass) — culture
+  - Q2198855   # cultural movement
+  # Hub update round 6 (second pass) — field
+  - Q109551317 # branch of literature
+  - Q5687161   # branch of agriculture
+  # Hub update round 6 (second pass) — position
+  - Q452810    # ranks of the German Bundeswehr
+  # Hub update: manual batch — abstract
+  - Q81941037  # product distribution method
+  - Q73568642  # copyright status of set
+  - Q50424085  # copyright status
+  - Q1149626   # written language
+  - Q8192      # writing system
+  - Q55553838  # conservation state
+  - Q67518978  # occurrent
+  - Q494756    # data
+  - Q914856    # historic preservation
+  - Q11424100  # status
+  - Q1971694   # game mode
+  - Q66439731  # access restriction
+  - Q1269299   # type of business entity
+  - Q13406837  # IMA status
+  - Q18189     # educational stage
+  - Q813912    # condition
+  - Q2315359   # historical language
+  - Q96251375  # type of policy
+  - Q1368898   # game of skill
+  - Q121459946 # café game
+  - Q5162954   # conservation designation
+  - Q208165    # collecting
+  # Hub update: manual batch — law
+  - Q284742    # Creative Commons license
+  - Q30939938  # open license
+  - Q196294    # free license
+  - Q3238057   # proprietary license
+  - Q1156659   # OSI-approved license
+  - Q5975031   # copyleft free software license
+  - Q1437937   # permissive free software license
+  - Q77205602  # copyright license
+  # Hub update: manual batch — culture
+  - Q11514315  # historical period
+  - Q56055944  # type of arts
+  - Q109551565 # sub-set of literature
+  - Q483394    # genre
+  - Q42907216  # video game theme
+  - Q17544377  # history of a country or state
+  # Hub update: manual batch — field
+  - Q7644128   # supersecondary structure
+  - Q8187769   # economic activity
+  - Q4671286   # academic major
+  - Q136653105 # type of industry
+  - Q137189000 # type of economy
+  - Q627436    # field of work
+  - Q268592    # industry
+  # Hub update: manual batch — position
+  - Q486839    # member of parliament
+  - Q1939559   # member of Landtag
+  - Q110516696 # member of the parliament of Sweden
+  - Q216353    # title
+  - Q1781513   # position
+  - Q96208019  # member of municipal council
+  - Q4226220   # naval officer rank
+  # Hub update: manual batch — religion
+  - Q524158    # kami
+  - Q15978856  # Roman Catholic beatification and canonization stage
+  - Q172331    # liturgy
+  - Q628455    # rite
+  - Q2642184   # Eastern Orthodox saint titles
+  - Q1509831   # titles of Mary, mother of Jesus
+  - Q111252415 # religious group
+  # Hub update: manual batch — publication
+  - Q134895039 # working paper series
+  # Hub update: manual batch — gate only
+  - Q2057971   # health problem
+
+
+core:
+  props:
+    - P31    # instance of
+    - P279   # subclass of
+    - P361   # part of
+    - P2579  # studied by
+    - P17    # country
+    - P921   # main subject
+    - P1476  # title
+    - P577   # publication date
+    - P407   # language of work or name
+
+modules:
+  language:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q9143      # programming language
+        - Q845739    # query language
+        - Q34770     # language
+        - Q187432    # scripting language
+        - Q165436    # assembly language
+        - Q37045     # markup language
+        - Q33384     # dialect
+        - Q25295     # language family
+        - Q1288568   # modern language
+        - Q33742     # natural language
+    value_props:
+      - P1394  # Glottolog code
+      - P2341  # indigenous to
+      - P305   # IETF language tag
+      - P220   # ISO 639-3 code
+      - P1627  # Ethnologue.com language code
+      - P3823  # Ethnologue language status
+      - P1999  # UNESCO language status
+      - P282   # writing system
+      - P4913  # dialect of
+      - P4132  # linguistic typology
+      - P571   # inception
+      - P178   # developer
+      - P856   # official website
+      - P737   # influenced by
+      - P287   # designed by
+
+  theorem:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q65943    # theorem
+        - Q319141   # conjecture
+        - Q1166625  # mathematical problem
+    value_props:
+      - P6104  # maintained by WikiProject
+      - P2534  # defining formula
+      - P155   # follows
+      - P156   # followed by
+
+  algorithm:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q8366     # algorithm
+        - Q181593   # sorting algorithm
+        - Q2632949  # comparison sort
+        - Q2705718  # stable sorting algorithm
+    value_props:
+      - P366   # has use
+      - P2283  # uses
+      - P2534  # defining formula
+      - P287   # designed by
+      - P144   # based on
+
+  specification:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q317623   # technical standard
+        - Q235557   # file format
+        - Q67035425 # ASTM standard
+        - Q212971   # Request for Comments
+        - Q15836568 # computer network protocol
+        - Q2661442  # W3C Recommendation
+        - Q15087423 # ISO standard
+    value_props:
+      - P123   # publisher
+      - P356   # DOI
+      - P953   # work available at URL
+      - P1195  # file extension
+      - P892   # RfC ID
+      - P4152  # file format identification pattern
+      - P8978  # DBLP publication ID
+      - P1104  # number of pages
+      - P144   # based on
+
+  abstract:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q151885   # concept
+        - Q47461807 # candidate set
+        - Q1260524  # time of day
+        - Q1697305  # narrative motif
+        - Q125390868 # hijri month of a given year
+        - Q47150325  # calendar day of a given year
+        - Q15221623  # bilateral relation
+        - Q41710     # ethnic group
+        - Q17524420  # aspect of history
+        - Q1302249   # cross-reference
+        - Q170584    # project
+        - Q171318    # kinship
+        - Q63981612  # product category
+        - Q30227593  # one-year-period overlapping two calendar years
+        - Q28640     # profession
+        - Q29154550  # verse of the Bible
+        - Q355567  # noble title
+        - Q577  # year
+        - Q10541491  # legal form
+        - Q3186692  # calendar year
+        - Q48264    # gender identity
+        - Q1127759  # cognitive bias
+        - Q602884   # social phenomenon
+        - Q1151067  # rule
+        - Q3505845  # state
+        - Q46857    # scientific method
+        - Q483372   # paradox
+        - Q186150   # fallacy
+        - Q17737    # theory
+        - Q1979154  # model
+        - Q193946   # scientific model
+        - Q486902   # mathematical model
+        - Q11784425 # physical model
+        - Q3249551  # process
+        - Q2001982  # notation
+        - Q233861   # musical notation
+        - Q1140046  # mathematical notation
+        - Q118867680 # paleographic sign variant
+        - Q12737077  # occupation
+        - Q3024240   # historical country
+        - Q16334295  # group of humans
+        - Q107357104 # type of dance
+        - Q18759100  # baronetcy
+        - Q24034552  # mathematical concept
+        - Q1197685   # public holiday
+        - Q29964144  # year BC
+        - Q32880     # architectural style
+        - Q186117    # timeline
+        - Q108300140 # occupation group according to ISCO-08
+        - Q23847174  # religious concept
+        - Q47018478  # calendar month of a given year
+        - Q33104279  # philosophical concept
+        - Q2135465   # legal term or legal concept
+        - Q164950    # dynasty
+        - Q56019     # military rank
+        - Q223393    # literary genre
+        - Q968159    # art movement
+        - Q29791211  # sport in a geographic region
+        - Q23983664  # demographics of country or region
+        - Q14795564  # point in time with respect to recurrent timeframe
+        - Q49008     # prime number
+        # Hub update round 1
+        - Q189533    # academic degree
+        # Hub update round 8
+        - Q207621    # software license
+        # Hub update round 9
+        - Q179805    # political philosophy
+        # Hub update round 10
+        - Q7257      # ideology
+        - Q1387659   # school of thought
+        # Hub update round 3 (second pass)
+        - Q28819924  # political alignment
+        # Hub update round 4 (second pass)
+        - Q1622058   # academic degree
+        - Q20076756  # speculative fiction genre
+        - Q60075825  # Christian holy day
+        # Hub update: manual batch
+        - Q81941037  # product distribution method
+        - Q73568642  # copyright status of set
+        - Q50424085  # copyright status
+        - Q1149626   # written language
+        - Q8192      # writing system
+        - Q55553838  # conservation state
+        - Q67518978  # occurrent
+        - Q494756    # data
+        - Q914856    # historic preservation
+        - Q11424100  # status
+        - Q1971694   # game mode
+        - Q66439731  # access restriction
+        - Q1269299   # type of business entity
+        - Q13406837  # IMA status
+        - Q18189     # educational stage
+        - Q813912    # condition
+        - Q2315359   # historical language
+        - Q96251375  # type of policy
+        - Q1368898   # game of skill
+        - Q121459946 # café game
+        - Q5162954   # conservation designation
+        - Q208165    # collecting
+    value_props:
+      - P4895  # time index
+      - P1269  # facet of
+      - P1343  # described by source
+      - P528   # catalog code
+      - P180   # depicts
+      - P2341  # indigenous to
+      - P155   # follows
+      - P156   # followed by
+      - P461   # opposite of
+
+  position:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q4164871  # position
+        - Q294414   # public office
+        - Q30185    # mayor
+        - Q5663900  # alcalde
+        - Q99829399  # mayor of a municipality in São Paulo
+        - Q87008012  # mayor of a place in Norway
+        # Hub update round 1
+        - Q4611891   # association football position
+        - Q17279032  # elective office
+        # Hub update round 3
+        - Q114962596 # historical position
+        # Hub update round 1 (second pass)
+        - Q21114371  # episcopal title
+        - Q124467070 # historical episcopal title
+        - Q11773926  # ecclesiastical occupation
+        - Q63188808  # Catholic vocation
+        - Q486983    # academic rank
+        - Q694589    # American football position
+        - Q1148974   # basketball position
+        - Q1151733   # baseball position
+        - Q3399646   # ice hockey position
+        - Q6583019   # rugby union position
+        - Q2105663   # rugby league position
+        - Q18533990  # volleyball position
+        # Hub update round 2 (second pass)
+        - Q18533943  # handball position
+        - Q28648649  # softball position
+        - Q103838820 # elected position
+        - Q23015928  # postgraduate degree
+        # Hub update round 3 (second pass)
+        - Q889821    # governor
+        - Q16631188  # military position
+        # Hub update round 5 (second pass)
+        - Q3529618   # academic title
+        - Q11488158  # corporate title
+        # Hub update round 6 (second pass)
+        - Q452810    # ranks of the German Bundeswehr
+        # Hub update: manual batch
+        - Q486839    # member of parliament
+        - Q1939559   # member of Landtag
+        - Q110516696 # member of the parliament of Sweden
+        - Q216353    # title
+        - Q1781513   # position
+        - Q96208019  # member of municipal council
+        - Q4226220   # naval officer rank
+    value_props:
+      - P1001  # applies to jurisdiction
+      - P2521  # female form of label
+      - P3321  # male form of label
+      - P2389  # organization directed by the office or position
+      - P571   # inception
+      - P2354  # has list
+      - P576   # dissolved, abolished or demolished date
+      - P2097  # term length of position
+
+
+  law:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q820655  # statute
+        - Q7748    # law
+        # Hub update: manual batch
+        - Q284742   # Creative Commons license
+        - Q30939938 # open license
+        - Q196294   # free license
+        - Q3238057  # proprietary license
+        - Q1156659  # OSI-approved license
+        - Q5975031  # copyleft free software license
+        - Q1437937  # permissive free software license
+        - Q77205602 # copyright license
+    value_props:
+      - P1001  # applies to jurisdiction
+      - P1031  # legal citation of this text
+      - P790   # approved by
+      - P291   # place of publication
+      - P9119  # LexML Brazil ID
+      - P9376  # law digest
+      - P1433  # published in
+      - P50    # author
+
+
+  unit:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q47574   # unit of measurement
+        - Q1371562 # unit of area
+    value_props:
+      - P111   # measured physical quantity
+      - P5061  # unit symbol
+      - P2370  # conversion to SI unit
+      - P7007  # Wolfram Language unit code
+      - P2442  # conversion to standard unit
+
+  field:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q11862829 # academic discipline
+        # Hub update round 2
+        - Q1047113  # field of study
+        - Q2465832  # branch of science
+        # Hub update round 3
+        - Q930752   # medical specialty
+        - Q1936384  # branch of mathematics
+        # Hub update round 4
+        - Q4162444  # branch of physics
+        - Q28598684 # branch of biology
+        - Q22811234 # branch of philosophy
+        # Hub update round 5
+        - Q60680430 # branch of psychology
+        - Q1665984  # interdisciplinary science
+        - Q99397804 # branch of zoology
+        # Hub update round 6
+        - Q11790203 # branch of chemistry
+        - Q12015335 # branch of engineering
+        # Hub update round 7
+        - Q4785472  # archaeological sub-discipline
+        # Hub update round 8
+        - Q60310061 # branch of theology
+        - Q19935939 # branch of geography
+        # Hub update round 9
+        - Q105760881 # branch of sociology
+        - Q137582043 # branch of mechanics
+        # Hub update round 10
+        - Q135892289 # branch of linguistics
+        # Hub update round 2 (second pass)
+        - Q1756157   # area of law
+        # Hub update round 3 (second pass)
+        - Q123370638 # branch of computer science
+        # Hub update round 6 (second pass)
+        - Q109551317 # branch of literature
+        - Q5687161   # branch of agriculture
+        # Hub update: manual batch
+        - Q7644128   # supersecondary structure
+        - Q8187769   # economic activity
+        - Q4671286   # academic major
+        - Q136653105 # type of industry
+        - Q137189000 # type of economy
+        - Q627436    # field of work
+        - Q268592    # industry
+    value_props:
+      - P3095  # practiced by
+      - P2578  # is the study of
+
+
+  phenomenon:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q483247   # phenomenon
+        - Q1293220  # physical phenomenon
+        - Q104934   # fundamental interaction
+        - Q174923   # optical illusion
+        - Q926230   # effect
+        - Q112841289 # physical effect
+    value_props:
+      - P1542  # has effect
+      - P828   # has cause
+      - P2534  # defining formula
+      - P580   # start time
+      - P582   # end time
+      - P585   # point in time
+
+
+  publication:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q13442814  # scholarly article
+        - Q191067    # article
+        - Q2782326   # case report
+        - Q871232    # editorial
+        - Q815382    # meta-analysis
+        - Q19389637  # biographical article
+        - Q13433827  # encyclopedia article
+        - Q309481    # obituary
+        - Q5707594   # news article
+        - Q18918145  # academic journal article
+        - Q6451276   # Congressional Research Service report
+        - Q28869365  # issue
+        - Q32945461  # taxonomic treatment
+        - Q10870555  # report
+        - Q30070590  # magazine article
+        - Q21481766  # scholarly chapter
+        - Q58632367  # scholarly conference abstract
+        - Q15781350  # final project report
+        - Q3099732   # technical report
+        - Q1580166   # dictionary entry
+        - Q96323920  # 《古今图书集成》的一卷
+        - Q1143604   # conference proceedings
+        - Q1238720   # volume
+        - Q273057  # discography
+        - Q49848  # document
+        - Q17928402  # blog post
+        - Q75006800  # Ang
+        - Q88163834  # bulletin
+        - Q1631107   # bibliography
+        - Q1371849   # filmography
+        - Q59248059  # Wikimedia singles discography
+        # Hub update round 4 (second pass)
+        - Q27785883  # conference proceedings series
+        - Q1787111   # biographical dictionary
+        # Hub update: manual batch
+        - Q134895039 # working paper series
+    value_props:
+      - P1433  # published in
+      - P2093  # author name string
+      - P356   # DOI
+      - P50    # author
+      - P433   # issue
+      - P953   # work available at URL
+      - P304   # page(s)
+      - P478   # volume
+      - P6216  # copyright status
+      - P123   # publisher
+
+  reference:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q29654788  # Unicode character
+        - Q1002697   # periodical
+        - Q2217301   # serial
+        - Q1172284  # data set
+        - Q113376528  # PM20 ware/country folder
+        - Q66050470  # conjugation table for French verb
+        - Q95074     # character
+        - Q55809450  # Hangul syllable
+        - Q55074511  # reconstructed word
+        - Q109483637 # GB 12052 character
+        - Q109483604 # KS X 1002 character
+        - Q19776628  # Latin-script letter
+        - Q133492    # letter
+        - Q8171      # word
+        - Q386208    # mascot character
+    value_props:
+      - P5587  # Libris-URI
+      - P1182  # LIBRIS editions
+      - P495   # country of origin
+      - P236   # ISSN
+      - P571   # inception
+      - P7363  # ISSN-L
+      - P291   # place of publication
+      - P1680  # subtitle
+      - P856   # official website
+      - P576   # dissolved, abolished or demolished date
+
+  name:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q101352    # family name
+        - Q12308941  # male given name
+        - Q11879590  # female given name
+        - Q202444    # given name
+        - Q3409032   # unisex given name
+        - Q88865432  # undifferentiated kanji surname
+        - Q66480858  # affixed family name
+        - Q18972207  # feminine family name
+        - Q88865447  # undifferentiated Japanese kana surname
+        - Q82799     # name
+        - Q106319018 # hyphenated family name
+        - Q29042997  # double family name
+        - Q18972245  # masculine family name
+        - Q55983715  # organisms known by a particular common name
+    value_props:
+      - P282   # writing system
+      - P1705  # native label
+      - P1889  # different from
+      - P5323  # attested in
+      - P460   # said to be the same as
+
+  religion:
+    type: relational
+    indicators:
+      P140:        # religion or worldview
+      P488:        # chairperson
+      P31:  # instance of
+        - Q9134     # mythology
+        - Q29154550 # verse of the Bible
+        - Q15217609  # titular see
+        - Q27780831  # defunct Roman Catholic diocese
+        - Q385337    # deanery
+        - Q105390172 # Roman Catholic metropolitan archdiocese
+        - Q879146    # Christian denomination
+        - Q9174      # religion
+        - Q71966963  # religion or world view
+        - Q6957341   # major religious group
+        - Q123129246 # Christian denominational family
+        - Q13414953  # religious denomination
+        - Q222516    # school of Buddhism
+        - Q1192063   # Islamic denomination
+        # Hub update round 4
+        - Q49447     # world view
+        # Hub update round 2 (second pass)
+        - Q60176300  # Eastern Orthodox eparchy
+        - Q66818387  # Lutheran diocese
+        - Q1649443   # national Church
+        - Q565744    # Landeskirche
+        # Hub update: manual batch
+        - Q524158    # kami
+        - Q15978856  # Roman Catholic beatification and canonization stage
+        - Q172331    # liturgy
+        - Q628455    # rite
+        - Q2642184   # Eastern Orthodox saint titles
+        - Q1509831   # titles of Mary, mother of Jesus
+        - Q111252415 # religious group
+    value_props:
+      - P140   # religion or worldview
+      - P488   # chairperson
+
+  jurisdiction:
+    type: relational
+    indicators:
+      P1001:       # applies to jurisdiction
+      P467:        # legislated by
+      P4884:       # court
+      P790:        # approved by
+      P2389:       # organization directed by the office or position
+      P1308:       # position holder
+      P748:        # appointed by
+      P31:  # instance of
+        # Legal documents (former legal module)
+        - Q43305660  # United States patent
+        - Q7604686   # UK Statutory Instrument
+        - Q100532807 # Irish Statutory Instrument
+        - Q7604693   # statutory rules of Northern Ireland
+        - Q105774620 # Public General Act of the Parliament of the United Kingdom
+        - Q6453643   # decree-law
+        - Q56731284  # Act of the Parliament of Australia
+        - Q19930933  # decision of the Supreme Court of Canada
+        - Q7604692   # Statutory Rules and Orders
+        - Q7437991   # Scottish statutory instrument
+        - Q19692072  # United States Supreme Court decision
+        - Q1338798   # United States executive order
+        - Q12504877  # Government Regulation of the Republic of Indonesia
+        - Q7241458   # presidential proclamation
+        - Q38647918  # United Nations Treaty Series volume
+        - Q326124    # directive of the European Union
+        - Q91586285  # Act of the Oireachtas
+        - Q101073581 # New Zealand Statutory Regulation
+        - Q96482904  # decision of the Supreme Court of Sweden
+        - Q11242653  # Supreme Commander for the Allied Powers Instruction Note
+        - Q524352    # Hansard
+        - Q33283984  # Act of the Parliament of India
+        - Q12504879  # Regulation of the President of the Republic of Indonesia
+        - Q114079647 # Supreme Court of Ghana decision
+        - Q1671773   # bilateral investment treaty
+        - Q101073445 # New Zealand Legislative Instrument
+        - Q125364588 # Nigeria Supreme Court decision
+        - Q19752986  # Law of the Republic of Indonesia
+        - Q100165600 # Local Act of the Parliament of the United Kingdom
+        - Q476068    # Act of Congress in the United States
+        - Q253623    # patent
+        - Q49371     # legislation
+        # Political offices (former politics module)
+        - Q294414   # public office
+        - Q30185    # mayor
+        - Q5663900  # alcalde
+    value_props:
+      - P793   # significant event
+      - P1001  # applies to jurisdiction
+      - P127   # owned by
+      - P179   # part of the series
+      - P457   # foundational text
+      - P50    # author
+      - P467   # legislated by
+      - P4884  # court
+      - P790   # approved by
+      - P291   # place of publication
+      - P2389  # organization directed by the office or position
+      - P1308  # position holder
+      - P748   # appointed by
+      - P2354  # has list
+
+  education:
+    type: relational
+    indicators:
+      P4101:       # thesis submitted to
+      P9161:       # thesis committee member
+      P31:  # instance of
+        - Q187685   # doctoral thesis
+        - Q1907875  # master's thesis
+        - Q23927052 # conference paper
+        - Q1266946  # thesis
+        - Q54875403 # research grant
+    value_props:
+      - P4101  # thesis submitted to
+      - P6216  # copyright status
+      - P123   # publisher
+      - P495   # country of origin
+      - P9161  # thesis committee member
+      - P50    # author
+      - P1433  # published in
+
+  culture:
+    type: relational
+    indicators:
+      P1343:       # described by source
+      P1269:       # facet of
+      P180:        # depicts
+      P2341:       # indigenous to
+      P1382:       # partially coincident with
+      P31:  # instance of
+        - Q41710    # ethnic group
+        - Q1697305  # narrative motif
+        # Hub update round 2
+        - Q1792379  # art genre
+        # Hub update round 9
+        - Q25484644 # architectural style of an area
+        # Hub update round 10
+        - Q1792644  # art style
+        # Hub update round 2 (second pass)
+        - Q1406161  # artistic theme
+        - Q11177771 # artistic technique
+        - Q16743958 # genre of painting
+        # Hub update round 3 (second pass)
+        - Q3326717  # literary movement
+        # Hub update round 6 (second pass)
+        - Q2198855  # cultural movement
+        # Hub update: manual batch
+        - Q11514315 # historical period
+        - Q56055944 # type of arts
+        - Q109551565 # sub-set of literature
+        - Q483394   # genre
+        - Q42907216 # video game theme
+        - Q17544377 # history of a country or state
+    value_props:
+      - P1343  # described by source
+      - P1269  # facet of
+      - P180   # depicts
+      - P2341  # indigenous to
+      - P1382  # partially coincident with
+
+  society:
+    type: relational
+    indicators:
+      P461:        # opposite of
+      P31:  # instance of
+        - Q602884   # social phenomenon
+        - Q48264    # gender identity
+        - Q41710    # ethnic group
+        - Q171318   # kinship
+    value_props:
+      - P461   # opposite of
+
+  award:
+    type: relational
+    indicators:
+      P2517:       # category for recipients of this award
+      P3729:       # next lower rank
+      P3730:       # next higher rank
+      P1027:       # conferred by
+      P31:  # instance of
+        - Q38033430  # class of award
+        - Q107655869 # group of awards
+        - Q60754876  # grade of an order
+        - Q193622    # order
+        - Q1788716   # military decoration
+        - Q24017414  # second-order class
+        # Hub update round 1
+        - Q3320743   # title of honor
+        - Q116374627 # Soviet state award
+        - Q18328097  # courage award
+        # Hub update round 1 (second pass)
+        - Q20006438  # fellowship award
+        - Q11796413  # decoration
+        - Q973011    # campaign medal
+        - Q131647    # medallion
+        - Q2693624   # jubilee medal
+        - Q2003221   # order of chivalry
+        - Q4121104   # sports title
+        - Q18677266  # order of merit
+        - Q19020     # Academy Awards
+        # Hub update round 2 (second pass)
+        - Q4220917   # film award
+        - Q1709894   # journalism prize
+        - Q25536240  # mathematics award
+        - Q5124642   # civil decoration
+        - Q107471043 # statistics award
+        - Q55956975  # honorary sporting title
+        - Q4375509   # official honorary title of RSFSR
+        - Q4375520   # official honorary title of Russia
+        - Q42245028  # sports hall of fame
+        # Hub update round 3 (second pass)
+        - Q13257647  # service award
+        - Q3302125   # state decoration
+        - Q56291528  # state order
+        - Q6866472   # ministerial awards of the Russian Federation
+    value_props:
+      - P2517  # category for recipients of this award
+      - P3729  # next lower rank
+      - P3730  # next higher rank
+      - P1027  # conferred by
+
+  authorship:
+    type: relational
+    indicators:
+      P138:        # named after
+      P61:         # discoverer or inventor
+      P50:         # author
+      P1433:       # published in
+      P123:        # publisher
+      P495:        # country of origin
+      P2860:       # cites work
+      P3931:       # copyright holder
+    value_props:
+      - P138   # named after
+      - P61    # discoverer or inventor
+      - P50    # author
+      - P1433  # published in
+      - P6216  # copyright status
+      - P123   # publisher
+      - P495   # country of origin
+      - P275   # copyright license
+      - P2860  # cites work
+      - P6954  # online access status
+      - P3931  # copyright holder

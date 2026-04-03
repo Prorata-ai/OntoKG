@@ -1,0 +1,1813 @@
+# Places Category Tags
+
+gate_qids:
+  # Geographic features
+  - Q79007     # street
+  - Q4022      # river
+  - Q54050     # hill
+  - Q486972    # human settlement
+  - Q23397     # lake
+  - Q532       # village
+  - Q47521     # stream
+  - Q355304    # watercourse
+  - Q39816     # valley
+  - Q34442     # road
+  - Q5084      # hamlet
+  - Q22698     # park
+  - Q39594     # bay
+  - Q187971    # wadi
+  - Q26211545  # desa
+  - Q12323     # dam
+  - Q17343829  # unincorporated community in the United States
+  - Q124714    # spring
+  - Q3558970   # village of Poland
+  - Q56436498  # village in India
+  - Q253019    # Ortsteil
+  - Q21672098  # village of Ukraine
+  - Q484170    # commune of France
+  - Q24529780  # point
+  - Q12284     # canal
+  - Q34763     # peninsula
+  - Q735428    # town of China
+  - Q65661087  # village in Belarus
+  - Q1529096   # village of Turkey
+  - Q17051044  # mahalle
+  - Q46831     # mountain range
+  - Q2042028   # ravine
+  - Q123705    # neighborhood
+  - Q740445    # ridge
+  - Q1134686   # frazione
+  - Q985488    # residential community
+  - Q30198     # marsh
+  - Q3257686   # locality
+  - Q4421      # forest
+  - Q207524    # islet
+  - Q13360578  # thatched cottage
+  - Q207326    # summit
+  - Q18663566  # dissolved municipality of Japan
+  - Q2732840   # gram panchayat
+  - Q133056    # mountain pass
+  - Q40080     # beach
+  - Q166735    # swamp
+  - Q184358    # reef
+  - Q179049    # nature reserve
+  - Q108325    # chapel
+  - Q1303167   # barn
+  - Q473972    # protected area
+  - Q3957      # town
+  - Q131681    # reservoir
+  - Q15303838  # municipality seat
+  - Q13100073  # village of the People's Republic of China
+  # Buildings and structures
+  - Q41176     # building
+  - Q3947      # house
+  - Q811979    # architectural structure
+  - Q41253     # movie theater
+  - Q33506     # museum
+  - Q7075      # library
+  - Q489357    # farmhouse
+  - Q5783996   # cottage
+  - Q2341654   # stone setting
+  # Original entries
+  - Q328468    # Nazi concentration camp
+  - Q4989906   # monument
+  - Q5003624   # memorial
+  - Q839954    # archaeological site
+  - Q9259      # World Heritage Site
+  - Q16970     # church building
+  - Q2977      # cathedral
+  - Q32815     # mosque
+  - Q44539     # temple
+  - Q34627     # synagogue
+  - Q44613     # monastery
+  - Q153562    # opera house
+  - Q1060829   # concert hall
+  - Q207694    # art museum
+  - Q483110    # stadium
+  - Q641226    # arena
+  - Q1248784   # airport
+  - Q55488     # railway station
+  - Q928830    # metro station
+  - Q12280     # bridge
+  - Q39715     # lighthouse
+  - Q11303     # skyscraper
+  - Q16560     # palace
+  - Q23413     # castle
+  - Q16831714  # government building
+  - Q8502      # mountain
+  - Q35509     # cave
+  - Q23442     # island
+  - Q515       # city
+  - Q1549591   # big city
+  - Q200250    # metropolis
+  # Infrastructure additions
+  - Q61443690  # branch post office
+  - Q820477    # mine
+  - Q174782    # square
+  # Transportation additions
+  - Q728937    # railway line
+  # Settlement additions
+  - Q20202352  # locality of Mexico
+  - Q2389082   # commune of Vietnam
+  - Q1093829   # city in the United States
+  - Q1500350   # township of China
+  - Q479053    # gromada
+  - Q5852411   # state of Australia
+  - Q1351282   # crown colony
+  - Q5770918   # city of Argentina
+  - Q35657     # U.S. state
+  - Q6256      # country
+  - Q3624078   # sovereign state
+  - Q1187580   # non-metropolitan district
+  # Hub update round 1
+  - Q122987743 # community development block in West Bengal
+  - Q1149652   # district of India
+  - Q465842    # state of Nigeria
+  - Q1523821   # socken
+  # Nature additions
+  - Q34038     # waterfall
+  - Q185113    # cape
+  # Culture additions
+  - Q1516079   # cultural heritage ensemble
+  - Q39614     # cemetery
+
+  - Q1021645  # office building
+  - Q1137809  # courthouse
+  - Q11691  # stock exchange
+  - Q11755880  # residential building
+  - Q1244442  # school building
+  - Q1329623  # cultural center
+  - Q165  # sea
+  - Q18761864  # bank building
+  - Q27686  # hotel
+  - Q3238337  # mythical location
+  - Q3950  # villa
+  - Q66344  # central bank
+  - Q9430  # ocean
+  # Heritage additions
+  - Q575759   # war memorial
+  - Q26703203 # Stolperstein
+  - Q22969563 # Bodendenkmal
+  # Infrastructure additions
+  - Q128302279 # gas station
+  - Q61443650  # sub post office
+  # Nature/Settlement additions
+  - Q2151232   # townland
+  - Q104093746 # lake or pond
+  - Q1195098   # ward
+  # Residence additions
+  - Q585956    # masia
+  # Culture additions
+  - Q28564     # public library
+  # Finance additions
+  - Q65954115  # State Bank of India branch
+  - Q65244937  # private nature reserve
+  - Q28337     # shoal
+  - Q17018380  # bight
+  - Q35666     # glacier
+  - Q160091    # plain
+  - Q107679    # cliff
+  - Q986065    # subdistrict in China
+  - Q965568    # kelurahan
+  - Q20541692  # settlement in Galicia
+  - Q61089180  # municipal part of the Czech Republic
+  - Q1077097   # tambon
+  - Q3700011   # kecamatan
+  - Q2116450   # manor estate
+  - Q751876    # château
+  - Q845945    # Shinto shrine
+  - Q607241    # clergy house
+  - Q842402    # Hindu temple
+  - Q190107    # weather station
+  - Q483453    # fountain
+  - Q131862    # triangulation station
+  - Q2175765   # tram stop
+  - Q173387    # grave
+  - Q15243209  # historic district
+  - Q2065736   # cultural property
+  - Q42948     # wall
+  - Q212198    # pub
+  - Q55659167  # natural watercourse
+  - Q736917    # geological formation
+  - Q187223    # lagoon
+  - Q4285979   # gampong
+  - Q12488913  # kampung of Papua
+  - Q188509    # suburb
+  - Q498162    # census-designated place in the United States
+  - Q18389975  # flat
+  - Q24354     # theatre building
+  - Q1076486   # sports venue
+  - Q537127    # road bridge
+  - Q277760    # gatehouse
+  - Q10145     # milestone
+  - Q11315     # shopping center
+  - Q358       # heritage site
+  - Q61278455  # health sub-centre
+  - Q12719646  # pond
+  - Q3253281   # artificial pond
+  - Q1191622   # Special Area of Conservation
+  - Q11183787  # Ortschaft
+  - Q116457956 # municipality without town privileges in Germany
+  - Q747074    # commune of Italy
+  - Q28931760  # parish of New South Wales
+  - Q1362233   # Upper Lusatian house
+  - Q654772    # hostel
+  - Q12763914  # third-class road
+  - Q953806    # bus stop
+  - Q502074    # heliport
+  - Q62447     # aerodrome
+  - Q112793351 # casa consistorial
+  - Q65954144  # Canara Bank branch
+  - Q65954135  # ICICI Bank branch
+  - Q66619497  # HDFC Bank branch
+  - Q65954142  # Bank of Baroda branch
+  - Q65954138  # Axis Bank branch
+  - Q718966    # doctor's office
+  - Q1210950   # channel
+  - Q3240227   # raised bog
+  - Q16887036  # gap
+  - Q207934    # avenue
+  - Q211748    # oil field
+  - Q214252    # stable
+  - Q17376095  # cadastral municipality of Austria
+  - Q2074737   # municipality of Spain
+  - Q126020951 # ward of Papua New Guinea
+  - Q5153359   # municipality of the Czech Republic
+  - Q7930614   # village of Taiwan
+  - Q2514025   # posyolok
+  - Q634099    # rural settlement in Russia
+  - Q2500304   # electoral division
+  - Q11707     # restaurant
+  - Q478251    # bar
+  - Q25550691  # city hall
+  - Q335778    # polling place
+  - Q83554028  # Gendarmerie barracks
+  - Q55678     # railway stop
+  - Q5393308   # Buddhist temple
+  - Q3395121   # wayside shrine
+  - Q179700    # statue
+  - Q721747    # commemorative plaque
+  - Q852190    # shipwreck
+  - Q73580208  # Central Bank of India branch
+  - Q71713967  # Union Bank of India branch
+  - Q73839412  # Indian Overseas Bank branch
+  - Q65954125  # Yes Bank branch
+  - Q69529214  # Allahabad Bank branch
+  - Q73986959  # Indian Bank branch
+  - Q2221906   # geographic location
+  - Q1402592   # island group
+  - Q813672    # basin
+  - Q1400565   # spur
+  - Q111816862 # basin
+  - Q4845841   # settlement in Croatia
+  - Q15127012  # town in the United States
+  - Q3184121   # municipality of Brazil
+  - Q14757767  # fourth-level administrative division
+  - Q61878     # barangay
+  - Q12397176  # civil parish of Galicia
+  - Q5327369   # chōchō
+  - Q3055118   # single entity of population
+  - Q50231     # administrative territorial entity of the People's Republic of China
+  - Q22683078  # parish of Uganda
+  - Q15630849  # village of Bulgaria
+  - Q56061     # administrative territorial entity
+  - Q60169073  # ward of Nigeria
+  - Q28111     # township in the United States
+  - Q3910694   # civil parish
+  - Q35054     # post office
+  - Q7543083   # avenue
+  - Q1003207   # photovoltaic power station
+  - Q10480682  # agricultural structure
+  - Q131596    # farm
+  - Q53060     # gate
+  - Q2048319   # ditch
+  - Q3917681   # embassy
+  - Q879050    # manor house
+  - Q875016    # terrace house
+  - Q734271    # mass grave
+  - Q2046310   # bowl barrow
+  - Q73717181  # Industrial Development Bank of India branch
+  - Q66496996  # Andhra Bank branch
+  - Q66877717  # UCO Bank branch
+  - Q66768699  # Corporation Bank branch
+  - Q66576265  # Bank of India branch
+  - Q385994    # special library
+  - Q25391    # dune
+  - Q695793   # rapids
+  - Q5926864  # group of lakes
+  - Q591942   # distributary
+  - Q2624046  # mountain chain
+  - Q87193797 # tjern
+  - Q47089    # fault
+  - Q811534   # remarkable tree
+  - Q104146934 # United States of America state-level electoral district
+  - Q111904027 # commune of Greece
+  - Q18333556  # registration district in Sweden
+  - Q490329    # dong of South Korea
+  - Q51049922  # village
+  - Q1723032   # kamienica
+  - Q109838242 # thatched farmhouse
+  - Q3649129   # cabana
+  - Q2460422   # guest house
+  - Q317557   # parish church
+  - Q1399033  # statio
+  - Q2376564  # interchange
+  - Q3044808  # outbuilding
+  - Q5527082  # gatepost
+  - Q61663696 # bicycle-sharing station
+  - Q44782    # port
+  - Q567998   # bathing site
+  - Q152081    # concentration camp
+  - Q15120977  # grave cairn
+  - Q40211238  # churchyard wall
+  - Q918230    # Roman villa
+  - Q19833736  # chest tomb
+  - Q203443    # tombstone
+  - Q381885    # tomb
+  - Q2319498   # architectural landmark
+  - Q106817283 # K6 telephone box
+  - Q200764   # bookstore
+  - Q2326815  # municipal library
+  - Q5728070  # popular library
+  - Q73865589 # Syndicate Bank branch
+  - Q71574305 # United Bank of India branch
+  - Q70081950 # Bank of Maharashtra branch
+  - Q3240003  # bus route
+  - Q4663385  # former railway station
+  - Q336764  # railway junction
+  - Q192611  # electoral unit
+  - Q56885635  # dispersed rural community
+  - Q14839548  # minor locality in Sweden
+  - Q155239  # Indian reservation of Canada
+  - Q1484611  # buurtschap
+  - Q15071808  # rural council of Belarus
+  - Q184188  # canton of France
+  - Q1530705  # village development committee of Nepal
+  - Q3812392  # union council of Bangladesh
+  - Q589282  # ward or electoral division of the United Kingdom
+  - Q5154047  # quarter/commune of Cambodia
+  - Q28930084  # parish of Victoria
+  - Q2590631  # municipality of Hungary
+  - Q5951278  # urban area of the United States
+  - Q659103  # commune of Romania
+  - Q15125752  # rural district of Iran
+  - Q427287  # wat
+  - Q54074585  # Tibetan Buddhist monastery
+  - Q19796778  # route départementale
+  - Q15911738  # hydroelectric power station
+  - Q89021600  # B road
+  - Q748998  # fire lookout tower
+  - Q1251403  # alley
+  - Q63565252  # brook
+  - Q150784  # canyon
+  - Q3177968  # waterhole
+  - Q8514  # desert
+  - Q618123  # geographical feature
+  - Q13402009  # apartment building
+  - Q1081138  # historic site
+  - Q35112127  # historic building
+  - Q101659  # dolmen
+  - Q1785071  # fort
+  - Q10300916  # cultural heritage of China
+  - Q2309609  # wayside cross
+  - Q74539826  # Kotak Mahindra Bank branch
+  - Q66771621  # Dena Bank branch
+  - Q73887153  # Oriental Bank of Commerce branch
+  # Heritage additions
+  - Q210272    # cultural heritage
+  - Q7321974   # cairn
+  - Q10855061  # archaeological find
+  - Q109607    # ruins
+  - Q2046325   # round barrow
+  - Q34023     # tumulus
+  - Q64374896  # World War II memorial
+  - Q28045079  # contour fort
+  - Q162875    # mausoleum
+  - Q744099    # hillfort
+  - Q2583015   # ghetto in Nazi-occupied Europe
+  - Q193475    # menhir
+  - Q56055312  # sepulchral monument
+  - Q14750991  # Commonwealth War Graves Commission maintained cemetery
+  - Q3329412   # archaeological museum
+  - Q1820704   # clearance cairn
+  - Q465299    # archaeological culture
+  - Q15072800  # cemetery cross
+  - Q30634609  # heritage designation
+  - Q231685    # stations of the Cross
+  - Q2330559   # standing stone
+  - Q23790     # natural monument
+  - Q1241568   # military cemetery
+  - Q11734477  # memorial stone
+  # Infrastructure additions
+  - Q1210334   # railway bridge
+  - Q43483     # water well
+  - Q921099    # boundary marker
+  - Q1068842   # footbridge
+  - Q12731     # dead end street
+  - Q3498533   # natural gas-fired power station
+  - Q113990375 # ELR railway line section
+  - Q114768    # granary
+  - Q503958    # streetlight
+  - Q1254933   # astronomical observatory
+  - Q948878    # dovecote
+  - Q105731    # lock
+  - Q1311958   # railway tunnel
+  - Q188040    # quarry
+  - Q46622     # controlled-access highway
+  - Q50687555  # onshore wind farm
+  - Q274153    # water tower
+  - Q959309    # coal mine
+  - Q261604    # oil-fired power station
+  - Q1440300   # observation tower
+  - Q1427536   # gas turbine power station
+  - Q200334    # bell tower
+  - Q72030539  # farmstead
+  - Q114359721 # NOAA Weather Radio station
+  - Q159719    # power station
+  - Q194356    # wind farm
+  - Q158438    # arch bridge
+  - Q44377     # tunnel
+  - Q109874977 # thatched barn
+  - Q474       # aqueduct
+  - Q269949    # highway
+  - Q846837    # automatic weather station
+  - Q863454    # pier
+  - Q2145163   # trunk road
+  - Q3397526   # stone bridge
+  - Q213643    # silo
+  - Q1788582   # state highway
+  - Q2116321   # rail trail
+  - Q391414    # architectural element
+  # Settlement additions
+  - Q2983893   # quarter
+  - Q82794     # region
+  - Q102496    # parish
+  - Q22674925  # former settlement
+  - Q74047     # ghost town
+  - Q23012917  # village of Burkina Faso
+  - Q15661340  # ancient city
+  - Q1348006   # city block
+  - Q1964689   # fictional city
+  - Q1406318   # holiday village
+  - Q1754946   # rural district
+  - Q1989945   # agrotown
+  # Residence additions
+  - Q655686    # commercial building
+  - Q5773747   # historic house
+  - Q19844914  # university building
+  - Q1497364   # building complex
+  - Q1365179   # private mansion
+  - Q1078374   # tenement
+  - Q2932238   # dry stone hut
+  - Q17715832  # castle ruin
+  - Q1021106   # bourgeois house
+  - Q1662011   # industrial building
+  - Q56822897  # mill building
+  - Q1307276   # single-family detached home
+  - Q18142     # tower block
+  # Nature additions
+  - Q22746     # urban park
+  - Q372363    # geotope
+  - Q422211    # Site of Special Scientific Interest
+  - Q170321    # wetland
+  - Q16465938  # seasonal river
+  - Q15069452  # Natura 2000 site
+  - Q37901     # strait
+  - Q10862618  # mountain saddle
+  - Q75520     # plateau
+  - Q45776     # fjord
+  - Q8072      # volcano
+  - Q33837     # archipelago
+  - Q1437299   # creek
+  - Q10594991  # nature area
+  # Commerce additions
+  - Q185187    # watermill
+  - Q38720     # windmill
+  - Q132510    # market
+  - Q83405     # factory
+  - Q44494     # mill
+  - Q256020    # inn
+  - Q213441    # shop
+  - Q131734    # brewery
+  - Q5526694   # Gasthaus
+  - Q507619    # retail chain
+  - Q18534542  # restaurant chain
+  - Q156362    # winery
+  - Q30022     # café
+  - Q475000    # stock market
+  - Q181623    # warehouse
+  - Q2080521   # market hall
+  - Q216107    # department store
+  - Q63099748  # hotel building
+  # Religion additions
+  - Q1424583   # sepulchral chapel
+  - Q56242063  # Protestant church building
+  - Q1088552   # Catholic church building
+  - Q2031836   # Eastern Orthodox church building
+  - Q3146899   # diocese of the Catholic Church
+  - Q1129743   # filial church
+  - Q56242215  # Catholic cathedral
+  - Q55876909  # Catholic parish church
+  - Q160742    # abbey
+  - Q3208559   # Candomblé terreiro
+  - Q1128397   # convent
+  - Q56750657  # hermitage church
+  - Q838159    # türbe
+  - Q2750108   # priory
+  - Q12661150  # column shrine
+  - Q2680845   # Chinese temple
+  - Q744296    # wooden church
+  - Q14552192  # chapel-shrine
+  - Q15976349  # church organ
+  - Q24398318  # religious building
+  - Q697295    # shrine
+  - Q1454583   # Masonic temple
+  - Q120560    # minor basilica
+  - Q19899465  # former church
+  - Q17485079  # church ruin
+  # Administration additions
+  - Q1131296   # freguesia of Portugal
+  - Q96759164  # geographic township of Ontario
+  - Q56046844  # former freguesia of Portugal
+  - Q12225020  # uzlah
+  - Q22996476  # ayuntamiento
+  - Q17202187  # federal electoral district of Canada
+  - Q20871353  # cadastral area in the Czech Republic
+  - Q15642541  # human-geographic territorial entity
+  - Q23019040  # geographic township of Quebec
+  - Q130489487 # school district of the Philippines
+  - Q15726209  # school district in the United States
+  - Q27002     # selsoviet
+  - Q17166756  # United States congressional district
+  - Q194203    # arrondissement of France
+  - Q3623867   # arrondissement of Benin
+  - Q13221722  # third-level administrative division
+  - Q13220204  # second-level administrative division
+  - Q424857    # ōaza
+  - Q27971968  # constituency of the House of Commons
+  # Transportation additions
+  - Q1195942   # fire station
+  - Q494829    # bus station
+  - Q283202    # harbor
+  - Q27996460  # Haltepunkt
+  - Q1187691   # roadside station in Japan
+  - Q15640053  # tram system
+  - Q1420027   # fishing port
+  - Q27996466  # Bahnhof
+  - Q11997323  # lifeboat station
+  - Q644371    # international airport
+  - Q15079663  # rapid transit line
+  - Q1339195   # station building
+  # Culture additions
+  - Q856234    # academic library
+  - Q604177    # municipal archive
+  - Q1007870   # art gallery
+  - Q1622062   # university library
+  - Q43501     # zoo
+  - Q12317349  # main library
+  - Q1595639   # local museum
+  - Q16735822  # history museum
+  - Q11396180  # library branch
+  - Q3621673   # historical archive
+  - Q1076099   # school library
+  - Q244904    # deposit archive
+  - Q2772772   # military museum
+  - Q24699794  # museum building
+  - Q856584    # library building
+  - Q105763925 # conservation library
+  - Q124830213 # museum of a public entity
+  - Q380829    # private library
+  - Q12104174  # ethnographic museum
+  - Q27032363  # photo archive
+  - Q1970365   # natural history museum
+  - Q3621648   # current archive
+  - Q1438040   # research library
+  - Q11183017  # sylvan theater
+  # Government additions
+  - Q543654    # Rathaus
+  - Q861951    # police station
+  - Q64037785  # county courthouse
+  - Q131263    # barracks
+  # Military additions
+  - Q695850    # air base
+  - Q57831     # fortress
+  - Q91122     # bunker
+  - Q245016    # military base
+  - Q92086     # promontory fort
+  - Q947103    # watchtower
+  - Q57821     # fortification
+  # Entertainment additions
+  - Q1154710   # association football venue
+  - Q17350442  # venue
+  - Q8719053   # music venue
+  - Q18674739  # event venue
+  - Q595452    # baseball venue
+  # Sports additions
+  - Q692630    # outdoor gym
+  - Q11875349  # playground
+  - Q338112    # recreation area
+  - Q2338524   # motorsport racing track
+  # Education additions
+  - Q209465    # campus
+  # Healthcare additions
+  - Q1774898   # clinic
+  - Q569500    # community health center
+  # Finance additions
+  - Q73634133  # City Union Bank Limited branch
+  - Q66538936  # Vijaya Bank branch
+  - Q67646671  # South Indian Bank branch
+  - Q75543355  # Jammu & Kashmir Bank branch
+  # Infrastructure additions
+  - Q757292    # border checkpoint
+  # Nature additions
+  - Q188913    # plantation
+  - Q759421    # Naturschutzgebiet
+  # Healthcare additions
+  - Q7243073   # primary health centre
+  # Hub update round 2 — administration
+  - Q1138494   # historic county of England
+  - Q746290    # state of Sudan
+  - Q505830    # district of Sudan
+  # Hub update round 2 — infrastructure
+  - Q358078    # road network
+  # Hub update round 2 — transportation
+  - Q5503      # rapid transit
+  # Hub update round 3 — administration
+  - Q50337     # prefecture of Japan
+  - Q42744322  # urban municipality in Germany
+  - Q15060255  # council area
+  - Q769603    # non-metropolitan county
+  - Q1053630   # province of Papua New Guinea
+  - Q845643    # region of Morocco
+  - Q1221156   # federated state of Germany
+  - Q19953632  # former administrative territorial entity
+  # Hub update round 4 — administration
+  - Q11828004  # province of Canada
+  - Q180673    # ceremonial county of England
+  - Q15830667  # quarter of Hamburg
+  - Q7897276   # unparished area
+  - Q134626    # district capital
+  - Q62049     # county seat
+  - Q2039348   # municipality of the Netherlands
+  - Q18511725  # market town
+  - Q14942893  # district of Papua New Guinea
+  - Q3539870   # district of Uganda
+  - Q1136601   # unitary authority area in England
+  - Q35034452  # locality of Berlin
+  - Q15629582  # province of Morocco
+  # Hub update round 4 — heritage
+  - Q1343246   # English country house
+  # Hub update round 5 — administration
+  - Q1002812   # metropolitan borough
+  - Q12443800  # state of India
+  - Q21503295  # district with city status
+  # Hub update round 6 — administration
+  - Q493522    # municipality of Belgium
+  - Q211690    # London borough
+  - Q1006876   # borough in the United Kingdom
+  - Q21457810  # Scottish district
+  - Q15284     # municipality
+  # Hub update round 7 — administration
+  - Q2177636   # municipality of Denmark
+  - Q43263     # federal subject of Russia
+  - Q545769    # district of Ghana
+  - Q2881272   # district of New Zealand
+  - Q127448    # municipality of Sweden
+  - Q3199141   # city of Indonesia
+  # Hub update round 8 — administration
+  - Q70208     # Municipality of Switzerland
+  - Q1052743   # region of Ghana
+  - Q755707    # municipality of Norway
+  - Q705296    # district of Taiwan
+  - Q4200298   # distrik
+  - Q1349648   # municipality of Greece
+  - Q1639634   # local government area of Nigeria
+  - Q494721    # city of Japan
+  - Q1115575   # civil parish
+  # Hub update round 9 — administration
+  - Q3191695   # regency of Indonesia
+  - Q12131624  # city in Ukraine
+  - Q1267632   # raion of Ukraine
+  - Q518343    # municipal borough
+  - Q10742     # autonomous community of Spain
+  # Hub update round 10 — administration
+  - Q56557504  # city of Iran
+  - Q33146843  # municipality of Catalonia
+  - Q17143371  # county of South Korea
+  - Q835714    # oblast of Russia
+  # Hub update round 9 — infrastructure
+  - Q3238851   # main line
+  # Hub update round 1 (second pass) — culture
+  - Q3196771   # art museum
+  - Q22806     # national library
+  # Hub update round 1 (second pass) — administration
+  - Q67376938  # historic county of the United Kingdom
+  # Hub update round 9 — dwelling
+  - Q16884952  # country house
+  # Hub update round 2 (second pass) — administration
+  - Q1857731   # historic county of Wales
+  - Q3502482   # cultural region
+  - Q13218690  # town in Hungary
+  - Q193556    # province of Sweden
+  # Hub update round 3 (second pass) — administration
+  - Q5098       # province of Indonesia
+  - Q191093     # province of South Africa
+  - Q1350181    # shire of Scotland
+  - Q821435     # borough of Berlin
+  # Hub update round 3 (second pass) — heritage
+  - Q2087181    # historic house museum
+  # Hub update round 3 (second pass) — gate only
+  - Q12413618   # international border
+  # Hub update round 4 (second pass) — administration
+  - Q5107       # continent
+  - Q485258     # federative unit of Brazil
+  - Q3301053    # consolidated city-county
+  - Q179872     # county of Ireland
+  - Q702842     # municipal arrondissement of France
+  # Hub update round 4 (second pass) — dwelling
+  - Q676050     # old town
+  - Q1497375    # architectural ensemble
+  # Hub update round 5 (second pass) — administration
+  - Q1317848    # county of Northern Ireland
+  - Q57368      # district of Botswana
+  - Q13217644   # municipality of Portugal
+  - Q15079751   # borough of Amsterdam
+  - Q23925382   # arrondissement of Morocco
+  - Q13212489   # county of California
+  - Q161243     # dependent territory
+  - Q1620908    # historical region
+  # Hub update round 5 (second pass) — transportation
+  - Q655677     # branch line
+  - Q69502391   # bus rapid transit route
+  # Hub update round 6 (second pass) — administration
+  - Q15901936   # district of South Korea
+  - Q15634846   # district of Seoul
+  - Q7925010    # vice-county
+  - Q15979307   # principal area of Wales
+  - Q6465       # department of France
+  - Q114072597  # former raion of Ukraine
+  - Q2276925    # municipality of Galicia
+  - Q10864048   # first-level administrative division
+  - Q5327704    # special ward of Japan
+  - Q16110      # region of Italy
+  - Q137535     # county of Iran
+  - Q12813115   # urban area in Sweden
+  - Q23058      # canton of Switzerland
+  # Hub update round 6 (second pass) — gate only
+  - Q337912     # pilgrims' way
+  # Hub update: manual batch — dwelling
+  - Q635719     # archive building
+  # Hub update: manual batch — gate only
+  - Q811102     # type of building
+  - Q180516     # room
+  # Hub update: manual batch — administration
+  - Q7275       # state
+  - Q2630741    # community
+  - Q4927168    # Block Panchayat
+
+
+core:
+  props:
+    - P31    # instance of
+    - P17    # country
+    - P625   # coordinate location
+    - P131   # located in the administrative territorial entity
+    - P18    # image
+    - P571   # inception
+    - P576   # dissolved, abolished or demolished date
+
+modules:
+  dwelling:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q3947     # house
+        - Q16560    # palace
+        - Q11755880 # residential building
+        - Q3950     # villa
+        - Q23413    # castle
+        - Q2116450  # manor estate
+        - Q751876   # château
+        - Q585956   # masia
+        - Q18389975 # flat
+        - Q1362233  # Upper Lusatian house
+        - Q879050   # manor house
+        - Q875016   # terrace house
+        - Q1723032  # kamienica
+        - Q109838242 # thatched farmhouse
+        - Q3649129  # cabana
+        - Q2460422  # guest house
+        - Q13402009  # apartment building
+        - Q489357   # farmhouse
+        - Q5783996  # cottage
+        - Q13360578 # thatched cottage
+        - Q655686    # commercial building
+        - Q5773747   # historic house
+        - Q19844914  # university building
+        - Q1497364   # building complex
+        - Q1365179   # private mansion
+        - Q1078374   # tenement
+        - Q2932238   # dry stone hut
+        - Q17715832  # castle ruin
+        - Q1021106   # bourgeois house
+        - Q1662011   # industrial building
+        - Q56822897  # mill building
+        - Q1307276   # single-family detached home
+        - Q18142     # tower block
+        # Hub update round 9
+        - Q16884952  # country house
+        # Hub update round 4 (second pass)
+        - Q676050    # old town
+        - Q1497375   # architectural ensemble
+        # Hub update: manual batch
+        - Q635719    # archive building
+    value_props:
+      - P1435   # heritage designation
+      - P7959   # historic county
+      - P276    # location
+      - P669    # located on street
+      - P2817   # appears in the heritage monument list
+      - P281    # postal code
+      - P7938   # associated electoral district
+      - P1343   # described by source
+      - P2044   # elevation above sea level
+      - P1448   # official name
+      - P527    # has part(s)
+      - P793    # significant event
+
+  commercial:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q1021645  # office building
+        - Q11303    # skyscraper
+        - Q27686    # hotel
+        - Q212198   # pub
+        - Q11315    # shopping center
+        - Q654772   # hostel
+        - Q11707    # restaurant
+        - Q478251   # bar
+        - Q41253    # movie theater
+        - Q185187    # watermill
+        - Q38720     # windmill
+        - Q132510    # market
+        - Q83405     # factory
+        - Q44494     # mill
+        - Q256020    # inn
+        - Q213441    # shop
+        - Q131734    # brewery
+        - Q5526694   # Gasthaus
+        - Q507619    # retail chain
+        - Q18534542  # restaurant chain
+        - Q156362    # winery
+        - Q30022     # café
+        - Q475000    # stock market
+        - Q181623    # warehouse
+        - Q2080521   # market hall
+        - Q216107    # department store
+        - Q63099748  # hotel building
+    value_props:
+      - P276    # location
+      - P137    # operator
+      - P444    # review score
+      - P452    # industry
+
+  culture:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q33506   # museum
+        - Q1060829 # concert hall
+        - Q7075    # library
+        - Q153562  # opera house
+        - Q207694  # art museum
+        - Q1329623 # cultural center
+        - Q1516079 # cultural heritage ensemble
+        - Q39614   # cemetery
+        - Q28564   # public library
+        - Q24354   # theatre building
+        - Q385994  # special library
+        - Q200764  # bookstore
+        - Q2326815 # municipal library
+        - Q5728070 # popular library
+        - Q856234    # academic library
+        - Q604177    # municipal archive
+        - Q1007870   # art gallery
+        - Q1622062   # university library
+        - Q43501     # zoo
+        - Q12317349  # main library
+        - Q1595639   # local museum
+        - Q16735822  # history museum
+        - Q11396180  # library branch
+        - Q3621673   # historical archive
+        - Q1076099   # school library
+        - Q244904    # deposit archive
+        - Q2772772   # military museum
+        - Q24699794  # museum building
+        - Q856584    # library building
+        - Q105763925 # conservation library
+        - Q124830213 # museum of a public entity
+        - Q380829    # private library
+        - Q12104174  # ethnographic museum
+        - Q27032363  # photo archive
+        - Q1970365   # natural history museum
+        - Q3621648   # current archive
+        - Q1438040   # research library
+        - Q11183017  # sylvan theater
+        # Hub update round 1 (second pass)
+        - Q3196771   # art museum
+        - Q22806     # national library
+      P1435:       # heritage designation
+      P2817:       # appears in the heritage monument list
+      P669:        # located on street
+      P140:        # religion or worldview
+      P708:        # diocese
+    value_props:
+      - P1435   # heritage designation
+      - P276    # location
+      - P2817   # appears in the heritage monument list
+      - P669    # located on street
+      - P140    # religion or worldview
+      - P708    # diocese
+
+  religion:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q16970   # church building
+        - Q44539   # temple
+        - Q32815   # mosque
+        - Q34627   # synagogue
+        - Q2977    # cathedral
+        - Q44613   # monastery
+        - Q845945  # Shinto shrine
+        - Q607241  # clergy house
+        - Q842402  # Hindu temple
+        - Q5393308 # Buddhist temple
+        - Q3395121 # wayside shrine
+        - Q317557  # parish church
+        - Q1399033 # statio
+        - Q427287  # wat
+        - Q54074585 # Tibetan Buddhist monastery
+        - Q108325  # chapel
+        - Q3238337 # mythical location
+        - Q1424583   # sepulchral chapel
+        - Q56242063  # Protestant church building
+        - Q1088552   # Catholic church building
+        - Q2031836   # Eastern Orthodox church building
+        - Q3146899   # diocese of the Catholic Church
+        - Q1129743   # filial church
+        - Q56242215  # Catholic cathedral
+        - Q55876909  # Catholic parish church
+        - Q160742    # abbey
+        - Q3208559   # Candomblé terreiro
+        - Q1128397   # convent
+        - Q56750657  # hermitage church
+        - Q838159    # türbe
+        - Q2750108   # priory
+        - Q12661150  # column shrine
+        - Q2680845   # Chinese temple
+        - Q744296    # wooden church
+        - Q14552192  # chapel-shrine
+        - Q15976349  # church organ
+        - Q24398318  # religious building
+        - Q697295    # shrine
+        - Q1454583   # Masonic temple
+        - Q120560    # minor basilica
+        - Q19899465  # former church
+        - Q17485079  # church ruin
+      P140:        # religion or worldview
+      P825:        # dedicated to
+      P708:        # diocese
+      P5607:       # located in the religious territorial entity
+      P1435:       # heritage designation
+      P2817:       # appears in the heritage monument list
+      P3501:       # Christian liturgical rite
+    value_props:
+      - P140    # religion or worldview
+      - P825    # dedicated to
+      - P708    # diocese
+      - P5607   # located in the religious territorial entity
+      - P1435   # heritage designation
+      - P276    # location
+      - P2817   # appears in the heritage monument list
+      - P3501   # Christian liturgical rite
+
+  infrastructure:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q79007   # street
+        - Q757292  # border checkpoint
+        - Q34442   # road
+        - Q1303167 # barn
+        - Q12323   # dam
+        - Q12284   # canal
+        - Q12280   # bridge
+        - Q39715   # lighthouse
+        - Q61443690 # branch post office
+        - Q820477  # mine
+        - Q174782  # square
+        - Q128302279 # gas station
+        - Q61443650  # sub post office
+        - Q190107  # weather station
+        - Q483453  # fountain
+        - Q131862  # triangulation station
+        - Q537127  # road bridge
+        - Q277760  # gatehouse
+        - Q10145   # milestone
+        - Q12763914 # third-class road
+        - Q207934  # avenue
+        - Q211748  # oil field
+        - Q214252  # stable
+        - Q35054   # post office
+        - Q7543083 # avenue
+        - Q1003207 # photovoltaic power station
+        - Q10480682 # agricultural structure
+        - Q131596  # farm
+        - Q53060   # gate
+        - Q2048319 # ditch
+        - Q2376564 # interchange
+        - Q3044808 # outbuilding
+        - Q5527082 # gatepost
+        - Q61663696 # bicycle-sharing station
+        - Q44782   # port
+        - Q567998  # bathing site
+        - Q19796778  # route départementale
+        - Q15911738  # hydroelectric power station
+        - Q89021600  # B road
+        - Q748998  # fire lookout tower
+        - Q1251403  # alley
+        - Q1210334   # railway bridge
+        - Q43483     # water well
+        - Q921099    # boundary marker
+        - Q1068842   # footbridge
+        - Q12731     # dead end street
+        - Q3498533   # natural gas-fired power station
+        - Q113990375 # ELR railway line section
+        - Q114768    # granary
+        - Q503958    # streetlight
+        - Q1254933   # astronomical observatory
+        - Q948878    # dovecote
+        - Q105731    # lock
+        - Q1311958   # railway tunnel
+        - Q188040    # quarry
+        - Q46622     # controlled-access highway
+        - Q50687555  # onshore wind farm
+        - Q274153    # water tower
+        - Q959309    # coal mine
+        - Q261604    # oil-fired power station
+        - Q1440300   # observation tower
+        - Q1427536   # gas turbine power station
+        - Q200334    # bell tower
+        - Q72030539  # farmstead
+        - Q114359721 # NOAA Weather Radio station
+        - Q159719    # power station
+        - Q194356    # wind farm
+        - Q158438    # arch bridge
+        - Q44377     # tunnel
+        - Q109874977 # thatched barn
+        - Q474       # aqueduct
+        - Q269949    # highway
+        - Q846837    # automatic weather station
+        - Q863454    # pier
+        - Q2145163   # trunk road
+        - Q3397526   # stone bridge
+        - Q213643    # silo
+        - Q1788582   # state highway
+        - Q2116321   # rail trail
+        - Q391414    # architectural element
+        # Hub update round 2
+        - Q358078    # road network
+        # Hub update round 9
+        - Q3238851   # main line
+    value_props:
+      - P2043   # length
+      - P2048   # height
+      - P16     # transport network
+      - P1824   # road number
+      - P276    # location
+      - P281    # postal code
+      - P137    # operator
+      - P126    # maintained by
+      - P2789   # connects with
+
+  transportation:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q1248784 # airport
+        - Q55488   # railway station
+        - Q928830  # metro station
+        - Q728937  # railway line
+        - Q2175765 # tram stop
+        - Q953806  # bus stop
+        - Q502074  # heliport
+        - Q62447   # aerodrome
+        - Q55678   # railway stop
+        - Q3240003  # bus route
+        - Q4663385  # former railway station
+        - Q336764  # railway junction
+        - Q1195942   # fire station
+        - Q494829    # bus station
+        - Q283202    # harbor
+        - Q27996460  # Haltepunkt
+        - Q1187691   # roadside station in Japan
+        - Q15640053  # tram system
+        - Q1420027   # fishing port
+        - Q27996466  # Bahnhof
+        - Q11997323  # lifeboat station
+        - Q644371    # international airport
+        - Q15079663  # rapid transit line
+        - Q1339195   # station building
+        # Hub update round 2
+        - Q5503      # rapid transit
+        # Hub update round 5 (second pass)
+        - Q655677    # branch line
+        - Q69502391  # bus rapid transit route
+      P238:        # IATA airport code
+      P239:        # ICAO airport code
+      P81:         # connecting line
+      P197:        # adjacent station
+      P16:         # transport network
+      P1192:       # connecting service
+      P931:        # place served by transport hub
+      P795:        # located on linear feature
+    value_props:
+      - P81     # connecting line
+      - P197    # adjacent station
+      - P16     # transport network
+      - P137    # operator
+      - P1192   # connecting service
+      - P931    # place served by transport hub
+      - P795    # located on linear feature
+
+  government:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q16831714 # government building
+        - Q1137809  # courthouse
+        - Q112793351 # casa consistorial
+        - Q25550691 # city hall
+        - Q335778   # polling place
+        - Q83554028 # Gendarmerie barracks
+        - Q3917681  # embassy
+        - Q543654    # Rathaus
+        - Q861951    # police station
+        - Q64037785  # county courthouse
+        - Q131263    # barracks
+      P1001:       # applies to jurisdiction
+      P461:        # opposite of
+      P768:        # electoral district
+    value_props:
+      - P1001   # applies to jurisdiction
+      - P137    # operator
+      - P466    # occupant
+      - P461    # opposite of
+      - P159    # headquarters location
+      - P276    # location
+      - P768    # electoral district
+
+  administration:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q986065   # subdistrict in China
+        - Q965568   # kelurahan
+        - Q20541692 # settlement in Galicia
+        - Q61089180 # municipal part of the Czech Republic
+        - Q1077097  # tambon
+        - Q3700011  # kecamatan
+        - Q4285979  # gampong
+        - Q12488913 # kampung of Papua
+        - Q188509   # suburb
+        - Q498162   # census-designated place in the United States
+        - Q11183787 # Ortschaft
+        - Q116457956 # municipality without town privileges in Germany
+        - Q747074   # commune of Italy
+        - Q28931760 # parish of New South Wales
+        - Q17376095  # cadastral municipality of Austria
+        - Q2074737   # municipality of Spain
+        - Q126020951 # ward of Papua New Guinea
+        - Q5153359   # municipality of the Czech Republic
+        - Q7930614   # village of Taiwan
+        - Q2514025   # posyolok
+        - Q634099    # rural settlement in Russia
+        - Q2500304   # electoral division
+        - Q4845841   # settlement in Croatia
+        - Q15127012  # town in the United States
+        - Q3184121   # municipality of Brazil
+        - Q14757767  # fourth-level administrative division
+        - Q61878     # barangay
+        - Q12397176  # civil parish of Galicia
+        - Q5327369   # chōchō
+        - Q3055118   # single entity of population
+        - Q50231     # administrative territorial entity of the People's Republic of China
+        - Q22683078  # parish of Uganda
+        - Q15630849  # village of Bulgaria
+        - Q56061     # administrative territorial entity
+        - Q60169073  # ward of Nigeria
+        - Q28111     # township in the United States
+        - Q3910694   # civil parish
+        - Q104146934 # United States of America state-level electoral district
+        - Q111904027 # commune of Greece
+        - Q18333556  # registration district in Sweden
+        - Q490329    # dong of South Korea
+        - Q51049922  # village
+        - Q192611  # electoral unit
+        - Q56885635  # dispersed rural community
+        - Q14839548  # minor locality in Sweden
+        - Q155239  # Indian reservation of Canada
+        - Q1484611  # buurtschap
+        - Q15071808  # rural council of Belarus
+        - Q184188  # canton of France
+        - Q1530705  # village development committee of Nepal
+        - Q3812392  # union council of Bangladesh
+        - Q589282  # ward or electoral division of the United Kingdom
+        - Q5154047  # quarter/commune of Cambodia
+        - Q5852411  # state of Australia
+        - Q1351282  # crown colony
+        - Q5770918  # city of Argentina
+        - Q35657    # U.S. state
+        - Q6256     # country
+        - Q3624078  # sovereign state
+        - Q1187580  # non-metropolitan district
+        - Q28930084  # parish of Victoria
+        - Q2590631  # municipality of Hungary
+        - Q5951278  # urban area of the United States
+        - Q659103  # commune of Romania
+        - Q15125752  # rural district of Iran
+        - Q1131296   # freguesia of Portugal
+        - Q96759164  # geographic township of Ontario
+        - Q56046844  # former freguesia of Portugal
+        - Q12225020  # uzlah
+        - Q22996476  # ayuntamiento
+        - Q17202187  # federal electoral district of Canada
+        - Q20871353  # cadastral area in the Czech Republic
+        - Q15642541  # human-geographic territorial entity
+        - Q23019040  # geographic township of Quebec
+        - Q130489487 # school district of the Philippines
+        - Q15726209  # school district in the United States
+        - Q27002     # selsoviet
+        - Q17166756  # United States congressional district
+        - Q194203    # arrondissement of France
+        - Q3623867   # arrondissement of Benin
+        - Q13221722  # third-level administrative division
+        - Q13220204  # second-level administrative division
+        - Q424857    # ōaza
+        - Q27971968  # constituency of the House of Commons
+        # Merged from settlement
+        - Q515       # city
+        - Q1549591   # big city
+        - Q200250    # metropolis
+        - Q486972    # human settlement
+        - Q532       # village
+        - Q56436498  # village in India
+        - Q5084      # hamlet
+        - Q3558970   # village of Poland
+        - Q253019    # Ortsteil
+        - Q484170    # commune of France
+        - Q26211545  # desa
+        - Q17343829  # unincorporated community in the United States
+        - Q3957      # town
+        - Q735428    # town of China
+        - Q21672098  # village of Ukraine
+        - Q65661087  # village in Belarus
+        - Q17051044  # mahalle
+        - Q985488    # residential community
+        - Q1529096   # village of Turkey
+        - Q1134686   # frazione
+        - Q3257686   # locality
+        - Q13100073  # village of the People's Republic of China
+        - Q2732840   # gram panchayat
+        - Q18663566  # dissolved municipality of Japan
+        - Q15303838  # municipality seat
+        - Q123705    # neighborhood
+        - Q20202352  # locality of Mexico
+        - Q2389082   # commune of Vietnam
+        - Q1093829   # city in the United States
+        - Q1500350   # township of China
+        - Q479053    # gromada
+        - Q2151232   # townland
+        - Q1195098   # ward
+        - Q2983893   # quarter
+        - Q82794     # region
+        - Q102496    # parish
+        - Q22674925  # former settlement
+        - Q74047     # ghost town
+        - Q23012917  # village of Burkina Faso
+        - Q15661340  # ancient city
+        - Q1348006   # city block
+        - Q1964689   # fictional city
+        - Q1406318   # holiday village
+        - Q1754946   # rural district
+        - Q1989945   # agrotown
+        # Hub update round 1
+        - Q122987743 # community development block in West Bengal
+        - Q1149652   # district of India
+        - Q465842    # state of Nigeria
+        - Q1523821   # socken
+        # Hub update round 2
+        - Q1138494   # historic county of England
+        - Q746290    # state of Sudan
+        - Q505830    # district of Sudan
+        # Hub update round 3
+        - Q50337     # prefecture of Japan
+        - Q42744322  # urban municipality in Germany
+        - Q15060255  # council area
+        - Q769603    # non-metropolitan county
+        - Q1053630   # province of Papua New Guinea
+        - Q845643    # region of Morocco
+        - Q1221156   # federated state of Germany
+        - Q19953632  # former administrative territorial entity
+        # Hub update round 4
+        - Q11828004  # province of Canada
+        - Q180673    # ceremonial county of England
+        - Q15830667  # quarter of Hamburg
+        - Q7897276   # unparished area
+        - Q134626    # district capital
+        - Q62049     # county seat
+        - Q2039348   # municipality of the Netherlands
+        - Q18511725  # market town
+        - Q14942893  # district of Papua New Guinea
+        - Q3539870   # district of Uganda
+        - Q1136601   # unitary authority area in England
+        - Q35034452  # locality of Berlin
+        - Q15629582  # province of Morocco
+        # Hub update round 5
+        - Q1002812   # metropolitan borough
+        - Q12443800  # state of India
+        - Q21503295  # district with city status
+        # Hub update round 6
+        - Q493522    # municipality of Belgium
+        - Q211690    # London borough
+        - Q1006876   # borough in the United Kingdom
+        - Q21457810  # Scottish district
+        - Q15284     # municipality
+        # Hub update round 7
+        - Q2177636   # municipality of Denmark
+        - Q43263     # federal subject of Russia
+        - Q545769    # district of Ghana
+        - Q2881272   # district of New Zealand
+        - Q127448    # municipality of Sweden
+        - Q3199141   # city of Indonesia
+        # Hub update round 8
+        - Q70208     # Municipality of Switzerland
+        - Q1052743   # region of Ghana
+        - Q755707    # municipality of Norway
+        - Q705296    # district of Taiwan
+        - Q4200298   # distrik
+        - Q1349648   # municipality of Greece
+        - Q1639634   # local government area of Nigeria
+        - Q494721    # city of Japan
+        - Q1115575   # civil parish
+        # Hub update round 9
+        - Q3191695   # regency of Indonesia
+        - Q12131624  # city in Ukraine
+        - Q1267632   # raion of Ukraine
+        - Q518343    # municipal borough
+        - Q10742     # autonomous community of Spain
+        # Hub update round 10
+        - Q56557504  # city of Iran
+        - Q33146843  # municipality of Catalonia
+        - Q17143371  # county of South Korea
+        - Q835714    # oblast of Russia
+        # Hub update round 1 (second pass)
+        - Q67376938  # historic county of the United Kingdom
+        # Hub update round 2 (second pass)
+        - Q1857731   # historic county of Wales
+        - Q3502482   # cultural region
+        - Q13218690  # town in Hungary
+        - Q193556    # province of Sweden
+        # Hub update round 3 (second pass)
+        - Q5098      # province of Indonesia
+        - Q191093    # province of South Africa
+        - Q1350181   # shire of Scotland
+        - Q821435    # borough of Berlin
+        # Hub update round 4 (second pass)
+        - Q5107      # continent
+        - Q485258    # federative unit of Brazil
+        - Q3301053   # consolidated city-county
+        - Q179872    # county of Ireland
+        - Q702842    # municipal arrondissement of France
+        # Hub update round 5 (second pass)
+        - Q1317848   # county of Northern Ireland
+        - Q57368     # district of Botswana
+        - Q13217644  # municipality of Portugal
+        - Q15079751  # borough of Amsterdam
+        - Q23925382  # arrondissement of Morocco
+        - Q13212489  # county of California
+        - Q161243    # dependent territory
+        - Q1620908   # historical region
+        # Hub update round 6 (second pass)
+        - Q15901936  # district of South Korea
+        - Q15634846  # district of Seoul
+        - Q7925010   # vice-county
+        - Q15979307  # principal area of Wales
+        - Q6465      # department of France
+        - Q114072597 # former raion of Ukraine
+        - Q2276925   # municipality of Galicia
+        - Q10864048  # first-level administrative division
+        - Q5327704   # special ward of Japan
+        - Q16110     # region of Italy
+        - Q137535    # county of Iran
+        - Q12813115  # urban area in Sweden
+        - Q23058     # canton of Switzerland
+        # Hub update: manual batch
+        - Q7275      # state
+        - Q2630741   # community
+        - Q4927168   # Block Panchayat
+    value_props:
+      - P1082   # population
+      - P1448   # official name
+      - P2046   # area
+      - P421    # located in time zone
+      - P281    # postal code
+      - P2044   # elevation above sea level
+      - P242    # locator map image
+      - P473    # local dialing code
+      - P47     # shares border with
+      - P150    # contains the administrative territorial entity
+      - P395    # licence plate code
+      - P1538   # number of households
+      - P36     # capital
+      - P768    # electoral district
+      - P1376   # capital of
+
+  sports:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q483110  # stadium
+        - Q641226  # arena
+        - Q1076486 # sports venue
+        - Q692630    # outdoor gym
+        - Q11875349  # playground
+        - Q338112    # recreation area
+        - Q2338524   # motorsport racing track
+      P641:        # sport
+      P466:        # occupant
+    value_props:
+      - P641    # sport
+      - P466    # occupant
+      - P276    # location
+      - P137    # operator
+
+  heritage:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q4989906  # monument
+        - Q839954   # archaeological site
+        - Q5003624  # memorial
+        - Q575759   # war memorial
+        - Q26703203 # Stolperstein
+        - Q22969563 # Bodendenkmal
+        - Q173387   # grave
+        - Q15243209 # historic district
+        - Q2065736  # cultural property
+        - Q42948    # wall
+        - Q358      # heritage site
+        - Q179700   # statue
+        - Q721747   # commemorative plaque
+        - Q852190   # shipwreck
+        - Q734271   # mass grave
+        - Q2046310  # bowl barrow
+        - Q152081   # concentration camp
+        - Q15120977 # grave cairn
+        - Q40211238 # churchyard wall
+        - Q918230   # Roman villa
+        - Q19833736 # chest tomb
+        - Q203443   # tombstone
+        - Q381885   # tomb
+        - Q2319498  # architectural landmark
+        - Q106817283 # K6 telephone box
+        - Q1081138  # historic site
+        - Q35112127  # historic building
+        - Q9259     # World Heritage Site
+        - Q101659  # dolmen
+        - Q1785071  # fort
+        - Q10300916  # cultural heritage of China
+        - Q2309609  # wayside cross
+        - Q2341654  # stone setting
+        - Q328468   # Nazi concentration camp
+        - Q210272    # cultural heritage
+        - Q7321974   # cairn
+        - Q10855061  # archaeological find
+        - Q109607    # ruins
+        - Q2046325   # round barrow
+        - Q34023     # tumulus
+        - Q64374896  # World War II memorial
+        - Q28045079  # contour fort
+        - Q162875    # mausoleum
+        - Q744099    # hillfort
+        - Q2583015   # ghetto in Nazi-occupied Europe
+        - Q193475    # menhir
+        - Q56055312  # sepulchral monument
+        - Q14750991  # Commonwealth War Graves Commission maintained cemetery
+        - Q3329412   # archaeological museum
+        - Q1820704   # clearance cairn
+        - Q465299    # archaeological culture
+        - Q15072800  # cemetery cross
+        - Q30634609  # heritage designation
+        - Q231685    # stations of the Cross
+        - Q2330559   # standing stone
+        - Q23790     # natural monument
+        - Q1241568   # military cemetery
+        - Q11734477  # memorial stone
+        # Hub update round 4
+        - Q1343246   # English country house
+        # Hub update round 3 (second pass)
+        - Q2087181   # historic house museum
+      P149:        # architectural style
+      P84:         # architect
+      P1435:  # heritage designation
+        - Q9259     # World Heritage Site
+    value_props:
+      - P1435   # heritage designation
+      - P793    # significant event
+      - P547    # commemorates
+      - P1684   # inscription
+      - P276    # location
+      - P669    # located on street
+      - P2817   # appears in the heritage monument list
+      - P195    # collection
+
+  education:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q1244442  # school building
+        - Q209465    # campus
+    value_props:
+      - P276    # location
+      - P466    # occupant
+      - P1435   # heritage designation
+      - P669    # located on street
+      - P2817   # appears in the heritage monument list
+
+  nature:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q8502    # mountain
+        - Q188913  # plantation
+        - Q759421  # Naturschutzgebiet
+        - Q35509   # cave
+        - Q23442   # island
+        - Q46831   # mountain range
+        - Q34763   # peninsula
+        - Q39816   # valley
+        - Q23397   # lake
+        - Q4022    # river
+        - Q165     # sea
+        - Q9430    # ocean
+        - Q34038   # waterfall
+        - Q185113  # cape
+        - Q65244937 # private nature reserve
+        - Q28337   # shoal
+        - Q17018380 # bight
+        - Q35666   # glacier
+        - Q160091  # plain
+        - Q107679  # cliff
+        - Q55659167 # natural watercourse
+        - Q736917  # geological formation
+        - Q187223  # lagoon
+        - Q1210950  # channel
+        - Q3240227  # raised bog
+        - Q16887036 # gap
+        - Q2221906  # geographic location
+        - Q1402592  # island group
+        - Q813672   # basin
+        - Q1400565  # spur
+        - Q111816862 # basin
+        - Q25391   # dune
+        - Q695793  # rapids
+        - Q5926864 # group of lakes
+        - Q591942  # distributary
+        - Q2624046 # mountain chain
+        - Q87193797 # tjern
+        - Q47089   # fault
+        - Q811534  # remarkable tree
+        - Q104093746 # lake or pond
+        - Q12719646 # pond
+        - Q3253281  # artificial pond
+        - Q1191622  # Special Area of Conservation
+        - Q63565252  # brook
+        - Q150784  # canyon
+        - Q3177968  # waterhole
+        - Q8514     # desert
+        - Q618123   # geographical feature
+        - Q47521    # stream
+        - Q355304   # watercourse
+        - Q39594    # bay
+        - Q187971   # wadi
+        - Q124714   # spring
+        - Q30198    # marsh
+        - Q131681   # reservoir
+        - Q166735   # swamp
+        - Q207524   # islet
+        - Q24529780 # point
+        - Q740445   # ridge
+        - Q2042028  # ravine
+        - Q133056   # mountain pass
+        - Q207326   # summit
+        - Q184358   # reef
+        - Q40080    # beach
+        - Q4421     # forest
+        - Q54050    # hill
+        - Q22698    # park
+        - Q473972   # protected area
+        - Q179049   # nature reserve
+        - Q22746     # urban park
+        - Q372363    # geotope
+        - Q422211    # Site of Special Scientific Interest
+        - Q170321    # wetland
+        - Q16465938  # seasonal river
+        - Q15069452  # Natura 2000 site
+        - Q37901     # strait
+        - Q10862618  # mountain saddle
+        - Q75520     # plateau
+        - Q45776     # fjord
+        - Q8072      # volcano
+        - Q33837     # archipelago
+        - Q1437299   # creek
+        - Q10594991  # nature area
+    value_props:
+      - P2044   # elevation above sea level
+      - P2046   # area
+      - P2043   # length
+      - P403    # mouth of the watercourse
+      - P4614   # drainage basin
+      - P814    # IUCN protected areas category
+      - P4552   # mountain range
+      - P3018   # located in protected area
+      - P30     # continent
+      - P706    # located in/on physical feature
+      - P206    # located in or next to body of water
+
+  finance:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q18761864 # bank building
+        - Q66538936 # Vijaya Bank branch
+        - Q67646671 # South Indian Bank branch
+        - Q75543355 # Jammu & Kashmir Bank branch
+        - Q11691    # stock exchange
+        - Q66344    # central bank
+        - Q65954115 # State Bank of India branch
+        - Q65954144 # Canara Bank branch
+        - Q65954135 # ICICI Bank branch
+        - Q66619497 # HDFC Bank branch
+        - Q65954142 # Bank of Baroda branch
+        - Q65954138 # Axis Bank branch
+        - Q73580208 # Central Bank of India branch
+        - Q71713967 # Union Bank of India branch
+        - Q73839412 # Indian Overseas Bank branch
+        - Q65954125 # Yes Bank branch
+        - Q69529214 # Allahabad Bank branch
+        - Q73986959 # Indian Bank branch
+        - Q73717181 # Industrial Development Bank of India branch
+        - Q66496996 # Andhra Bank branch
+        - Q66877717 # UCO Bank branch
+        - Q66768699 # Corporation Bank branch
+        - Q66576265 # Bank of India branch
+        - Q73865589 # Syndicate Bank branch
+        - Q71574305 # United Bank of India branch
+        - Q70081950 # Bank of Maharashtra branch
+        - Q74539826  # Kotak Mahindra Bank branch
+        - Q66771621  # Dena Bank branch
+        - Q73887153  # Oriental Bank of Commerce branch
+        - Q73634133  # City Union Bank Limited branch
+    value_props:
+      - P137    # operator
+      - P159    # headquarters location
+      - P276    # location
+
+  military:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q1785071   # fort
+        - Q328468    # Nazi concentration camp
+        - Q152081    # concentration camp
+        - Q83554028  # Gendarmerie barracks
+        - Q575759    # war memorial
+        - Q734271    # mass grave
+        - Q695850    # air base
+        - Q57831     # fortress
+        - Q91122     # bunker
+        - Q245016    # military base
+        - Q92086     # promontory fort
+        - Q947103    # watchtower
+        - Q57821     # fortification
+      P607:        # participated in conflict
+      P1120:       # number of deaths
+    value_props:
+      - P1435   # heritage designation
+      - P276    # location
+      - P7959   # historic county
+      - P547    # commemorates
+      - P137    # operator
+      - P607    # participated in conflict
+      - P2817   # appears in the heritage monument list
+      - P195    # collection
+      - P1343   # described by source
+      - P1120   # number of deaths
+
+  entertainment:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q41253    # movie theater
+        - Q24354    # theatre building
+        - Q153562   # opera house
+        - Q1060829  # concert hall
+        - Q1076486  # sports venue
+        - Q1154710   # association football venue
+        - Q17350442  # venue
+        - Q8719053   # music venue
+        - Q18674739  # event venue
+        - Q595452    # baseball venue
+      P345:         # IMDb ID
+    value_props:
+      - P276    # location
+      - P7959   # historic county
+      - P7938   # associated electoral district
+      - P641    # sport
+      - P466    # occupant
+      - P1435   # heritage designation
+      - P137    # operator
+      - P669    # located on street
+
+  healthcare:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q61278455 # health sub-centre
+        - Q7243073  # primary health centre
+        - Q718966   # doctor's office
+        - Q1774898   # clinic
+        - Q569500    # community health center
+    value_props:
+      - P137    # operator
+      - P276    # location
+      - P749    # parent organization or unit
+      - P121    # item operated
+      - P669    # located on street
+
+  affiliation:
+    type: relational
+    indicators:
+      P127:        # owned by
+      P138:        # named after
+      P361:        # part of
+      P170:        # creator
+    value_props:
+      - P127    # owned by
+      - P138    # named after
+      - P361    # part of
+      - P170    # creator
+
+  architecture:
+    type: relational
+    indicators:
+      P84:           # architect
+      P149:          # architectural style
+      P186:          # made from material
+      P5816:         # state of conservation
+      P5817:         # state of use
+    value_props:
+      - P84     # architect
+      - P149    # architectural style
+      - P186    # made from material
+      - P5816   # state of conservation
+      - P5817   # state of use
+      - P137    # operator
+
+  food:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q11707     # restaurant
+        - Q18534542  # restaurant chain
+        - Q30022     # café
+        - Q478251    # bar
+        - Q212198    # pub
+        - Q131734    # brewery
+        - Q156362    # winery
+        - Q5526694   # Gasthaus
+        - Q132510    # market
+        - Q2080521   # market hall
+    value_props:
+      - P7959   # historic county
+      - P276    # location
+      - P1435   # heritage designation
+      - P912    # has facility
+      - P2817   # appears in the heritage monument list
+      - P669    # located on street
+      - P452    # industry
+      - P159    # headquarters location
+      - P137    # operator

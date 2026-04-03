@@ -1,0 +1,912 @@
+# Events & Actions Category Tags
+
+gate_qids:
+  # Event / general
+  - Q1656682   # event
+  - Q4026292   # action
+  - Q1914636   # activity
+  - Q1190554   # occurrence
+  - Q5681048   # partial solar eclipse
+  - Q5691927   # annular solar eclipse
+  - Q11086064  # total solar eclipse
+  - Q101008619 # rescue excavation
+  # Military
+  - Q198       # war
+  - Q178561    # battle
+  - Q467011    # invasion
+  - Q188055    # siege
+  - Q1361229   # conquest
+  # Evacuation
+  - Q606332    # evacuation
+  - Q645883    # military operation
+  - Q1261499   # naval battle
+  - Q180684    # conflict
+  - Q831663    # military campaign
+  - Q11167066  # order of battle
+  - Q124734    # rebellion
+  # Conference
+  - Q625994    # convention
+  - Q2495862   # congress
+  - Q2761147   # meeting
+  - Q656720    # workshop
+  - Q2020153   # academic conference
+  - Q114834437 # conference
+  - Q1062780   # forum
+  - Q504703    # seminar
+  - Q40444998  # academic workshop
+  - Q47258130  # academic conference series
+  - Q1728972   # Ministerial Conference
+  - Q184937    # Bilderberg Group
+  - Q122119    # Pan-American Conference
+  - Q1781367   # intergovernmental conference
+  - Q1958056   # science fiction convention
+  # Exhibition
+  - Q667276    # art exhibition
+  - Q464980    # exhibition
+  - Q57305     # trade fair
+  - Q172754    # world's fair
+  - Q1070669   # airshow
+  - Q1156329   # auto show
+  - Q3062261   # online exhibition
+  - Q29023906  # temporary exhibition
+  - Q262478    # Paris Salon
+  - Q59861107  # temporary art exhibition
+  # Disaster
+  - Q12184     # pandemic
+  - Q3241045   # disease outbreak
+  - Q3157041   # tropical storm
+  - Q8092      # tropical cyclone
+  - Q2547976   # North Atlantic tropical cyclone
+  - Q63100595  # Category 3 hurricane
+  - Q744913    # aviation accident
+  - Q7944      # earthquake
+  - Q169950    # wildfire
+  - Q8068      # flood
+  - Q3839081   # disaster
+  - Q8065      # natural disaster
+  # Violence
+  - Q3199915   # massacre
+  - Q124757    # riot
+  - Q2223653   # terrorist attack
+  - Q45382     # coup d'état
+  - Q21480300  # mass shooting
+  - Q3882219   # assassination
+  - Q41397     # genocide
+  - Q132781    # torture
+  - Q318296    # kidnapping
+  - Q10855380  # public execution
+  - Q204933    # decapitation
+  - Q132821    # murder
+  - Q149086    # homicide
+  - Q16738832  # criminal case
+  # Politics
+  - Q43109     # referendum
+  - Q40231     # public election
+  - Q51591359  # voting result
+  - Q152450    # municipal election
+  - Q15238777  # legislative term
+  - Q19571328  # electoral result
+  - Q14509381  # Dutch general election
+  - Q1804248   # state election in Brandenburg
+  - Q1768624   # state election in Saarland
+  - Q1804251   # state election in North Rhine-Westphalia
+  - Q1333366   # snap election
+  - Q2618461   # legislative election
+  - Q480498    # impeachment
+  - Q15261477  # gubernatorial election
+  - Q1057954   # by-election
+  - Q15280243  # mayoral election
+  - Q6104010   # legislative election in Turkey
+  - Q5354906   # election in Taiwan
+  - Q7864918   # UK Parliamentary by-election
+  - Q107359024 # class of election
+  - Q24397514  # United States House of Representatives election
+  - Q5116010   # election to the Parliament of Catalonia
+  - Q112611340 # election in a constituency
+  - Q858439    # presidential election
+  - Q22333900  # Turkish general election
+  - Q6508670   # leadership election
+  # Policy
+  - Q131569    # treaty
+  - Q625298    # peace treaty
+  # Award
+  - Q4504495   # award ceremony
+  - Q618779    # award
+  - Q378427    # literary award
+  - Q11448906  # science award
+  - Q15229207  # sports award
+  - Q56116950  # film award category
+  - Q1364556   # music award
+  # Sports
+  - Q27020041  # sports season
+  - Q4380244   # free skating
+  - Q1539532   # sports season of a sports club
+  - Q16510064  # sporting event
+  - Q13406554  # sports competition
+  - Q1079023   # championship
+  - Q500834    # tournament
+  - Q1936368   # world cup
+  - Q26894053  # basketball team season
+  - Q46135307  # nation at sport competition
+  - Q57733494  # badminton event
+  - Q46190676  # tennis event
+  - Q26887310  # association football team season
+  - Q26895936  # American football team season
+  - Q63874701  # badminton tournament series
+  - Q109623729 # association football club match
+  - Q17315159  # international association football match
+  - Q12166442  # association football match
+  - Q51031626  # sport competition at a multi-sport event
+  - Q26896697  # baseball team season
+  - Q53534649  # cycling team season
+  - Q18431960  # basketball game
+  - Q21246076  # rowing event
+  - Q18536594  # Olympic sporting event
+  - Q47345468  # tennis tournament edition
+  - Q26213387  # Olympic delegation
+  - Q18131152  # round
+  - Q3001412   # horse race
+  - Q4288793   # Beach Soccer Intercontinental Cup
+  - Q20646667  # plain stage
+  - Q114609228 # recurring sporting event edition
+  - Q20646670  # hilly stage
+  - Q50393057  # Paralympic sporting event
+  - Q2990963   # figure skating competition
+  - Q46195901  # Paralympics delegation
+  - Q17317604  # professional wrestling event
+  - Q50846468  # sports tour
+  - Q35823051  # nation at the World Athletics Championships
+  - Q17299750  # snooker tournament
+  - Q35718073  # nation in the Eurovision Song Contest
+  - Q65770283  # association football final
+  - Q2990946   # golf tournament
+  - Q129085076 # international basketball match
+  - Q2266066   # individual time trial
+  - Q21140826  # American football game
+  - Q26132862  # Olympic sports discipline event
+  - Q27927857  # baseball game
+  - Q1478437   # association football competition
+  - Q47403752  # tennis tournament edition by gender
+  - Q84491920  # Youth Olympic sporting event
+  - Q1318941   # stage race
+  - Q2210277   # chess tournament
+  - Q2306612   # national road cycling championship
+  - Q2912397   # single-day road race
+  - Q20646668  # mountain stage
+  - Q20680270  # medium mountain stage
+  # Sport activities (types of sport)
+  - Q31629     # type of sport
+  - Q349       # sport
+  - Q2312410   # sports discipline
+  - Q589184    # paralympic sports
+  - Q212434    # Olympic sport
+  - Q216048    # team sport
+  - Q13137940  # sport with racquet/stick/club
+  - Q1744559   # classification in sports
+  - Q7128792   # combat sport
+  - Q877517    # ball game
+  - Q21654660  # traditional sport
+  - Q4356073   # spectator sport
+  - Q4438147   # game-based sport
+  # Society
+  - Q132241    # festival
+  - Q220505    # film festival
+  - Q273120    # protest
+  - Q49776     # strike
+  - Q200538    # party
+  - Q2627975   # ceremony
+  - Q3010205   # celebration
+  - Q47223     # birthday
+  - Q49836     # wedding
+  - Q209715    # coronation
+  - Q201676    # funeral
+  - Q182832    # concert
+  - Q39825     # census
+  - Q1573906   # concert tour
+  - Q41582469  # music festival edition
+  - Q868557    # music festival
+  - Q169207    # discrimination
+  - Q188844    # volunteering
+  - Q49773     # social movement
+  - Q2914277   # moral panic
+  - Q62391930  # beauty pageant edition
+  - Q27787439  # film festival edition
+  - Q58863414  # female beauty pageant
+  - Q27968043  # festival occurrence
+  - Q175331    # demonstration
+  - Q136039983 # pride event edition
+  # History
+  - Q18340514  # events in a specific year or time period
+  - Q19902850  # witch trial
+  - Q66458810  # witchcraft investigation
+  # Recurrence
+  - Q18608583  # recurring sporting event
+  - Q15275719  # recurring event
+  - Q11483816  # annual event
+  - Q27968055  # recurring event edition
+  # Legal
+  - Q2334719   # legal case
+  # Hub update round 1 — sports
+  - Q10708051  # competition class
+  - Q14547231  # international sporting event
+  # Hub update round 1 — politics
+  - Q109682730 # Indonesian People's Representative Council election
+  - Q15283424  # United Kingdom general election
+  - Q849095    # Canadian federal general election
+  # Hub update round 2 — sports
+  - Q159821    # Summer Olympic Games
+  - Q82414     # Winter Olympic Games
+  - Q167170    # multi-sport event
+  # Hub update round 2 — conference
+  - Q114716986 # World Economic Forum Annual Meeting
+  # Hub update round 3 — military
+  - Q8465       # civil war
+  # Hub update round 3 — sports
+  - Q428303     # Chess Olympiad
+  - Q1693153    # UCI Women's Road World Rankings
+  # Hub update round 3 — award
+  - Q1792571    # art prize
+  - Q188823     # scholarship
+  # Hub update round 3 — gate only
+  - Q18201623   # expedition to the International Space Station
+  # Hub update round 4 — sports
+  - Q3327913   # Summer Paralympic Games
+  - Q1063430   # UCI America Tour
+  # Hub update round 4 — politics
+  - Q24097670  # voting round
+  # Hub update round 5 — military
+  - Q350604    # armed conflict
+  # Hub update round 6 — sports
+  - Q107540719 # edition of the UEFA European Championship
+  - Q2748940   # Women's Chess Olympiad
+  - Q230186    # Pan American Games
+  - Q8463186   # national association football cup
+  # Hub update round 6 — politics
+  - Q1128324   # European Parliament election
+  - Q186431    # conclave
+  # Hub update round 7 — sports
+  - Q16848281  # UEFA European Championship qualifying
+  - Q1415139   # Iditarod Trail Sled Dog Race
+  - Q33881     # Tour de France
+  - Q2122052   # qualification event
+  - Q268357    # UCI Africa Tour
+  # Hub update round 8 — sports
+  - Q60147807  # automobile racing series
+  - Q134396192 # wrestling style
+  # Hub update round 8 — politics
+  - Q22269206  # Polish parliamentary election
+  - Q56821073  # election to the Congress of Deputies
+  - Q2288051   # party conference
+  - Q11267645  # Japanese House of Representatives election
+  # Hub update round 9 — violence
+  - Q10931     # revolution
+  # Hub update round 9 — sports
+  - Q210707    # European Athletics Championships
+  - Q182653    # World Athletics Championships
+  # Hub update round 9 — entertainment
+  - Q110288240 # Eurovision Song Contest edition
+  # Hub update round 9 — politics
+  - Q1156016   # royal elections in Poland
+  - Q4289143   # Provincial elections in the Netherlands
+  # Hub update round 10 — sports
+  - Q84476898  # Youth Olympic sports discipline event
+  - Q1039648   # UCI Oceania Tour
+  - Q111072137 # edition of the FIFA Women's World Cup
+  # Hub update round 1 (second pass) — politics
+  - Q15154951  # municipal elections in Finland
+  - Q1499496   # German federal presidential election
+  # Hub update round 1 (second pass) — sports
+  - Q1194340   # UCI Europe Tour
+  # Hub update round 2 (second pass) — sports
+  - Q1063423   # UCI Asia Tour
+  # Hub update round 2 (second pass) — politics
+  - Q76853179  # group of elections
+  - Q17317594  # Spanish general election
+  # Hub update round 3 (second pass) — award
+  - Q15383322  # cultural prize
+  - Q107471279 # chemistry award
+  - Q96474687  # award for best film
+  # Hub update round 3 (second pass) — military
+  - Q1006311   # war of national liberation
+  # Hub update round 3 (second pass) — legal
+  - Q1265353   # war crimes trial
+  # Hub update round 3 (second pass) — sports
+  - Q635366    # UCI World Tour
+  - Q21075974  # UCI Women's World Tour
+  # Hub update round 4 (second pass) — award
+  - Q59309547  # poetry award
+  - Q107494520 # physics award
+  - Q17701409  # economics award
+  - Q15229229  # theatre award
+  # Hub update round 5 (second pass) — award
+  - Q96474688  # award for best film by genre
+  - Q96474697  # award for best short film by genre
+  - Q96474603  # award for best supporting actor
+  - Q9639292   # peace award
+  - Q1829324   # architecture award
+  - Q96474691  # award for best leading actor
+  - Q96474698  # award for best production design
+  - Q96474676  # award for best leading actress
+  - Q55190113  # academic award
+  # Hub update round 5 (second pass) — politics
+  - Q22280876  # Northern Ireland Assembly election
+  - Q22162827  # New Zealand general election
+  - Q2243695   # Dutch Senate election
+  # Hub update round 6 (second pass) — sports
+  - Q3317976   # Winter Paralympic Games
+  - Q47443726  # recurring tennis tournament
+  # Hub update round 6 (second pass) — military
+  - Q21994376  # war of independence
+  # Hub update round 6 (second pass) — politics
+  - Q1007356   # German federal election
+  - Q14516417  # election to Chamber of Deputies of the Czech parliament
+  # Hub update round 6 (second pass) — award
+  - Q96474701  # award for best adapted screenplay
+  - Q96474589  # award for best supporting actress
+  - Q96474684  # award for best photography
+  # Hub update: manual batch — military
+  - Q103495    # world war
+  - Q864113    # proxy war
+  # Hub update: manual batch — gate only
+  - Q14904124  # key event (ships)
+  # Hub update: manual batch — sports
+  - Q866427    # Grand Tour
+  # Hub update: manual batch — politics
+  - Q2415599   # Congress of the Communist Party of the Soviet Union
+
+
+core:
+  props:
+    - P31  # instance of
+    - P585 # point in time
+    - P17  # country
+    - P276 # location
+    - P580 # start time
+    - P582 # end time
+    - P625 # coordinate location
+    - P131 # located in the administrative territorial entity
+    - P361 # part of
+    - P155 # follows
+    - P156 # followed by
+    - P18  # image
+    - P571 # inception
+
+modules:
+  military:
+    type: relational
+    indicators:
+      P710:        # participant
+      P31:  # instance of
+        - Q198 # war
+        - Q178561 # battle
+        - Q467011 # invasion
+        - Q188055 # siege
+        - Q1361229 # conquest
+        - Q606332 # evacuation
+        - Q645883    # military operation
+        - Q1261499   # naval battle
+        - Q180684    # conflict
+        - Q831663    # military campaign
+        - Q11167066  # order of battle
+        - Q124734    # rebellion
+        # Hub update round 3
+        - Q8465      # civil war
+        # Hub update round 5
+        - Q350604    # armed conflict
+        # Hub update round 3 (second pass)
+        - Q1006311   # war of national liberation
+        # Hub update round 6 (second pass)
+        - Q21994376  # war of independence
+        # Hub update: manual batch
+        - Q103495    # world war
+        - Q864113    # proxy war
+    value_props:
+      - P710 # participant
+
+  conference:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q625994 # convention
+        - Q2495862 # congress
+        - Q2761147 # meeting
+        - Q656720 # workshop
+        - Q2020153 # academic conference
+        - Q114834437 # conference
+        - Q1062780 # forum
+        - Q504703 # seminar
+        - Q40444998 # academic workshop
+        - Q47258130 # academic conference series
+        - Q1728972 # Ministerial Conference
+        - Q184937 # Bilderberg Group
+        - Q122119 # Pan-American Conference
+        - Q1781367 # intergovernmental conference
+        - Q1958056 # science fiction convention
+        # Hub update round 2
+        - Q114716986 # World Economic Forum Annual Meeting
+    value_props:
+      - P1813 # short name
+      - P856  # official website
+      - P212  # ISBN-13
+      - P2257 # event interval
+
+  exhibition:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q667276 # art exhibition
+        - Q464980 # exhibition
+        - Q57305 # trade fair
+        - Q172754 # world's fair
+        - Q1070669 # airshow
+        - Q1156329 # auto show
+        - Q3062261 # online exhibition
+        - Q29023906 # temporary exhibition
+        - Q262478 # Paris Salon
+        - Q59861107  # temporary art exhibition
+    value_props:
+      - P856  # official website
+      - P1132 # number of participants
+
+  disaster:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q12184 # pandemic
+        - Q3241045 # disease outbreak
+        - Q3157041 # tropical storm
+        - Q8092 # tropical cyclone
+        - Q2547976 # North Atlantic tropical cyclone
+        - Q63100595 # Category 3 hurricane
+        - Q744913    # aviation accident
+        - Q7944      # earthquake
+        - Q169950    # wildfire
+        - Q8068      # flood
+        - Q3839081   # disaster
+        - Q8065      # natural disaster
+    value_props:
+      - P1120 # number of deaths
+      - P1339 # number of injured
+      - P1561 # number of survivors
+      - P1603 # number of cases
+      - P3457 # case fatality rate
+      - P8010 # number of recoveries
+      - P8204 # tabular case data
+      - P1846 # distribution map
+      - P2895 # maximum sustained winds
+      - P2532 # lowest atmospheric pressure
+      - P2528 # earthquake magnitude on the Richter magnitude scale
+      - P2527 # earthquake magnitude on the moment magnitude scale
+      - P3090 # flight number
+
+  violence:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q3199915 # massacre
+        - Q124757 # riot
+        - Q2223653 # terrorist attack
+        - Q45382 # coup d'état
+        - Q21480300 # mass shooting
+        - Q3882219 # assassination
+        - Q41397 # genocide
+        - Q132781 # torture
+        - Q318296 # kidnapping
+        - Q10855380 # public execution
+        - Q204933 # decapitation
+        - Q132821 # murder
+        - Q149086 # homicide
+        - Q16738832 # criminal case
+        # Hub update round 9
+        - Q10931    # revolution
+    value_props:
+      - P1120 # number of deaths
+      - P1339 # number of injured
+      - P3886 # number of perpetrators
+      - P1345 # number of victims of killer
+
+  politics:
+    type: relational
+    indicators:
+      P710:        # participant
+      P1346:       # winner
+      P31:  # instance of
+        - Q43109 # referendum
+        - Q40231 # public election
+        - Q51591359 # voting result
+        - Q152450 # municipal election
+        - Q15238777 # legislative term
+        - Q19571328  # electoral result
+        - Q14509381  # Dutch general election
+        - Q1804248 # state election in Brandenburg
+        - Q1768624 # state election in Saarland
+        - Q1804251 # state election in North Rhine-Westphalia
+        - Q1333366 # snap election
+        - Q2618461 # legislative election
+        - Q480498 # impeachment
+        - Q131569 # treaty
+        - Q625298 # peace treaty
+        - Q15261477  # gubernatorial election
+        - Q1057954   # by-election
+        - Q15280243  # mayoral election
+        - Q6104010   # legislative election in Turkey
+        - Q5354906   # election in Taiwan
+        - Q7864918   # UK Parliamentary by-election
+        - Q107359024 # class of election
+        - Q24397514  # United States House of Representatives election
+        - Q5116010   # election to the Parliament of Catalonia
+        - Q112611340 # election in a constituency
+        - Q858439    # presidential election
+        - Q22333900  # Turkish general election
+        - Q6508670   # leadership election
+        # Hub update round 1
+        - Q109682730 # Indonesian People's Representative Council election
+        - Q15283424  # United Kingdom general election
+        - Q849095    # Canadian federal general election
+        # Hub update round 4
+        - Q24097670  # voting round
+        # Hub update round 6
+        - Q1128324   # European Parliament election
+        - Q186431    # conclave
+        # Hub update round 8
+        - Q22269206  # Polish parliamentary election
+        - Q56821073  # election to the Congress of Deputies
+        - Q2288051   # party conference
+        - Q11267645  # Japanese House of Representatives election
+        # Hub update round 9
+        - Q1156016   # royal elections in Poland
+        - Q4289143   # Provincial elections in the Netherlands
+        # Hub update round 1 (second pass)
+        - Q15154951  # municipal elections in Finland
+        - Q1499496   # German federal presidential election
+        # Hub update round 2 (second pass)
+        - Q76853179  # group of elections
+        - Q17317594  # Spanish general election
+        # Hub update round 5 (second pass)
+        - Q22280876  # Northern Ireland Assembly election
+        - Q22162827  # New Zealand general election
+        - Q2243695   # Dutch Senate election
+        # Hub update round 6 (second pass)
+        - Q1007356   # German federal election
+        - Q14516417  # election to Chamber of Deputies of the Czech parliament
+        # Hub update: manual batch
+        - Q2415599   # Congress of the Communist Party of the Soviet Union
+    value_props:
+      - P710  # participant
+      - P1346 # winner
+
+  award:
+    type: relational
+    indicators:
+      P1346:       # winner
+      P31:  # instance of
+        - Q4504495 # award ceremony
+        - Q618779 # award
+        - Q378427    # literary award
+        - Q11448906  # science award
+        - Q15229207  # sports award
+        - Q56116950  # film award category
+        - Q1364556   # music award
+        # Hub update round 3
+        - Q1792571   # art prize
+        - Q188823    # scholarship
+        # Hub update round 3 (second pass)
+        - Q15383322  # cultural prize
+        - Q107471279 # chemistry award
+        - Q96474687  # award for best film
+        # Hub update round 4 (second pass)
+        - Q59309547  # poetry award
+        - Q107494520 # physics award
+        - Q17701409  # economics award
+        - Q15229229  # theatre award
+        # Hub update round 5 (second pass)
+        - Q96474688  # award for best film by genre
+        - Q96474697  # award for best short film by genre
+        - Q96474603  # award for best supporting actor
+        - Q9639292   # peace award
+        - Q1829324   # architecture award
+        - Q96474691  # award for best leading actor
+        - Q96474698  # award for best production design
+        - Q96474676  # award for best leading actress
+        - Q55190113  # academic award
+        # Hub update round 6 (second pass)
+        - Q96474701  # award for best adapted screenplay
+        - Q96474589  # award for best supporting actress
+        - Q96474684  # award for best photography
+    value_props:
+      - P1346 # winner
+
+  sports:
+    type: relational
+    indicators:
+      P1346:       # winner
+      P641:        # sport
+      P5138:       # season of club or team
+      P2094:       # competition class
+      P31:  # instance of
+        - Q27020041 # sports season
+        - Q4380244  # free skating
+        - Q1539532 # sports season of a sports club
+        - Q16510064 # sporting event
+        - Q13406554 # sports competition
+        - Q1079023 # championship
+        - Q500834 # tournament
+        - Q1936368 # world cup
+        - Q26894053 # basketball team season
+        - Q46135307 # nation at sport competition
+        - Q57733494 # badminton event
+        - Q46190676 # tennis event
+        - Q26887310 # association football team season
+        - Q26895936 # American football team season
+        - Q63874701 # badminton tournament series
+        - Q109623729 # association football club match
+        - Q17315159 # international association football match
+        - Q12166442 # association football match
+        - Q51031626 # sport competition at a multi-sport event
+        - Q26896697 # baseball team season
+        - Q53534649 # cycling team season
+        - Q18431960 # basketball game
+        - Q21246076 # rowing event
+        - Q18536594 # Olympic sporting event
+        - Q47345468 # tennis tournament edition
+        - Q26213387 # Olympic delegation
+        - Q18131152 # round
+        - Q3001412  # horse race
+        - Q4288793 # Beach Soccer Intercontinental Cup
+        - Q20646667  # plain stage
+        - Q114609228 # recurring sporting event edition
+        - Q20646670  # hilly stage
+        - Q50393057  # Paralympic sporting event
+        - Q2990963   # figure skating competition
+        - Q46195901  # Paralympics delegation
+        - Q17317604  # professional wrestling event
+        - Q50846468  # sports tour
+        - Q35823051  # nation at the World Athletics Championships
+        - Q17299750  # snooker tournament
+        - Q35718073  # nation in the Eurovision Song Contest
+        - Q65770283  # association football final
+        - Q2990946   # golf tournament
+        - Q129085076 # international basketball match
+        - Q2266066   # individual time trial
+        - Q21140826  # American football game
+        - Q26132862  # Olympic sports discipline event
+        - Q27927857  # baseball game
+        - Q1478437   # association football competition
+        - Q47403752  # tennis tournament edition by gender
+        - Q84491920  # Youth Olympic sporting event
+        - Q1318941   # stage race
+        - Q2210277   # chess tournament
+        - Q2306612   # national road cycling championship
+        - Q2912397   # single-day road race
+        - Q20646668  # mountain stage
+        - Q20680270  # medium mountain stage
+        # Sport activities (types of sport)
+        - Q31629     # type of sport
+        - Q349       # sport
+        - Q2312410   # sports discipline
+        - Q589184    # paralympic sports
+        - Q212434    # Olympic sport
+        - Q216048    # team sport
+        - Q13137940  # sport with racquet/stick/club
+        - Q1744559   # classification in sports
+        - Q7128792   # combat sport
+        - Q877517    # ball game
+        - Q21654660  # traditional sport
+        - Q4356073   # spectator sport
+        - Q4438147   # game-based sport
+        # Hub update round 1
+        - Q10708051  # competition class
+        - Q14547231  # international sporting event
+        # Hub update round 2
+        - Q159821    # Summer Olympic Games
+        - Q82414     # Winter Olympic Games
+        - Q167170    # multi-sport event
+        # Hub update round 3
+        - Q428303    # Chess Olympiad
+        - Q1693153   # UCI Women's Road World Rankings
+        # Hub update round 4
+        - Q3327913   # Summer Paralympic Games
+        - Q1063430   # UCI America Tour
+        # Hub update round 6
+        - Q107540719 # edition of the UEFA European Championship
+        - Q2748940   # Women's Chess Olympiad
+        - Q230186    # Pan American Games
+        - Q8463186   # national association football cup
+        # Hub update round 7
+        - Q16848281  # UEFA European Championship qualifying
+        - Q1415139   # Iditarod Trail Sled Dog Race
+        - Q33881     # Tour de France
+        - Q2122052   # qualification event
+        - Q268357    # UCI Africa Tour
+        # Hub update round 8
+        - Q60147807  # automobile racing series
+        - Q134396192 # wrestling style
+        # Hub update round 9
+        - Q210707    # European Athletics Championships
+        - Q182653    # World Athletics Championships
+        # Hub update round 10
+        - Q84476898  # Youth Olympic sports discipline event
+        - Q1039648   # UCI Oceania Tour
+        - Q111072137 # edition of the FIFA Women's World Cup
+        # Hub update round 1 (second pass)
+        - Q1194340   # UCI Europe Tour
+        # Hub update round 2 (second pass)
+        - Q1063423   # UCI Asia Tour
+        # Hub update round 3 (second pass)
+        - Q635366    # UCI World Tour
+        - Q21075974  # UCI Women's World Tour
+        # Hub update round 6 (second pass)
+        - Q3317976   # Winter Paralympic Games
+        - Q47443726  # recurring tennis tournament
+        # Hub update: manual batch
+        - Q866427    # Grand Tour
+    value_props:
+      - P1346 # winner
+      - P641  # sport
+      - P5138 # season of club or team
+      - P2094 # competition class
+
+  society:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q132241 # festival
+        - Q220505 # film festival
+        - Q273120 # protest
+        - Q49776 # strike
+        - Q200538 # party
+        - Q2627975 # ceremony
+        - Q3010205 # celebration
+        - Q47223 # birthday
+        - Q49836 # wedding
+        - Q209715 # coronation
+        - Q201676 # funeral
+        - Q182832 # concert
+        - Q39825  # census
+        - Q1573906  # concert tour
+        - Q41582469  # music festival edition
+        - Q868557  # music festival
+        - Q169207 # discrimination
+        - Q188844 # volunteering
+        - Q49773 # social movement
+        - Q2914277 # moral panic
+        - Q62391930  # beauty pageant edition
+        - Q27787439  # film festival edition
+        - Q58863414  # female beauty pageant
+        - Q27968043  # festival occurrence
+        - Q175331    # demonstration
+        - Q136039983 # pride event edition
+      P1435:       # heritage designation
+    value_props:
+      - P1435 # heritage designation
+
+  legal:
+    type: relational
+    indicators:
+      P1591:       # defendant
+      P1595:       # charge
+      P31:  # instance of
+        - Q2334719 # legal case
+        # Hub update round 3 (second pass)
+        - Q1265353 # war crimes trial
+    value_props:
+      - P1591 # defendant
+      - P1595 # charge
+
+  entertainment:
+    type: relational
+    indicators:
+      P345:        # IMDb ID
+      P1258:       # Rotten Tomatoes ID
+      P175:        # performer
+      P31:  # instance of
+        - Q868557    # music festival
+        - Q41582469  # music festival edition
+        - Q182832    # concert
+        - Q1573906   # concert tour
+        # Hub update round 9
+        - Q110288240 # Eurovision Song Contest edition
+    value_props:
+      - P175  # performer
+
+  education:
+    type: relational
+    indicators:
+      P179:        # part of the series
+      P664:        # organizer
+      P921:        # main subject
+      P527:        # has part(s)
+      P2936:       # language used
+      P823:        # speaker
+      P123:        # publisher
+      P31:  # instance of
+        - Q2020153   # academic conference
+        - Q40444998  # academic workshop
+        - Q47258130  # academic conference series
+    value_props:
+      - P179  # part of the series
+      - P664  # organizer
+      - P921  # main subject
+      - P527  # has part(s)
+      - P2936 # language used
+      - P823  # speaker
+      - P123  # publisher
+
+  religion:
+    type: relational
+    indicators:
+      P140:        # religion or worldview
+    value_props:
+      - P140 # religion or worldview
+
+  transportation:
+    type: relational
+    indicators:
+      P664:        # organizer
+      P137:        # operator
+      P1876:       # vessel
+      P31:  # instance of
+        - Q1070669  # airshow
+        - Q1156329  # auto show
+    value_props:
+      - P664  # organizer
+      - P137  # operator
+      - P1876 # vessel
+
+  hierarchy:
+    type: relational
+    indicators:
+      P1269:       # facet of
+      P527:        # has part(s)
+      P664:        # organizer
+      P3450:       # sports season of league or competition
+      P179:        # part of the series
+      P2094:       # competition class
+      P1027:       # conferred by
+    value_props:
+      - P1269 # facet of
+      - P527  # has part(s)
+      - P664  # organizer
+      - P3450 # sports season of league or competition
+      - P179  # part of the series
+      - P2094 # competition class
+      - P1027 # conferred by
+
+  route:
+    type: relational
+    indicators:
+      P1427:       # start point
+      P1444:       # destination point
+      P1346:       # winner
+      P641:        # sport
+      P2417:       # stage classification
+      P2321:       # general classification of race participants
+      P137:        # operator
+      P3494:       # points classification
+      P3497:       # teams classification by time
+      P4320:       # mountains classification
+      P4323:       # young rider classification
+      P1876:       # vessel
+      P2094:       # competition class
+      P175:        # performer
+      P144:        # based on
+      P2825:       # via
+      P828:        # has cause
+    value_props:
+      - P1427 # start point
+      - P1444 # destination point
+      - P1346 # winner
+      - P641  # sport
+      - P2417 # stage classification
+      - P2321 # general classification of race participants
+      - P137  # operator
+      - P3494 # points classification
+      - P3497 # teams classification by time
+      - P4320 # mountains classification
+      - P4323 # young rider classification
+      - P1876 # vessel
+      - P2094 # competition class
+      - P175  # performer
+      - P144  # based on
+      - P2825 # via
+      - P828  # has cause

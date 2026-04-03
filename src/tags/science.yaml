@@ -1,0 +1,719 @@
+# Science Category Tags (Chemistry + Biomedical)
+
+gate_qids:
+  # Astronomy
+  - Q3863     # asteroid
+  - Q523      # star
+  - Q67206691 # infrared source
+  - Q23038290 # fossil taxon
+  - Q318      # galaxy
+  - Q1931185  # astronomical radio source
+  - Q1457376  # eclipsing binary star
+  - Q2247863  # high proper-motion star
+  - Q2154519  # astrophysical X-ray source
+  - Q83373    # quasar
+  - Q204107   # galaxy cluster
+  - Q726242   # RR Lyrae variable
+  - Q1151284  # brightest cluster galaxy
+  - Q65259218 # compact group of galaxies
+  - Q1153690  # long-period variable star
+  - Q66619666 # red giant branch star
+  - Q67206701 # far-IR source
+  - Q6243     # variable star
+  - Q634      # planet
+  - Q3504248  # inner planet of the Solar System
+  - Q3901935  # inferior planet
+  - Q8928     # constellation
+  # Astronomy additions
+  - Q2168098  # rotating variable star
+  - Q11282    # H II region
+  - Q1332364  # rotating ellipsoidal variable
+  - Q72802727 # possible red giant branch star
+  - Q12795622 # low-mass star
+  - Q1491746  # galaxy group
+  - Q272447   # molecular cloud
+  - Q6999     # astronomical object
+  - Q72802508 # emission-line galaxy
+  - Q72802977 # young stellar object candidate
+  - Q204194   # dark nebula
+  - Q71798532 # blue object
+  - Q497654   # young stellar object
+  - Q11276    # globular cluster
+  # Biology/Medical additions
+  - Q30612    # clinical trial
+  - Q21014462 # cell line
+  - Q898273   # protein domain
+  - Q591041   # scientific publication
+  - Q1402850  # field study report
+  # Chemistry
+  - Q11344   # chemical element
+  - Q11173   # chemical compound
+  - Q113145171  # type of chemical entity
+  - Q59199015   # group of stereoisomers
+  - Q81163   # polymer
+  - Q11474   # plastic
+  - Q5283    # diamond
+  # Biomedical
+  - Q12136   # disease
+  - Q929833  # rare disease
+  - Q1216998 # neoplasm
+  - Q179630  # syndrome
+  - Q12135   # mental disorder
+  - Q2996394 # biological process
+  - Q7187    # gene
+  - Q20747295  # protein-coding gene
+  - Q8054    # protein
+  - Q417841  # protein family
+  - Q14860489 # molecular function
+  - Q420927  # protein complex
+  - Q8047    # enzyme
+  - Q12187   # antibiotic
+  - Q134808  # vaccine
+  - Q712378  # organ
+  - Q265868  # bone
+  - Q7365    # muscle
+  - Q40397   # tissue
+  - Q16521   # taxon
+  - Q310890  # monotypic taxon
+  - Q277338  # pseudogene
+  - Q808     # virus
+  - Q7868    # cell
+  - Q40763   # seed
+  - Q506     # flower
+  - Q1364    # fruit
+  - Q33971   # leaf
+
+  - Q10371097  # rough diamond
+  - Q106336308  # viral vector vaccine
+  - Q112193867  # class of disease
+  - Q11364  # hormone
+  - Q1191065  # heat illness
+  - Q13415392  # appendage
+  - Q156428  # inflorescence
+  - Q16191831  # pink diamond
+  - Q174211  # organic compound
+  - Q18123741  # infectious disease
+  - Q189118  # cell type
+  - Q190780  # limb
+  - Q200779  # genetic disease
+  - Q224107  # gall
+  - Q2278983  # gene family
+  - Q24060765  # animal organ
+  - Q25276  # isotope
+  - Q2707831  # plant tissue
+  - Q28051899  # vaccine candidate
+  - Q28449765  # blue diamond
+  - Q30680562  # red diamond
+  - Q3409626  # human head
+  - Q36496  # ion
+  - Q41500  # root
+  - Q427523  # opioid
+  - Q429571  # brilliant
+  - Q429950  # carbonado
+  - Q43054  # neuron
+  - Q464026  # blood diamond
+  - Q484083  # green tea
+  - Q4936952  # anatomical structure
+  - Q557677  # primordium
+  - Q567709  # anorectic
+  - Q65618538  # plant extract
+  - Q7239  # organism
+  - Q726   # horse
+  - Q7432  # species
+  - Q756  # plant
+  - Q79460  # antibody
+  - Q79529  # chemical substance
+  - Q8084905  # autoimmune disease
+  - Q72803708 # possible globular cluster
+  - Q67201574 # sub-millimetric source
+  - Q168845   # star cluster
+  - Q5871     # white dwarf
+  - Q72803426 # horizontal branch star
+  - Q13632    # planetary nebula
+  - Q46587    # active galactic nucleus
+  - Q691269   # W Ursae Majoris variable
+  - Q22247    # gamma-ray burst
+  - Q13890    # double star
+  - Q3887     # solar eclipse
+  - Q3937     # supernova
+  - Q81505329 # protein family associated with domain
+  - Q37748    # chromosome
+  - Q744691   # Mira variable
+  - Q130019   # carbon star
+  - Q72803622 # emission-line star
+  - Q28738741 # interacting galaxies
+  - Q71798788 # UV-emission source
+  - Q24452    # Algol variable
+  - Q67201561 # millimetric radio-source
+  - Q188593   # Cepheid variable
+  - Q4886     # cultivar
+  - Q26817508 # rose cultivar
+  - Q1621824  # high-velocity cloud
+  - Q71965429 # Seyfert 1 galaxy
+  - Q71965638 # Seyfert 2 galaxy
+  - Q217012   # radio galaxy
+  - Q5848     # blue straggler
+  - Q115518   # low-surface-brightness galaxy
+  - Q9262     # asterism
+  - Q1142192  # peculiar star
+  - Q3780824  # coding region
+  - Q67015883 # group or class of enzymes
+  - Q12089225 # mineral species
+  - Q5058355  # cellular component
+  - Q4915012  # biological pathway
+  - Q107509287 # class of protein-containing complexes
+  - Q50048    # Herbig–Haro object
+  - Q67201586 # HI (21cm) source
+  - Q1341811  # astrophysical maser
+  - Q10451997 # classical Cepheid variable
+  - Q18611609 # unconfirmed exoplanet
+  - Q67201524 # centimetric radio source
+  - Q2557101  # low-ionization nuclear emission-line region
+  - Q2488     # spiral galaxy
+  - Q4360     # pulsar
+  - Q11387    # open cluster
+  - Q1054444  # interstellar cloud
+  - Q54231557 # hot subdwarf star
+  - Q1014491  # prime knot
+  - Q71962386 # gamma-ray source
+  - Q2680861  # transient astronomical event
+  - Q836976   # Delta Scuti variable
+  - Q353834   # pulsating variable star
+  - Q1993624  # spectroscopic binary
+  - Q6458     # nova
+  - Q845371   # void
+  - Q47154513 # structural class of chemical entities
+  - Q7251477  # protein superfamily
+  - Q23838648 # mature microRNA
+  - Q424473   # repetitive DNA
+  - Q28885102 # pharmaceutical product
+  - Q2092603  # member
+  - Q47461827  # defined set
+  - Q41872  # interstellar medium
+  - Q244264  # dwarf nova
+  # Asteroid/small body additions
+  - Q265392   # near-Earth object
+  - Q59423687 # potentially hazardous asteroid
+  - Q6592     # trans-Neptunian object
+  - Q44559    # exoplanet
+  # Star subtype additions
+  - Q67206785 # near-IR source
+  - Q5898     # red supergiant
+  - Q50053    # binary star
+  - Q101600   # brown dwarf
+  - Q6232     # T Tauri-type star
+  - Q1062509  # pre-main-sequence star
+  - Q285400   # flare star
+  - Q830831   # Beta Lyrae variable
+  # Astronomy additions (new)
+  - Q55818     # impact crater
+  - Q3240715   # crater
+  - Q1348589   # lunar crater
+  - Q1475691   # Mars crater
+  - Q60186     # meteorite
+  # Geology additions
+  - Q1404150   # rock
+  - Q631305    # rock formation
+  - Q34198935  # submerged rock
+  # Organism additions
+  - Q15731356  # apple cultivar
+  - Q958314    # grape variety
+  - Q39367     # dog breed
+  - Q1160573   # horse breed
+  - Q49695242  # restriction enzyme type
+  - Q21160573  # Dahlia cultivar
+  - Q15622363  # sheep breed
+  - Q47487597  # monotypic fossil taxon
+  - Q122811005 # fossil cast
+  - Q124221947 # One Earth Ecoregion
+  - Q6617741   # WWF ecoregion
+  # Element additions
+  - Q846110    # nuclear isomer
+  # Math additions
+  - Q77347966  # prime link
+  # Pharmaceutical additions
+  - Q12140     # medication
+  # Clinical additions
+  - Q108572660 # International Space Station experiment
+  # Hub update round 3 (second pass) — compound
+  - Q17339814  # group or class of chemical substances
+  # Hub update round 4 (second pass) — compound
+  - Q12110334  # mineral class
+  - Q37756     # alloy
+  # Hub update: manual batch — compound
+  - Q214609    # material
+  # Hub update: manual batch — gate only
+  - Q423026    # active site
+  - Q616005    # binding site
+  - Q3273544   # structural motif
+  - Q137796968 # type of chemical reaction
+
+
+core:
+  props:
+    - P31    # instance of
+    - P18    # image
+    - P2888  # exact match
+    - P1343  # described by source
+
+modules:
+  # --- Chemistry Modules ---
+  element:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q11344   # chemical element
+        - Q25276   # isotope
+        - Q846110    # nuclear isomer
+    value_props:
+      - P1086   # atomic number
+      - P246    # element symbol
+      - P2067   # mass
+      - P274    # chemical formula
+
+  compound:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q11173    # chemical compound
+        - Q79529    # chemical substance
+        - Q113145171  # type of chemical entity
+        - Q174211   # organic compound
+        - Q36496    # ion
+        - Q47154513 # structural class of chemical entities
+        - Q59199015 # group of stereoisomers
+        # Hub update round 3 (second pass)
+        - Q17339814 # group or class of chemical substances
+        # Hub update round 4 (second pass)
+        - Q12110334 # mineral class
+        - Q37756    # alloy
+        # Hub update: manual batch
+        - Q214609   # material
+        # Merged from polymer
+        - Q81163    # polymer
+        - Q11474    # plastic
+    value_props:
+      - P274    # chemical formula
+      - P233    # canonical SMILES
+      - P234    # InChI
+      - P231    # CAS Registry Number
+      - P662    # PubChem CID
+
+  mineral:
+    type: relational
+    indicators:
+      P579:   # IMA status and/or rank
+      P556:   # crystal system
+      P2695:  # type locality (geology)
+    value_props:
+      - P579    # IMA status and/or rank
+      - P556    # crystal system
+      - P138    # named after
+      - P2695   # type locality (geology)
+      - P690    # space group
+
+  geology:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q2092603 # member
+        - Q1404150   # rock
+        - Q631305    # rock formation
+        - Q34198935  # submerged rock
+    value_props:
+      - P17    # country
+      - P131   # located in the administrative territorial entity
+      - P706   # located in/on physical feature
+
+  # --- Biomedical Modules ---
+  disease:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q12136    # disease
+        - Q929833   # rare disease
+        - Q112193867  # class of disease
+        - Q179630   # syndrome
+        - Q200779   # genetic disease
+        - Q18123741 # infectious disease
+        - Q8084905  # autoimmune disease
+        - Q1216998  # neoplasm
+        - Q12135    # mental disorder
+        - Q1191065  # heat illness
+      P1995:  # health specialty
+      P2293:  # genetic association
+      P2176:  # drug or therapy used for treatment
+      P828:   # has cause
+      P780:   # symptoms and signs
+    value_props:
+      - P1995   # health specialty
+      - P2293   # genetic association
+      - P2176   # drug or therapy used for treatment
+      - P828    # has cause
+      - P780    # symptoms and signs
+
+  gene:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q7187     # gene
+        - Q20747295 # protein-coding gene
+        - Q2278983  # gene family
+        - Q277338   # pseudogene
+        - Q23838648 # mature microRNA
+        - Q424473   # repetitive DNA
+        - Q37748    # chromosome
+        - Q3780824  # coding region
+    value_props:
+      - P351    # Entrez Gene ID
+      - P1057   # chromosome
+      - P644    # genomic start
+      - P645    # genomic end
+
+  biofunction:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q5058355  # cellular component
+        - Q4915012  # biological pathway
+        - Q47461827 # defined set
+        - Q2996394  # biological process
+        - Q14860489 # molecular function
+    value_props:
+      - P686    # Gene Ontology ID
+      - P2892   # UMLS CUI
+      - P3937   # Reactome ID
+      - P128    # regulates (molecular biology)
+
+  protein:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q8054    # protein
+        - Q420927  # protein complex
+        - Q8047    # enzyme
+        - Q79460   # antibody
+        - Q11364   # hormone
+        - Q417841  # protein family
+        - Q898273  # protein domain
+        - Q81505329 # protein family associated with domain
+        - Q67015883 # group or class of enzymes
+        - Q107509287 # class of protein-containing complexes
+        - Q7251477  # protein superfamily
+    value_props:
+      - P352    # UniProt protein ID
+      - P3382   # GeneDB ID
+      - P637    # RefSeq protein ID
+      - P2926   # InterPro ID
+      - P705    # Ensembl protein ID
+
+  pharmaceutical:
+    type: relational
+    indicators:
+      P3780:   # active ingredient in
+      P2175:   # medical condition treated
+    value_props:
+      - P3780   # active ingredient in
+      - P2175   # medical condition treated
+      - P176    # manufacturer
+
+  anatomy:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q4936952   # anatomical structure
+        - Q24060765  # animal organ
+        - Q712378    # organ
+        - Q265868    # bone
+        - Q7365      # muscle
+        - Q40397     # tissue
+        - Q557677    # primordium
+        - Q190780    # limb
+        - Q3409626   # human head
+        - Q13415392  # appendage
+        # Merged from cell
+        - Q7868      # cell
+        - Q189118    # cell type
+        - Q43054     # neuron
+    value_props:
+      - P780    # symptoms and signs
+      - P1554   # UBERON ID
+      - P1402   # Foundational Model of Anatomy ID
+      - P7963   # Cell Ontology ID
+      - P927    # anatomical location
+      - P8872   # has marker
+
+  organism:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q16521    # taxon
+        - Q7239     # organism
+        - Q726      # horse
+        - Q7432     # species
+        - Q808      # virus
+        - Q756      # plant
+        - Q4886     # cultivar
+        - Q26817508 # rose cultivar
+        - Q23038290 # fossil taxon
+        - Q310890   # monotypic taxon
+        - Q15731356  # apple cultivar
+        - Q958314    # grape variety
+        - Q39367     # dog breed
+        - Q1160573   # horse breed
+        - Q49695242  # restriction enzyme type
+        - Q21160573  # Dahlia cultivar
+        - Q15622363  # sheep breed
+        - Q47487597  # monotypic fossil taxon
+        - Q122811005 # fossil cast
+        - Q124221947 # One Earth Ecoregion
+        - Q6617741   # WWF ecoregion
+    value_props:
+      - P171    # parent taxon
+      - P105    # taxon rank
+      - P225    # taxon name
+
+  botany:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q40763    # seed
+        - Q506      # flower
+        - Q1364     # fruit
+        - Q33971    # leaf
+        - Q41500    # root
+        - Q2707831  # plant tissue
+        - Q484083   # green tea
+        - Q156428   # inflorescence
+        - Q224107   # gall
+    value_props:
+      - P1582   # natural product of taxon
+      - P652    # UNII
+
+  finance:
+    type: relational
+    indicators:
+      P859:    # sponsor
+      P8324:   # funder
+    value_props:
+      - P859   # sponsor
+      - P8324  # funder
+
+  # --- Astronomy Module ---
+  astronomy:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q523      # star
+        - Q3863     # asteroid
+        - Q67206691 # infrared source
+        - Q265392   # near-Earth object
+        - Q59423687 # potentially hazardous asteroid
+        - Q6592     # trans-Neptunian object
+        - Q44559    # exoplanet
+        - Q634      # planet
+        - Q3504248  # inner planet of the Solar System
+        - Q3901935  # inferior planet
+        - Q8928     # constellation
+        - Q67206785 # near-IR source
+        - Q5898     # red supergiant
+        - Q50053    # binary star
+        - Q101600   # brown dwarf
+        - Q6232     # T Tauri-type star
+        - Q1062509  # pre-main-sequence star
+        - Q285400   # flare star
+        - Q830831   # Beta Lyrae variable
+        - Q318      # galaxy
+        - Q1931185  # astronomical radio source
+        - Q1457376  # eclipsing binary star
+        - Q2247863  # high proper-motion star
+        - Q2154519  # astrophysical X-ray source
+        - Q83373    # quasar
+        - Q204107   # galaxy cluster
+        - Q726242   # RR Lyrae variable
+        - Q1151284  # brightest cluster galaxy
+        - Q65259218 # compact group of galaxies
+        - Q1153690  # long-period variable star
+        - Q66619666 # red giant branch star
+        - Q67206701 # far-IR source
+        - Q6243     # variable star
+        - Q2168098  # rotating variable star
+        - Q11282    # H II region
+        - Q1332364  # rotating ellipsoidal variable
+        - Q72802727 # possible red giant branch star
+        - Q12795622 # low-mass star
+        - Q1491746  # galaxy group
+        - Q272447   # molecular cloud
+        - Q6999     # astronomical object
+        - Q72802508 # emission-line galaxy
+        - Q72802977 # young stellar object candidate
+        - Q204194   # dark nebula
+        - Q71798532 # blue object
+        - Q497654   # young stellar object
+        - Q11276    # globular cluster
+        - Q72803708 # possible globular cluster
+        - Q67201574 # sub-millimetric source
+        - Q168845   # star cluster
+        - Q5871     # white dwarf
+        - Q72803426 # horizontal branch star
+        - Q13632    # planetary nebula
+        - Q46587    # active galactic nucleus
+        - Q691269   # W Ursae Majoris variable
+        - Q22247    # gamma-ray burst
+        - Q13890    # double star
+        - Q3887     # solar eclipse
+        - Q3937     # supernova
+        - Q744691   # Mira variable
+        - Q130019   # carbon star
+        - Q72803622 # emission-line star
+        - Q28738741 # interacting galaxies
+        - Q71798788 # UV-emission source
+        - Q24452    # Algol variable
+        - Q67201561 # millimetric radio-source
+        - Q188593   # Cepheid variable
+        - Q1621824  # high-velocity cloud
+        - Q71965429 # Seyfert 1 galaxy
+        - Q71965638 # Seyfert 2 galaxy
+        - Q217012   # radio galaxy
+        - Q5848     # blue straggler
+        - Q115518   # low-surface-brightness galaxy
+        - Q9262     # asterism
+        - Q1142192  # peculiar star
+        - Q50048    # Herbig–Haro object
+        - Q67201586 # HI (21cm) source
+        - Q1341811  # astrophysical maser
+        - Q10451997 # classical Cepheid variable
+        - Q18611609 # unconfirmed exoplanet
+        - Q67201524 # centimetric radio source
+        - Q2557101  # low-ionization nuclear emission-line region
+        - Q2488     # spiral galaxy
+        - Q4360     # pulsar
+        - Q11387    # open cluster
+        - Q1054444  # interstellar cloud
+        - Q54231557 # hot subdwarf star
+        - Q71962386 # gamma-ray source
+        - Q2680861  # transient astronomical event
+        - Q836976   # Delta Scuti variable
+        - Q353834   # pulsating variable star
+        - Q1993624  # spectroscopic binary
+        - Q6458     # nova
+        - Q845371   # void
+        - Q41872  # interstellar medium
+        - Q244264  # dwarf nova
+        - Q55818     # impact crater
+        - Q3240715   # crater
+        - Q1348589   # lunar crater
+        - Q1475691   # Mars crater
+        - Q60186     # meteorite
+    value_props:
+      - P6259   # epoch
+      - P59     # constellation
+      - P215    # spectral class
+      - P2583   # distance from Earth
+      - P1215   # apparent magnitude
+      - P5736   # Minor Planet Center body ID
+      - P716    # JPL Small-Body Database SPK-ID
+
+  # --- Additional Biology/Medical ---
+  clinical:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q30612    # clinical trial
+        - Q21014462 # cell line
+        - Q28885102 # pharmaceutical product
+        - Q108572660 # International Space Station experiment
+    value_props:
+      - P580   # start time
+      - P582   # end time
+
+  healthcare:
+    type: relational
+    indicators:
+      P1050:   # medical condition
+      P2175:   # medical condition treated
+    value_props:
+      - P2175  # medical condition treated
+      - P1050  # medical condition
+
+  education:
+    type: relational
+    indicators:
+      P50:     # author
+      P577:    # publication date
+      P1433:   # published in
+      P356:    # DOI
+    value_props:
+      - P50     # author
+      - P577    # publication date
+      - P1433   # published in
+      - P356    # DOI
+
+  # --- New Relational Modules ---
+  hierarchy:
+    type: relational
+    indicators:
+      P279:   # subclass of
+      P361:   # part of
+      P527:   # has part(s)
+    value_props:
+      - P279   # subclass of
+      - P361   # part of
+      - P527   # has part(s)
+
+  biosystem:
+    type: relational
+    indicators:
+      P703:   # found in taxon
+      P702:   # encoded by
+      P680:   # molecular function
+      P682:   # biological process
+      P681:   # cell component
+    value_props:
+      - P703   # found in taxon
+      - P702   # encoded by
+      - P680   # molecular function
+      - P682   # biological process
+      - P681   # cell component
+
+  clinical_trial:
+    type: relational
+    indicators:
+      P3098:   # ClinicalTrials.gov ID
+      P6099:   # clinical trial phase
+      P6153:   # research site
+      P4844:   # research intervention
+      P8005:   # research subject recruitment status
+    value_props:
+      - P8363  # study type
+      - P1050  # medical condition
+      - P6099  # clinical trial phase
+      - P6153  # research site
+      - P4844  # research intervention
+      - P8005  # research subject recruitment status
+
+  cell_lineage:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q21014462  # cell line
+      P9072:   # derived from organism type
+      P5166:   # established from medical condition
+      P3432:   # parent cell line
+      P3578:   # autologous cell line
+    value_props:
+      - P9072  # derived from organism type
+      - P5166  # established from medical condition
+      - P3432  # parent cell line
+      - P3578  # autologous cell line
+
+  genomics:
+    type: relational
+    indicators:
+      P688:   # encodes
+      P684:   # ortholog
+      P2548:  # strand orientation
+    value_props:
+      - P684   # ortholog
+      - P688   # encodes
+      - P2548  # strand orientation

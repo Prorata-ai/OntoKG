@@ -1,0 +1,28 @@
+# Rust
+src/rust/target/
+Cargo.lock
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Data (too large for git)
+data_dump/
+data_dump_core/
+data_dump_core_output/
+data_dump_output/
+*.lmdb
+*.parquet
+
+# OS
+.DS_Store
+
+# Logs
+logs/
+
+# Secrets
+.env
+*.pem
+*.key

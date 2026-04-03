@@ -1,0 +1,796 @@
+# Products & Artifacts Category Tags
+
+gate_qids:
+  # Service
+  - Q1254596   # software as a service
+  - Q7094076   # online database
+  - Q483639    # cloud computing
+  - Q1346018   # infrastructure as a service
+  # Aircraft
+  - Q11436     # aircraft
+  - Q34486     # helicopter
+  - Q197       # airplane
+  - Q484000    # unmanned aerial vehicle
+  - Q210932    # airliner
+  - Q15056993  # aircraft family
+  - Q5396245   # solar-powered aircraft
+  - Q1372231   # light aircraft
+  - Q1384417   # experimental aircraft
+  - Q2438179   # civil aircraft
+  - Q842262    # narrow-body airliner
+  - Q41426     # trainer
+  - Q2312440   # sportplane
+  - Q2125613   # land-based aircraft
+  # Vehicle
+  - Q34493     # motorcycle
+  - Q11446     # ship
+  - Q12876     # tank
+  - Q3231690   # automobile model
+  - Q19832486  # locomotive class
+  - Q15056995  # aircraft model
+  - Q15276     # bulk carrier
+  - Q55725952  # tractor model
+  - Q105999    # cargo ship
+  - Q14928     # oil tanker
+  - Q811704    # rolling stock class
+  - Q17210     # container ship
+  - Q559026    # ship class
+  - Q11442     # bicycle
+  - Q870       # train
+  - Q811701    # model series
+  - Q10929058  # product model
+  - Q15057021  # engine model
+  - Q174736    # destroyer
+  - Q14970     # tanker
+  - Q23866334  # motorcycle model
+  - Q1420024   # fishing vessel
+  - Q106179098 # sailboat class
+  - Q2811      # submarine
+  - Q12859788  # steamship
+  - Q191826    # tug
+  - Q428661    # U-boat
+  - Q202527    # minesweeper
+  - Q11229656  # tank landing ship
+  - Q23039057  # bus model
+  - Q850270    # concept car
+  - Q21546143  # truck model
+  - Q1420      # car
+  - Q2928814   # LPG carrier
+  - Q15254     # chemical tanker
+  - Q1499623   # destroyer escort
+  - Q76154857  # tram model
+  - Q178193    # steamboat
+  - Q928235    # sloop-of-war
+  - Q4818021   # attack submarine
+  - Q15057020  # engine family
+  # Computer
+  - Q68        # computer
+  - Q121117    # supercomputer
+  - Q16338     # personal computer
+  - Q3962      # laptop
+  - Q32738     # microcomputer
+  - Q60484681  # computer model series
+  - Q55990535  # computer model
+  # Software
+  - Q7397      # software
+  - Q35127     # website
+  - Q9135      # operating system
+  - Q341       # free software
+  - Q8513      # database
+  - Q29642950  # Python package
+  - Q783866    # JavaScript library
+  - Q6805426   # MediaWiki extension
+  - Q19541     # search engine
+  - Q1403556   # reference management software
+  - Q3327521   # online dictionary
+  - Q189210    # web application
+  - Q21127166  # Java software library
+  - Q506883    # free and open-source software
+  - Q28051323  # video-conferencing software
+  - Q2462003   # instant messaging client
+  - Q12607437  # dictionary of the English language
+  - Q6368      # web browser
+  - Q131669    # Linux distribution
+  - Q20983788  # free operating system
+  - Q131212    # text editor
+  - Q218616    # proprietary software
+  - Q13741     # integrated development environment
+  - Q166142    # application
+  - Q1330336   # web framework
+  - Q271680    # software framework
+  - Q20826013  # software version
+  - Q54277     # word processor
+  - Q620615    # mobile app
+  - Q73539779  # R package
+  - Q112607797 # Bioconductor project
+  - Q17451     # typeface
+  # Game
+  - Q7889      # video game
+  - Q7058673   # video game series
+  - Q131436    # board game
+  - Q142714    # card game
+  - Q209163    # expansion add-on
+  - Q8076      # video game console
+  - Q241317    # computing platform
+  - Q7927908   # video game accessory
+  - Q17589470  # home video game console
+  - Q71631512  # tabletop role-playing game supplement
+  - Q1643932   # tabletop role-playing game
+  - Q865493    # video game mod
+  - Q16070115  # video game compilation
+  - Q11410     # game
+  - Q659563    # video game genre
+  # Electronics
+  - Q17517     # mobile phone
+  - Q15328     # camera
+  - Q22645     # smartphone
+  - Q8075      # television set
+  - Q19723451  # smartphone model
+  - Q581105    # consumer electronics
+  - Q20741022  # digital camera model
+  - Q19723444  # cell phone model
+  - Q20888659  # camera model
+  - Q109672300 # lens model
+  # Weapon
+  - Q728       # weapon
+  - Q12791     # sword
+  - Q12796     # firearm
+  - Q1481202   # mine
+  - Q191576    # ceremonial sword
+  - Q15097957  # ceremonial weapon
+  - Q2760821   # sword of state
+  - Q131559    # shield
+  - Q12802     # nuclear weapon
+  - Q15142894  # weapon model
+  - Q124078422 # weapon type
+  - Q124056273 # artillery model
+  - Q42314054  # ammunition model
+  - Q18487055  # missile model
+  - Q22704163  # firearm model
+  - Q324233    # torpedo boat
+  # Food
+  - Q2095      # food
+  - Q746549    # dish
+  - Q40050     # drink
+  - Q3314483   # fruit
+  - Q7802      # bread
+  - Q10943     # cheese
+  - Q4173974   # flavoring
+  - Q2223649   # French cheese
+  - Q182940    # dessert
+  - Q12582288  # processed food
+  - Q4159174   # ice cream-based dessert
+  - Q3546121   # type of cheese
+  - Q3367403   # health food
+  - Q25403900  # food ingredient
+  - Q4764984   # animal-based food
+  - Q127658477 # Papa Louie special recipe
+  # Tool
+  - Q11019     # machine
+  - Q11012     # robot
+  - Q39546     # physical tool
+  - Q2041172   # measuring instrument
+  - Q1183543   # appliance
+  - Q1366621   # extruder
+  - Q1351693   # snow blower
+  - Q1534709   # gold dredge
+  # Clothing
+  - Q11460     # clothing
+  - Q80151     # hat
+  # Furniture
+  - Q14745     # furniture
+  - Q42177     # bed
+  - Q14748     # table
+  - Q15026     # chair
+  # Instrument
+  - Q34379     # musical instrument
+  - Q78987     # electric guitar
+  - Q1798603   # string instrument
+  - Q173453    # wind instrument
+  - Q610678    # multi-neck guitar
+  - Q110295396 # type of musical instrument
+  - Q281460    # pipe organ
+  - Q1254773   # family of musical instruments
+  # Currency
+  - Q8142      # currency
+  - Q41207     # coin
+  - Q13479982  # cryptocurrency
+  - Q47433     # banknote
+  - Q113813711 # coin type
+  # Mythology
+  - Q20203727  # mythical object
+  - Q15720870  # fictional weapon
+  - Q54879087  # mythological weapon
+  - Q16521098  # Norse mythical object
+  - Q15831596  # class of fictional entities
+  - Q57820681  # fictional megastructure
+  - Q18572946  # fictional space station
+  - Q50614237  # fictional ring
+  - Q23090938  # fictional device
+  # Timepiece
+  - Q178794    # watch
+  - Q26965868  # wristwatch
+  - Q376       # timepiece
+  # Material
+  - Q28823     # textile
+  - Q1493054   # type of wood
+  # Symbol
+  - Q21850100  # municipal flag
+  # Artifact
+  - Q131557    # amulet
+  - Q2442735   # scarab
+  - Q42195     # petroglyph
+  - Q1211146   # rock art
+  - Q161439    # jewelry
+  - Q2111434   # pendant
+  - Q4501454   # Christian relic
+  - Q14659     # coat of arms
+  - Q22807280  # flag of a country subdivision
+  - Q343566    # action figure
+  - Q28147344  # Dutch municipal coat of arms
+  - Q14660     # flag
+  # Brand
+  - Q431289    # brand
+  - Q167270    # trademark
+  - Q16323605  # food brand
+  - Q15075508  # beer brand
+  # Hub update round 2 — software
+  - Q81989119  # video game distribution platform
+  - Q3814081   # app marketplace
+  # Hub update round 5 — software
+  - Q14656     # Unix-like operating system
+  # Hub update round 4 (second pass) — game
+  - Q15654425  # electronic toy
+  # Hub update round 6 (second pass) — cloud
+  - Q15590336  # music streaming service
+  # Hub update: manual batch — device
+  - Q62008942  # electronic device model
+  # Hub update: manual batch — cloud
+  - Q59152282  # video streaming service
+
+
+core:
+  props:
+    - P31    # instance of
+    - P279   # subclass of
+    - P176   # manufacturer
+    - P571   # inception
+    - P18    # image
+    - P495   # country of origin
+    - P577   # publication date
+    - P856   # official website
+
+modules:
+  cloud:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q1254596   # software as a service
+        - Q7094076   # online database
+        - Q483639    # cloud computing
+        - Q1346018   # infrastructure as a service
+        # Hub update round 6 (second pass)
+        - Q15590336  # music streaming service
+        # Hub update: manual batch
+        - Q59152282  # video streaming service
+    value_props:
+      - P17     # country
+      - P407    # language of work or name
+      - P921    # main subject
+      - P275    # copyright license
+
+  aircraft:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q11436    # aircraft
+        - Q34486    # helicopter
+        - Q197      # airplane
+        - Q484000   # unmanned aerial vehicle
+        - Q210932   # airliner
+        - Q15056993 # aircraft family
+        - Q5396245  # solar-powered aircraft
+        - Q1372231  # light aircraft
+        - Q1384417  # experimental aircraft
+        - Q2438179  # civil aircraft
+        - Q842262   # narrow-body airliner
+        - Q41426    # trainer
+        - Q2312440  # sportplane
+        - Q2125613  # land-based aircraft
+    value_props:
+      - P516    # powered by
+      - P606    # first flight
+      - P1092   # total produced
+      - P2043   # length
+      - P2050   # wingspan
+      - P1654   # wing configuration
+
+  vehicle:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q34493    # motorcycle
+        - Q11446    # ship
+        - Q12876    # tank
+        - Q3231690  # automobile model
+        - Q19832486 # locomotive class
+        - Q15056995 # aircraft model
+        - Q15276    # bulk carrier
+        - Q55725952 # tractor model
+        - Q105999   # cargo ship
+        - Q14928    # oil tanker
+        - Q811704   # rolling stock class
+        - Q17210    # container ship
+        - Q559026   # ship class
+        - Q11442    # bicycle
+        - Q870      # train
+        - Q811701   # model series
+        - Q10929058  # product model
+        - Q15057021  # engine model
+        - Q174736    # destroyer
+        - Q14970     # tanker
+        - Q23866334  # motorcycle model
+        - Q1420024   # fishing vessel
+        - Q106179098 # sailboat class
+        - Q2811      # submarine
+        - Q12859788  # steamship
+        - Q191826    # tug
+        - Q428661    # U-boat
+        - Q202527    # minesweeper
+        - Q11229656  # tank landing ship
+        - Q23039057  # bus model
+        - Q850270    # concept car
+        - Q21546143  # truck model
+        - Q1420      # car
+        - Q2928814   # LPG carrier
+        - Q15254     # chemical tanker
+        - Q1499623   # destroyer escort
+        - Q76154857  # tram model
+        - Q178193    # steamboat
+        - Q928235    # sloop-of-war
+        - Q4818021   # attack submarine
+        - Q15057020  # engine family
+    value_props:
+      - P2043   # length
+      - P2049   # width
+      - P793    # significant event
+      - P729    # service entry
+      - P458    # IMO ship number
+      - P1093   # gross tonnage
+      - P4519   # payload mass
+      - P1092   # total produced
+
+  computer:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q68       # computer
+        - Q121117   # supercomputer
+        - Q16338    # personal computer
+        - Q3962     # laptop
+        - Q32738    # microcomputer
+        - Q60484681 # computer model series
+        - Q55990535  # computer model
+    value_props:
+      - P880    # CPU
+      - P1141   # number of processor cores
+      - P7256   # computer performance
+
+  software:
+    type: relational
+    indicators:
+      P407:        # language of work or name
+      P275:        # copyright license
+      P31:  # instance of
+        - Q7397     # software
+        - Q35127    # website
+        - Q341      # free software
+        - Q9135     # operating system
+        - Q7889     # video game
+        - Q8513     # database
+        - Q29642950 # Python package
+        - Q783866   # JavaScript library
+        - Q6805426  # MediaWiki extension
+        - Q19541    # search engine
+        - Q1403556  # reference management software
+        - Q3327521  # online dictionary
+        - Q189210   # web application
+        - Q21127166 # Java software library
+        - Q506883   # free and open-source software
+        - Q28051323 # video-conferencing software
+        - Q2462003  # instant messaging client
+        - Q12607437 # dictionary of the English language
+        - Q6368     # web browser
+        - Q131669   # Linux distribution
+        - Q20983788 # free operating system
+        - Q131212   # text editor
+        - Q218616   # proprietary software
+        - Q13741    # integrated development environment
+        - Q166142   # application
+        - Q1330336  # web framework
+        - Q271680   # software framework
+        - Q20826013 # software version
+        - Q54277    # word processor
+        - Q620615    # mobile app
+        - Q73539779  # R package
+        - Q112607797 # Bioconductor project
+        - Q17451     # typeface
+        # Hub update round 2
+        - Q81989119  # video game distribution platform
+        - Q3814081   # app marketplace
+        # Hub update round 5
+        - Q14656     # Unix-like operating system
+    value_props:
+      - P407    # language of work or name
+      - P275    # copyright license
+
+  game:
+    type: relational
+    indicators:
+      P400:        # platform
+      P136:        # genre
+      P404:        # game mode
+      P437:        # distribution format
+      P31:  # instance of
+        - Q7889     # video game
+        - Q7058673  # video game series
+        - Q131436   # board game
+        - Q142714   # card game
+        - Q209163   # expansion add-on
+        - Q8076     # video game console
+        - Q241317   # computing platform
+        - Q7927908  # video game accessory
+        - Q17589470 # home video game console
+        - Q71631512  # tabletop role-playing game supplement
+        - Q1643932   # tabletop role-playing game
+        - Q865493    # video game mod
+        - Q16070115  # video game compilation
+        - Q11410     # game
+        - Q659563    # video game genre
+        # Hub update round 4 (second pass)
+        - Q15654425  # electronic toy
+    value_props:
+      - P400    # platform
+      - P136    # genre
+      - P404    # game mode
+      - P437    # distribution format
+
+  device:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q17517    # mobile phone
+        - Q15328    # camera
+        - Q22645    # smartphone
+        - Q8075     # television set
+        - Q19723451 # smartphone model
+        - Q581105   # consumer electronics
+        - Q20741022  # digital camera model
+        - Q19723444  # cell phone model
+        - Q20888659  # camera model
+        - Q109672300 # lens model
+        # Hub update: manual batch
+        - Q62008942  # electronic device model
+    value_props:
+      - P2067   # mass
+      - P2935   # connector
+      - P2151   # focal length
+
+  military:
+    type: relational
+    indicators:
+      P607:        # participated in conflict
+      P739:        # ammunition
+      P31:  # instance of
+        - Q728      # weapon
+        - Q12791    # sword
+        - Q12796    # firearm
+        - Q1481202  # mine
+        - Q191576   # ceremonial sword
+        - Q15097957 # ceremonial weapon
+        - Q2760821  # sword of state
+        - Q131559   # shield
+        - Q12802    # nuclear weapon
+        - Q15142894  # weapon model
+        - Q124078422 # weapon type
+        - Q124056273 # artillery model
+        - Q42314054  # ammunition model
+        - Q18487055  # missile model
+        - Q22704163  # firearm model
+        - Q324233    # torpedo boat
+    value_props:
+      - P607    # participated in conflict
+      - P739    # ammunition
+
+  food:
+    type: relational
+    indicators:
+      P186:        # made from material
+      P2012:       # cuisine
+      P1582:       # natural product of taxon
+      P2341:       # indigenous to
+      P31:  # instance of
+        - Q2095     # food
+        - Q746549   # dish
+        - Q40050    # drink
+        - Q3314483  # fruit
+        - Q7802     # bread
+        - Q10943    # cheese
+        - Q4173974  # flavoring
+        - Q2223649  # French cheese
+        - Q182940   # dessert
+        - Q12582288 # processed food
+        - Q4159174  # ice cream-based dessert
+        - Q3546121  # type of cheese
+        - Q3367403  # health food
+        - Q25403900 # food ingredient
+        - Q4764984  # animal-based food
+        - Q127658477 # Papa Louie special recipe
+    value_props:
+      - P186    # made from material
+      - P2012   # cuisine
+      - P1582   # natural product of taxon
+      - P2341   # indigenous to
+
+  tool:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q11019    # machine
+        - Q11012    # robot
+        - Q39546    # physical tool
+        - Q2041172  # measuring instrument
+        - Q1183543  # appliance
+        - Q1366621  # extruder
+        - Q1351693  # snow blower
+        - Q1534709  # gold dredge
+    value_props:
+      - P366    # has use
+      - P186    # made from material
+      - P217    # inventory number
+
+  currency:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q8142     # currency
+        - Q41207    # coin
+        - Q47433    # banknote
+        - Q13479982 # cryptocurrency
+        - Q113813711 # coin type
+    value_props:
+      - P17     # country
+      - P3934   # face value
+      - P1419   # shape
+      - P2079   # fabrication method
+      - P2067   # mass
+      - P2386   # diameter
+      - P186    # made from material
+      - P580    # start time
+      - P582    # end time
+      - P12949  # denomination
+      - P2284   # price
+
+  religion:
+    type: relational
+    indicators:
+      P1441:       # present in work
+      P140:        # religion or worldview
+      P138:        # named after
+      P31:  # instance of
+        - Q20203727 # mythical object
+        - Q54879087 # mythological weapon
+        - Q16521098 # Norse mythical object
+    value_props:
+      - P1441   # present in work
+      - P140    # religion or worldview
+      - P138    # named after
+
+  fiction:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q15720870 # fictional weapon
+        - Q15831596 # class of fictional entities
+        - Q57820681 # fictional megastructure
+        - Q18572946 # fictional space station
+        - Q50614237 # fictional ring
+        - Q23090938 # fictional device
+    value_props:
+      - P1080   # from narrative universe
+      - P1441   # present in work
+      - P1074   # fictional or mythical analog of
+      - P4584   # first appearance
+
+  material:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q28823   # textile
+        - Q1493054 # type of wood
+    value_props:
+      - P217    # inventory number
+      - P6216   # copyright status
+      - P1582   # natural product of taxon
+      - P186    # made from material
+
+  artifact:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q131557   # amulet
+        - Q2442735  # scarab
+        - Q42195    # petroglyph
+        - Q1211146  # rock art
+        - Q161439   # jewelry
+        - Q2111434  # pendant
+        - Q4501454  # Christian relic
+        - Q21850100 # municipal flag
+        - Q14659     # coat of arms
+        - Q22807280  # flag of a country subdivision
+        - Q343566    # action figure
+        - Q28147344  # Dutch municipal coat of arms
+        - Q14660     # flag
+        # Merged from timepiece
+        - Q376       # timepiece
+        - Q178794    # watch
+        - Q26965868  # wristwatch
+        # Merged from clothing
+        - Q11460     # clothing
+        - Q80151     # hat
+        # Merged from furniture
+        - Q14745     # furniture
+        - Q42177     # bed
+        - Q14748     # table
+        - Q15026     # chair
+    value_props:
+      - P17     # country
+      - P180    # depicts
+      - P217    # inventory number
+      - P6216   # copyright status
+      - P2348   # time period
+      - P186    # made from material
+      - P2049   # width
+      - P2048   # height
+      - P2596   # culture
+      - P462    # color
+
+  brand:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q431289    # brand
+        - Q167270    # trademark
+        - Q16323605  # food brand
+        - Q15075508  # beer brand
+    value_props:
+      - P17     # country
+      - P452    # industry
+      - P154    # logo image
+      - P1056   # product or material produced
+
+  entertainment:
+    type: relational
+    indicators:
+      P136:        # genre
+      P345:        # IMDb ID
+      P31:  # instance of
+        - Q34379     # musical instrument
+        - Q78987     # electric guitar
+        - Q1798603   # string instrument
+        - Q173453    # wind instrument
+        - Q610678    # multi-neck guitar
+        - Q110295396 # type of musical instrument
+        - Q281460    # pipe organ
+        - Q1254773   # family of musical instruments
+    value_props:
+      - P136    # genre
+
+  transportation:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q11436    # aircraft
+        - Q197      # airplane
+        - Q34486    # helicopter
+        - Q210932   # airliner
+        - Q34493    # motorcycle
+        - Q11446    # ship
+        - Q3231690  # automobile model
+        - Q870      # train
+        - Q11442    # bicycle
+    value_props:
+      - P793    # significant event
+      - P729    # service entry
+
+  technology:
+    type: relational
+    indicators:
+      P277:        # programmed in
+      P306:        # operating system
+      P348:        # software version identifier
+      P1547:       # depends on software
+    value_props:
+      - P277    # programmed in
+      - P275    # copyright license
+      - P1547   # depends on software
+
+  award:
+    type: relational
+    indicators:
+      P166:        # award received
+      P1411:       # nominated for
+    value_props:
+      - P166   # award received
+      - P1411  # nominated for
+
+  authorship:
+    type: relational
+    indicators:
+      P123:        # publisher
+      P178:        # developer
+      P750:        # distributed by
+      P127:        # owned by
+      P176:        # manufacturer
+      P797:        # authority
+      P170:        # creator
+      P287:        # designed by
+      P8345:       # media franchise
+      P1716:       # brand
+    value_props:
+      - P750    # distributed by
+      - P178    # developer
+      - P797    # authority
+      - P123    # publisher
+      - P127    # owned by
+      - P170    # creator
+      - P287    # designed by
+      - P8345   # media franchise
+      - P1716   # brand
+
+  location:
+    type: relational
+    indicators:
+      P276:        # location
+      P131:        # located in the administrative territorial entity
+      P8047:       # country of registry
+      P532:        # port of registry
+      P625:        # coordinate location
+      P1071:       # location of creation
+      P159:        # headquarters location
+      P1001:       # applies to jurisdiction
+    value_props:
+      - P8047   # country of registry
+      - P1071   # location of creation
+      - P276    # location
+      - P532    # port of registry
+      - P131    # located in the administrative territorial entity
+      - P625    # coordinate location
+      - P159    # headquarters location
+      - P1001   # applies to jurisdiction
+
+  hierarchy:
+    type: relational
+    indicators:
+      P195:        # collection
+      P527:        # has part(s)
+      P361:        # part of
+      P155:        # follows
+      P156:        # followed by
+      P179:        # part of the series
+    value_props:
+      - P361    # part of
+      - P195    # collection
+      - P527    # has part(s)
+      - P155    # follows
+      - P156    # followed by
+      - P179    # part of the series
+
+  operation:
+    type: relational
+    indicators:
+      P306:        # operating system
+      P137:        # operator
+    value_props:
+      - P306    # operating system
+      - P137    # operator

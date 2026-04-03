@@ -1,0 +1,65 @@
+[package]
+name = "wikidata-tags"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "tags"
+path = "src/lib.rs"
+
+[[bin]]
+name = "classify_dump"
+path = "src/bin/classify_dump.rs"
+
+[[bin]]
+name = "extract_category"
+path = "src/bin/extract_category.rs"
+
+[[bin]]
+name = "detect_bulk"
+path = "src/bin/detect_bulk.rs"
+
+[[bin]]
+name = "filter_core"
+path = "src/bin/filter_core.rs"
+
+[[bin]]
+name = "count_categories"
+path = "src/bin/count_categories.rs"
+
+[[bin]]
+name = "export_neo4j"
+path = "src/bin/export_neo4j.rs"
+
+[[bin]]
+name = "tag_validator"
+path = "src/bin/tag_validator.rs"
+
+[[bin]]
+name = "build_lmdb"
+path = "src/bin/build_lmdb.rs"
+
+[dependencies]
+csv = "1"
+regex = "1"
+once_cell = "1"
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
+serde_json = { version = "1", features = ["preserve_order"] }
+
+# For classify_dump binary
+clap = { version = "4", features = ["derive"] }
+rayon = "1.10"
+zstd = "0.13"
+heed = "0.20"
+parquet = { version = "53", features = ["zstd"] }
+arrow = "53"
+indicatif = { version = "0.17", features = ["rayon"] }
+simd-json = "0.14"
+crossbeam-channel = "0.5"
+parking_lot = "0.12"
+anyhow = "1"
+
+[profile.release]
+lto = true
+codegen-units = 1

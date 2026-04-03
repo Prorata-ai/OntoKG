@@ -1,0 +1,1301 @@
+# Organizations Category Tags
+
+gate_qids:
+  - Q4830453   # business
+  - Q783794    # company
+  - Q43229     # organization
+  - Q163740    # nonprofit organization
+  - Q3918      # university
+  - Q327333    # government agency
+  - Q7278      # political party
+  - Q2659904   # government organization
+  - Q484652    # international organization
+  - Q9842      # primary school
+  - Q159334    # secondary school
+  - Q9826      # high school
+  - Q215380    # musical group
+  - Q476028    # association football club
+  - Q14350     # radio station
+  - Q11032     # newspaper
+  - Q1664720   # institute
+  - Q13226383  # facility
+  - Q5341295   # educational organization
+  - Q3914      # school
+  - Q176799    # military unit
+  - Q16917     # hospital
+  - Q48204     # voluntary association
+
+  - Q1254874  # television network
+  - Q1331793  # media company
+  - Q15265344  # broadcaster
+  - Q1616075  # television station
+  - Q17232649  # news website
+  - Q18127  # record label
+  - Q186165  # web portal
+  - Q189004  # college
+  - Q192283  # news agency
+  - Q22687  # bank
+  - Q2385804  # educational institution
+  - Q245065  # intergovernmental organization
+  - Q2516866  # publisher
+  - Q4120211  # regional organization
+  - Q5741069  # rock band
+  # Education additions
+  - Q1080794  # public school
+  - Q423208   # private school
+  - Q19855165 # rural school
+  - Q67015940 # Government Boys' Primary School
+  - Q126807   # kindergarten
+  - Q2467461  # academic department
+  # Sports additions
+  - Q847017   # sports club
+  - Q57775518 # lower secondary school
+  - Q398141   # school district
+  - Q26271642 # library network
+  - Q2085381  # publishing house
+  - Q123945716 # public primary school in Morocco
+  - Q64063317 # lower primary school
+  - Q56177191 # comprehensive institute
+  - Q67015944 # Government Girls Primary School
+  - Q166118   # archives
+  - Q6138528  # political coalition
+  - Q20950067 # elementary school
+  - Q4671277  # academic institution
+  - Q64063386 # upper primary school
+  - Q56855687 # Perseroan Terbatas
+  - Q31855    # research institute
+  - Q149566   # middle school
+  - Q3803834  # istituto tecnico
+  - Q180958   # faculty
+  - Q6881511  # enterprise
+  - Q45400320 # open-access publisher
+  - Q8436     # family
+  - Q4287745  # medical organization
+  - Q11396960 # production company
+  - Q46970    # airline
+  - Q79913    # non-governmental organization
+  - Q13417114 # noble family
+  - Q285852   # volunteer fire department
+  - Q64062731 # higher secondary school
+  - Q38723    # higher education institution
+  - Q3803808  # professional institute
+  - Q134739441 # rural settlement school
+  - Q210167  # video game developer
+  - Q7137435  # parish council
+  - Q56351315  # Japanese high school
+  - Q2418495  # independent school
+  - Q134739026  # Indigenous school
+  - Q1076052  # preschool
+  - Q13393265  # basketball team
+  - Q4498974  # ice hockey team
+  - Q1638962  # chitalishte
+  - Q2416217  # theatre troupe
+  - Q11812394  # theatre company
+  - Q72984778  # Federal Bank
+  - Q891723   # public company
+  - Q7257872  # public hospital
+  - Q64578911 # former hospital
+  - Q4260475  # medical facility
+  - Q11902693 # coeducational school
+  - Q5155053  # community school
+  - Q4671329  # academy school
+  - Q67388747 # urban school
+  - Q22713629 # girls' school
+  - Q1713379  # boys' school
+  - Q322563   # vocational school
+  - Q5774403  # historical society
+  - Q157031   # foundation
+  - Q47913    # intelligence agency
+  - Q270791   # state-owned enterprise
+  - Q730038   # credit institution
+  - Q4438121  # sports organization
+  # Sports additions
+  - Q13027888  # baseball team
+  - Q623109    # sports league
+  - Q18558301  # college sports team
+  - Q2485448   # sports governing body
+  - Q12973014  # sports team
+  - Q14645593  # rugby union team
+  - Q17156793  # American football team
+  - Q17374546  # Australian rules football club
+  - Q2367225   # university and college sports club
+  - Q15944511  # association football team
+  - Q20639848  # club cycling team
+  - Q15991303  # association football league
+  - Q15720476  # volleyball team
+  - Q1194951   # national sports team
+  - Q6979593   # national association football team
+  - Q17376093  # cricket team
+  - Q10517054  # handball team
+  - Q46351685  # national basketball team
+  - Q28140340  # women's association football team
+  - Q43009164  # rugby union club
+  - Q20738667  # under-23 national cycling team
+  # Entertainment additions
+  - Q1762059   # film production company
+  - Q2088357   # musical ensemble
+  - Q9212979   # musical duo
+  - Q10648343  # duo
+  - Q131186    # choir
+  - Q42998     # orchestra
+  - Q14073567  # sibling duo
+  - Q375336    # film studio
+  - Q10689397  # television production company
+  - Q641066    # girl band
+  - Q2393314   # dance troupe
+  - Q1107679   # animation studio
+  - Q25391823  # punk band
+  # Society additions
+  - Q15911314  # association
+  - Q955824    # learned society
+  - Q708676    # charitable organization
+  - Q1415423   # quilombo community
+  - Q829080    # professional association
+  - Q2178147   # trade association
+  - Q1530022   # religious organization
+  - Q1685451   # student society
+  - Q155271    # think tank
+  - Q2882257   # First Nation band
+  - Q1156831   # umbrella organization
+  # Education additions
+  - Q12513145  # sekolah tinggi
+  - Q133804953 # quilombola school
+  - Q7315155   # research center
+  - Q483242    # laboratory
+  - Q1241025   # research group
+  - Q162633    # academy
+  - Q65032826  # folkeskole
+  - Q902104    # private university
+  - Q132834    # madrasa
+  # Government additions
+  - Q732717    # law enforcement agency
+  - Q4414033   # rural council of Ukraine
+  - Q17014622  # Dutch municipal council
+  - Q192350    # ministry
+  - Q21562164  # National Historical Commission of the Philippines historical marker
+  - Q55454947  # subcommittee of a technical committee
+  - Q11204     # legislature
+  - Q15140073  # subdistrict administrative organization
+  - Q2592651   # union council of Pakistan
+  - Q6498663   # fire department
+  # Media additions
+  - Q2001305   # television channel
+  - Q1110794   # daily newspaper
+  - Q1320047   # book publisher
+  - Q81529763  # postcard publishing company
+  - Q1153191   # online newspaper
+  - Q2305295   # weekly newspaper
+  - Q1137109   # video game publisher
+  # Corporation additions
+  - Q4387609   # architectural firm
+  - Q786820    # automobile manufacturer
+  - Q10438042  # bus company
+  - Q740752    # transport company
+  - Q6500733   # printing company
+  - Q1589009   # privately held company
+  - Q658255    # subsidiary company
+  - Q613142    # law firm
+  - Q1058914   # software company
+  # Military additions
+  - Q1875630   # aircraft fleet
+  - Q679165    # squadron
+  - Q52371     # regiment
+  - Q169534    # military division
+  - Q334453    # division
+  - Q10358588  # infantry regiment
+  # Finance additions
+  - Q66789788  # Karnataka Bank Limited branch
+  # Culture additions
+  - Q1400264   # artist collective
+  # Society additions
+  - Q1965390   # Narrenzunft
+  # Transportation additions
+  - Q15141321  # train service
+  - Q15145593  # tram service
+  - Q91908084  # passenger train service
+  - Q67454740  # named passenger train service
+  # Hub update round 1 — education
+  - Q875538    # public university
+  - Q23002039  # public educational institution of the United States
+  - Q62078547  # public research university
+  - Q615150    # land-grant university
+  - Q15936437  # research university
+  - Q494230    # medical school
+  - Q23002054  # private not-for-profit educational institution
+  - Q1767829   # comprehensive university
+  - Q1371037   # institute of technology
+  - Q3551775   # university in France
+  - Q265662    # national university
+  # Hub update round 1 — government
+  - Q2122214   # national archives
+  - Q1752939   # independent agency of the United States government
+  - Q464780    # mint
+  - Q20857065  # United States federal agency
+  # Hub update round 1 — military
+  - Q37726     # army
+  - Q4508      # navy
+  # Hub update round 2 — education
+  - Q414147    # academy of sciences
+  - Q383092    # art academy
+  - Q1377182   # liberal arts college
+  - Q1321960   # law school
+  - Q1966910   # national academy
+  - Q184644    # conservatory
+  - Q847027    # grande école
+  - Q2143781   # drama school
+  # Hub update round 2 — transportation
+  - Q249556    # railway company
+  # Hub update round 2 — government
+  - Q189445    # bicameral legislature
+  - Q35749     # parliament
+  # Hub update round 2 — legal
+  - Q190752    # supreme court
+  # Hub update round 2 — religion
+  - Q18917976  # Anglican diocese
+  # Hub update round 2 — politics
+  - Q233591    # communist party
+  - Q2023214   # political party in Germany
+  - Q40482169  # defunct political party
+  # Hub update round 2 — sports
+  - Q15991290  # professional sports league
+  - Q15221215  # rugby league team
+  # Hub update round 2 — healthcare
+  - Q1059324   # university hospital
+  # Hub update round 2 — military
+  - Q917182    # military academy
+  - Q61883     # air force
+  # Hub update round 3 — sports
+  - Q11422536  # international sport governing body
+  - Q1478443   # association football federation
+  - Q94579592  # defunct association football club
+  - Q103229495 # men's association football team
+  - Q20639847  # professional cycling team
+  - Q58840819  # national rugby union team
+  - Q135641761 # men's association football league
+  - Q75179296  # ice hockey league
+  - Q6631808   # baseball league
+  # Hub update round 3 — education
+  - Q1663017   # engineering college
+  - Q1143635   # business school
+  - Q1365560   # Fachhochschule
+  # Hub update round 3 — military
+  - Q1935049   # military school
+  - Q772547    # armed forces
+  - Q207320    # paramilitary organization
+  - Q781132    # military branch
+  - Q17149090  # armed organization
+  # Hub update round 3 — broadcast
+  - Q561068    # specialty channel
+  # Hub update round 4 — sports
+  - Q382927    # UCI Professional Continental Team
+  - Q20638319  # UCI ProTeam
+  - Q2466826   # UCI Women's Team
+  - Q20653564  # UCI Trade Team II
+  - Q6154783   # UCI WorldTeam
+  - Q51481377  # women's association football club
+  - Q86255944  # national cricket team
+  - Q17271186  # Canadian football team
+  - Q59239320  # national rugby league team
+  # Hub update round 4 — education
+  - Q233324    # seminary
+  - Q845392    # polytechnic
+  # Hub update round 4 — society
+  - Q178790    # labor union
+  # Hub update round 4 — broadcast
+  - Q1126006   # public broadcaster
+  # Hub update round 5 — sports
+  - Q18536323  # basketball league
+  - Q26849121  # amateur cycling team
+  - Q13580678  # multisports club
+  # Hub update round 5 — military
+  - Q17127659  # terrorist organization
+  - Q138796    # resistance movement
+  # Hub update round 5 — government
+  - Q35798     # executive branch
+  - Q7188      # government
+  # Hub update round 5 — education
+  - Q4201890   # institute of the Russian Academy of Sciences
+  - Q1743327   # church college
+  - Q380093    # film school
+  - Q1336920   # community college
+  - Q1522839   # staff college
+  - Q55043     # gymnasium
+  # Hub update round 5 — broadcast
+  - Q5009242   # cable channel
+  - Q2608849   # imprint
+  # Hub update round 5 — transportation
+  - Q50331459  # S-Bahn service
+  - Q17377208  # railway undertaking
+  # Hub update round 5 — healthcare
+  - Q1774587   # hospital network
+  # Hub update round 6 — education
+  - Q269770    # boarding school
+  - Q3889692   # college of music
+  - Q96086516  # former educational institution
+  - Q20860083  # educational facility
+  - Q3550864   # French UMR
+  - Q20820271  # graduate school
+  - Q1021290   # music school
+  # Hub update round 6 — entertainment
+  - Q1542343   # independent record label
+  # Hub update round 6 — sports
+  - Q78464255  # UCI ProTeam
+  - Q119942457 # UCI Women's Continental Team
+  - Q20652655  # amateur cycling team
+  # Hub update round 6 — society
+  - Q748019    # scientific society
+  # Hub update round 6 — transportation
+  - Q85907346  # rail company (Japan)
+  # Hub update round 7 — education
+  - Q428602    # university-preparatory school
+  - Q3520135   # deemed university
+  - Q3660535   # women's college
+  # Hub update round 7 — transportation
+  - Q17102188  # train operating company
+  # Hub update round 7 — government
+  - Q1519799   # ministry of health
+  # Hub update round 7 — sports
+  - Q135408445 # men's national association football team
+  - Q20653566  # UCI Trade Team III
+  # Hub update round 8 — government
+  - Q2516426   # transport ministry
+  - Q17456916  # government commission
+  - Q37002670  # unicameral legislature
+  - Q20901295  # foreign affairs ministry
+  # Hub update round 8 — politics
+  - Q3778417   # green party
+  # Hub update round 8 — broadcast
+  - Q479716    # university press
+  # Hub update round 8 — education
+  - Q17072837  # medical college in India
+  # Hub update round 9 — education
+  - Q14911880  # Catholic seminary
+  - Q131389368 # state private university
+  - Q2511322   # lycée
+  - Q967098    # grammar school
+  # Hub update round 9 — entertainment
+  - Q216337    # boy band
+  - Q56816954  # heavy metal band
+  # Hub update round 9 — government
+  - Q1802419   # state government
+  - Q110315658 # elected legislative house
+  # Hub update round 10 — corporation
+  - Q936518    # aerospace manufacturer
+  # Hub update round 10 — military
+  - Q51977     # field army
+  - Q20642011  # guerrilla movement
+  - Q1898357   # naval academy
+  # Hub update round 10 — education
+  - Q17028020  # vocational university
+  # Hub update round 10 — government
+  - Q17505024  # space agency
+  # Hub update round 10 — sports
+  - Q113517220 # ice hockey club
+  - Q80425135  # UCI Women's WorldTeam
+  # Hub update round 1 (second pass) — healthcare
+  - Q6954197   # NHS trust
+  # Hub update round 1 (second pass) — education
+  - Q6019423   # Max Planck Institute
+  # Hub update round 1 (second pass) — government
+  - Q97010948  # state department of transportation of the United States
+  # Hub update round 1 (second pass) — sports
+  - Q1756006   # UCI Continental Team
+  # Hub update round 2 (second pass) — politics
+  - Q7210356   # political organization
+  # Hub update round 2 (second pass) — education
+  - Q2648750   # general education school
+  # Hub update round 2 (second pass) — healthcare
+  - Q6954187   # NHS foundation trust
+  # Hub update round 2 (second pass) — transportation
+  - Q7835189   # transit district
+  # Hub update round 2 (second pass) — military
+  - Q204310    # gendarmerie
+  # Hub update round 3 (second pass) — education
+  - Q3488547   # faculty of law
+  # Hub update round 3 (second pass) — military
+  - Q1898583   # marine force
+  # Hub update round 3 (second pass) — government
+  - Q17417403  # ministry of Indonesia
+  # Hub update round 3 (second pass) — transportation
+  - Q18325841  # public transport network
+  # Hub update round 3 (second pass) — sports
+  - Q23726798  # elite national cycling team
+  # Hub update round 3 (second pass) — politics
+  - Q25768329  # political party in Catalonia
+  # Hub update round 3 (second pass) — religion
+  - Q1066782   # autocephalous Eastern Orthodox church
+  - Q44301618  # Eastern Orthodox patriarchate
+  # Hub update round 4 (second pass) — education
+  - Q110225820 # Jesuit university
+  - Q66737615  # institute for medical research
+  - Q130408624 # Double First-Class Construction university
+  # Hub update round 4 (second pass) — society
+  - Q174921    # Burschenschaft
+  - Q12057459  # writers union
+  # Hub update round 4 (second pass) — corporation
+  - Q21980538  # commercial organization
+  # Hub update round 4 (second pass) — healthcare
+  - Q644264    # children's hospital
+  # Hub update round 4 (second pass) — military
+  - Q66746269  # U-boat flotilla
+  # Hub update round 4 (second pass) — government
+  - Q910252    # United States federal executive department
+  - Q1470641   # parliamentary assembly
+  # Hub update round 4 (second pass) — religion
+  - Q3355750   # monastic order
+  - Q391009    # Catholic order
+  # Hub update round 4 (second pass) — sports
+  - Q63171169  # rugby union franchise
+  # Hub update round 4 (second pass) — broadcast
+  - Q1802587   # German public state broadcaster
+  # Hub update round 5 (second pass) — religion
+  - Q2061186   # religious order
+  - Q116372166 # Eastern Orthodox archdiocese
+  - Q2072238   # archdiocese
+  - Q19884415  # diocese of the Macedonian Orthodox Church
+  - Q28653     # mendicant order
+  - Q474717    # religious military order
+  # Hub update round 5 (second pass) — politics
+  - Q2493450   # juvenile political organization
+  # Hub update round 5 (second pass) — healthcare
+  - Q5691177   # health trust
+  - Q18534571  # medical research center
+  # Hub update round 5 (second pass) — military
+  - Q137258492 # PLA university
+  # Hub update round 5 (second pass) — education
+  - Q5259432   # dental school
+  - Q120116792 # national art academy
+  # Hub update round 5 (second pass) — society
+  - Q996839    # fraternal organization
+  - Q1666019   # pressure group
+  # Hub update round 6 (second pass) — gate only
+  - Q2641403   # samba school
+  - Q6065085   # political party in Spain
+  - Q4502119   # art group
+  # Hub update round 6 (second pass) — government
+  - Q941036    # territorial authority of New Zealand
+  - Q3154693   # city council
+  - Q637846    # upper house
+  - Q1364302   # ministry of agriculture
+  - Q56089124  # ministry of fisheries
+  # Hub update round 6 (second pass) — education
+  - Q1542966   # gymnasium
+  - Q6542557   # library consortium
+  - Q3457065   # university network
+  - Q15974764  # Group of universities and institutions (France)
+  - Q21655594  # unified secondary school in Japan
+  - Q12592372  # high school in South Korea
+  # Hub update: manual batch — sports
+  - Q54190181  # NCAA Division I women's basketball team
+  # Hub update: manual batch — education
+  - Q28667313  # imperial universities of the Russian Empire
+  - Q7603893   # state public university
+  - Q3351682   # central university
+  - Q557206    # Catholic university
+  - Q1075106   # state university system
+  - Q2822241   # academy of fine arts
+  - Q4315006   # national research university
+  # Hub update: manual batch — transportation
+  - Q521458    # railway infrastructure manager
+  - Q63383616  # Indian Railways division
+  - Q124130081 # commuter rail network
+  - Q30014735  # bus-based transport system
+  - Q2678338   # railway network
+  # Hub update: manual batch — politics
+  - Q11744698  # parliamentary grouping
+  - Q1509758   # Bundestag parliamentary group
+  # Hub update: manual batch — government
+  - Q1266087   # meteorological service
+  - Q2500378   # department of the United Kingdom Government
+  # Hub update: manual batch — healthcare
+  - Q112359735 # Integrated Care Board
+  # Hub update: manual batch — culture
+  - Q88667167  # museum network
+  - Q11681271  # curatorial department of the Louvre
+  - Q105815710 # performing arts group
+  - Q17431399  # national museum
+  - Q61781831  # curatorial department
+  # Hub update: manual batch — military
+  - Q690109    # branch of service
+  # Hub update: manual batch — society
+  - Q14515311  # German Student Corps
+  # Hub update: manual batch — gate only
+  - Q106668099 # corporate body
+  - Q45787211  # preprint server
+  - Q5281480   # disciplinary repository
+
+
+core:
+  props:
+    - P31    # instance of
+    - P17    # country
+    - P571   # inception
+    - P159   # headquarters location
+    - P576   # dissolved, abolished or demolished date
+    - P856   # official website
+    - P18    # image
+    - P154   # logo image
+
+modules:
+  location:
+    type: relational
+    indicators:
+      P131:        # located in the administrative territorial entity
+      P276:        # location
+      P495:        # country of origin
+      P291:        # place of publication
+      P740:        # location of formation
+    value_props:
+      - P131    # located in the administrative territorial entity
+      - P276    # location
+      - P291    # place of publication
+      - P495    # country of origin
+      - P740    # location of formation
+
+  affiliation:
+    type: relational
+    indicators:
+      P112:        # founded by
+      P127:        # owned by
+      P355:        # child organization or unit
+      P361:        # part of
+      P463:        # member of
+      P527:        # has part(s)
+      P749:        # parent organization or unit
+      P1416:       # affiliation
+    value_props:
+      - P112    # founded by
+      - P127    # owned by
+      - P355    # child organization or unit
+      - P361    # part of
+      - P463    # member of
+      - P527    # has part(s)
+      - P749    # parent organization or unit
+      - P1416   # affiliation
+
+  education:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q3918     # university
+        - Q189004   # college
+        - Q3914     # school
+        - Q9842     # primary school
+        - Q9826     # high school
+        - Q159334   # secondary school
+        - Q5341295  # educational organization
+        - Q2385804  # educational institution
+        - Q1080794  # public school
+        - Q423208   # private school
+        - Q19855165 # rural school
+        - Q67015940 # Government Boys' Primary School
+        - Q126807   # kindergarten
+        - Q2467461  # academic department
+        - Q57775518 # lower secondary school
+        - Q398141   # school district
+        - Q123945716 # public primary school in Morocco
+        - Q64063317 # lower primary school
+        - Q56177191 # comprehensive institute
+        - Q67015944 # Government Girls Primary School
+        - Q20950067 # elementary school
+        - Q4671277  # academic institution
+        - Q64063386 # upper primary school
+        - Q149566   # middle school
+        - Q3803834  # istituto tecnico
+        - Q180958   # faculty
+        - Q64062731 # higher secondary school
+        - Q38723    # higher education institution
+        - Q3803808  # professional institute
+        - Q134739441 # rural settlement school
+        - Q56351315  # Japanese high school
+        - Q2418495  # independent school
+        - Q134739026  # Indigenous school
+        - Q1076052  # preschool
+        - Q11902693 # coeducational school
+        - Q5155053  # community school
+        - Q4671329  # academy school
+        - Q67388747 # urban school
+        - Q22713629 # girls' school
+        - Q1713379  # boys' school
+        - Q322563  # vocational school
+        - Q31855    # research institute
+        - Q1664720  # institute
+        - Q12513145  # sekolah tinggi
+        - Q133804953 # quilombola school
+        - Q7315155   # research center
+        - Q483242    # laboratory
+        - Q1241025   # research group
+        - Q162633    # academy
+        - Q65032826  # folkeskole
+        - Q902104    # private university
+        - Q132834    # madrasa
+        # Hub update round 1
+        - Q875538    # public university
+        - Q23002039  # public educational institution of the United States
+        - Q62078547  # public research university
+        - Q615150    # land-grant university
+        - Q15936437  # research university
+        - Q494230    # medical school
+        - Q23002054  # private not-for-profit educational institution
+        - Q1767829   # comprehensive university
+        - Q1371037   # institute of technology
+        - Q3551775   # university in France
+        - Q265662    # national university
+        # Hub update round 2
+        - Q414147    # academy of sciences
+        - Q383092    # art academy
+        - Q1377182   # liberal arts college
+        - Q1321960   # law school
+        - Q1966910   # national academy
+        - Q184644    # conservatory
+        - Q847027    # grande école
+        - Q2143781   # drama school
+        # Hub update round 3
+        - Q1663017   # engineering college
+        - Q1143635   # business school
+        - Q1365560   # Fachhochschule
+        # Hub update round 4
+        - Q233324    # seminary
+        - Q845392    # polytechnic
+        # Hub update round 5
+        - Q4201890   # institute of the Russian Academy of Sciences
+        - Q1743327   # church college
+        - Q380093    # film school
+        - Q1336920   # community college
+        - Q1522839   # staff college
+        - Q55043     # gymnasium
+        # Hub update round 6
+        - Q269770    # boarding school
+        - Q3889692   # college of music
+        - Q96086516  # former educational institution
+        - Q20860083  # educational facility
+        - Q3550864   # French UMR
+        - Q20820271  # graduate school
+        - Q1021290   # music school
+        # Hub update round 7
+        - Q428602    # university-preparatory school
+        - Q3520135   # deemed university
+        - Q3660535   # women's college
+        # Hub update round 8
+        - Q17072837  # medical college in India
+        # Hub update round 9
+        - Q14911880  # Catholic seminary
+        - Q131389368 # state private university
+        - Q2511322   # lycée
+        - Q967098    # grammar school
+        # Hub update round 10
+        - Q17028020  # vocational university
+        # Hub update round 1 (second pass)
+        - Q6019423   # Max Planck Institute
+        # Hub update round 2 (second pass)
+        - Q2648750   # general education school
+        # Hub update round 3 (second pass)
+        - Q3488547   # faculty of law
+        # Hub update round 4 (second pass)
+        - Q110225820 # Jesuit university
+        - Q66737615  # institute for medical research
+        - Q130408624 # Double First-Class Construction university
+        # Hub update round 5 (second pass)
+        - Q5259432   # dental school
+        - Q120116792 # national art academy
+        # Hub update round 6 (second pass)
+        - Q1542966   # gymnasium
+        - Q6542557   # library consortium
+        - Q3457065   # university network
+        - Q15974764  # Group of universities and institutions (France)
+        - Q21655594  # unified secondary school in Japan
+        - Q12592372  # high school in South Korea
+        # Hub update: manual batch
+        - Q28667313  # imperial universities of the Russian Empire
+        - Q7603893   # state public university
+        - Q3351682   # central university
+        - Q557206    # Catholic university
+        - Q1075106   # state university system
+        - Q2822241   # academy of fine arts
+        - Q4315006   # national research university
+      P101:         # field of work
+      P6782:        # ROR ID
+    value_props:
+      - P101    # field of work
+
+  international:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q484652   # international organization
+        - Q245065   # intergovernmental organization
+        - Q4120211  # regional organization
+    value_props:
+      - P136    # genre
+      - P452    # industry
+      - P1001   # applies to jurisdiction
+      - P1343   # described by source
+
+  government:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q327333   # government agency
+        - Q285852   # volunteer fire department
+        - Q7137435  # parish council
+        - Q2659904  # government organization
+        - Q13226383 # facility
+        - Q47913   # intelligence agency
+        - Q732717    # law enforcement agency
+        - Q4414033   # rural council of Ukraine
+        - Q17014622  # Dutch municipal council
+        - Q192350    # ministry
+        - Q21562164  # National Historical Commission of the Philippines historical marker
+        - Q55454947  # subcommittee of a technical committee
+        - Q11204     # legislature
+        - Q15140073  # subdistrict administrative organization
+        - Q2592651   # union council of Pakistan
+        - Q6498663   # fire department
+        # Hub update round 1
+        - Q2122214   # national archives
+        - Q1752939   # independent agency of the United States government
+        - Q464780    # mint
+        - Q20857065  # United States federal agency
+        # Hub update round 2
+        - Q189445    # bicameral legislature
+        - Q35749     # parliament
+        # Hub update round 5
+        - Q35798     # executive branch
+        - Q7188      # government
+        # Hub update round 7
+        - Q1519799   # ministry of health
+        # Hub update round 8
+        - Q2516426   # transport ministry
+        - Q17456916  # government commission
+        - Q37002670  # unicameral legislature
+        - Q20901295  # foreign affairs ministry
+        # Hub update round 9
+        - Q1802419   # state government
+        - Q110315658 # elected legislative house
+        # Hub update round 10
+        - Q17505024  # space agency
+        # Hub update round 1 (second pass)
+        - Q97010948  # state department of transportation of the United States
+        # Hub update round 3 (second pass)
+        - Q17417403  # ministry of Indonesia
+        # Hub update round 4 (second pass)
+        - Q910252    # United States federal executive department
+        - Q1470641   # parliamentary assembly
+        # Hub update round 6 (second pass)
+        - Q941036    # territorial authority of New Zealand
+        - Q3154693   # city council
+        - Q637846    # upper house
+        - Q1364302   # ministry of agriculture
+        - Q56089124  # ministry of fisheries
+        # Hub update: manual batch
+        - Q1266087   # meteorological service
+        - Q2500378   # department of the United Kingdom Government
+      P137:        # operator
+      P366:        # has use
+      P1001:       # applies to jurisdiction
+    value_props:
+      - P137    # operator
+      - P366    # has use
+      - P1001   # applies to jurisdiction
+
+  corporation:
+    type: intrinsic
+    indicators:
+      P31:        # instance of
+        - Q4830453  # business
+        - Q783794   # company
+        - Q891723   # public company
+        - Q56855687 # Perseroan Terbatas
+        - Q6881511  # enterprise
+        - Q45400320 # open-access publisher
+        - Q11396960 # production company
+        - Q46970    # airline
+        - Q210167  # video game developer
+        - Q270791  # state-owned enterprise
+        - Q4387609   # architectural firm
+        - Q786820    # automobile manufacturer
+        - Q10438042  # bus company
+        - Q740752    # transport company
+        - Q6500733   # printing company
+        - Q1589009   # privately held company
+        - Q658255    # subsidiary company
+        - Q613142    # law firm
+        - Q1058914   # software company
+        # Hub update round 10
+        - Q936518    # aerospace manufacturer
+        # Hub update round 4 (second pass)
+        - Q21980538  # commercial organization
+      P169:        # chief executive officer
+      P1128:       # employees
+    value_props:
+      - P452    # industry
+      - P1056   # product or material produced
+      - P1128   # employees
+      - P414    # stock exchange
+
+
+  culture:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q26271642 # library network
+        - Q166118   # archives
+        - Q1638962  # chitalishte
+        - Q2416217  # theatre troupe
+        - Q11812394  # theatre company
+        - Q5774403  # historical society
+        - Q1400264   # artist collective
+        # Hub update: manual batch
+        - Q88667167  # museum network
+        - Q11681271  # curatorial department of the Louvre
+        - Q105815710 # performing arts group
+        - Q17431399  # national museum
+        - Q61781831  # curatorial department
+      P1435:       # heritage designation
+    value_props:
+      - P101    # field of work
+      - P452    # industry
+      - P1343   # described by source
+      - P1435   # heritage designation
+
+  religion:
+    type: relational
+    indicators:
+      P31:  # instance of
+        # Hub update round 2
+        - Q18917976  # Anglican diocese
+        # Hub update round 3 (second pass)
+        - Q1066782   # autocephalous Eastern Orthodox church
+        - Q44301618  # Eastern Orthodox patriarchate
+        # Hub update round 4 (second pass)
+        - Q3355750   # monastic order
+        - Q391009    # Catholic order
+        # Hub update round 5 (second pass)
+        - Q2061186   # religious order
+        - Q116372166 # Eastern Orthodox archdiocese
+        - Q2072238   # archdiocese
+        - Q19884415  # diocese of the Macedonian Orthodox Church
+        - Q28653     # mendicant order
+        - Q474717    # religious military order
+      P140:        # religion or worldview
+      P825:        # dedicated to
+      P708:        # diocese
+    value_props:
+      - P140    # religion or worldview
+      - P452    # industry
+      - P708    # diocese
+      - P825    # dedicated to
+
+  politics:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q7278    # political party
+        - Q6138528 # political coalition
+        # Hub update round 2
+        - Q233591    # communist party
+        - Q2023214   # political party in Germany
+        - Q40482169  # defunct political party
+        # Hub update round 8
+        - Q3778417   # green party
+        # Hub update round 2 (second pass)
+        - Q7210356   # political organization
+        # Hub update round 3 (second pass)
+        - Q25768329  # political party in Catalonia
+        # Hub update round 5 (second pass)
+        - Q2493450   # juvenile political organization
+        # Hub update: manual batch
+        - Q11744698  # parliamentary grouping
+        - Q1509758   # Bundestag parliamentary group
+      P155:        # follows
+      P156:        # followed by
+      P488:        # chairperson
+      P1001:       # applies to jurisdiction
+      P1142:       # political ideology
+      P1387:       # political alignment
+    value_props:
+      - P155    # follows
+      - P156    # followed by
+      - P488    # chairperson
+      - P1001   # applies to jurisdiction
+      - P1142   # political ideology
+      - P1387   # political alignment
+
+  sports:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q847017  # sports club
+        - Q13393265  # basketball team
+        - Q4498974  # ice hockey team
+        - Q476028  # association football club
+        - Q4438121 # sports organization
+        - Q13027888  # baseball team
+        - Q623109    # sports league
+        - Q18558301  # college sports team
+        - Q2485448   # sports governing body
+        - Q12973014  # sports team
+        - Q14645593  # rugby union team
+        - Q17156793  # American football team
+        - Q17374546  # Australian rules football club
+        - Q2367225   # university and college sports club
+        - Q15944511  # association football team
+        - Q20639848  # club cycling team
+        - Q15991303  # association football league
+        - Q15720476  # volleyball team
+        - Q1194951   # national sports team
+        - Q6979593   # national association football team
+        - Q17376093  # cricket team
+        - Q10517054  # handball team
+        - Q46351685  # national basketball team
+        - Q28140340  # women's association football team
+        - Q43009164  # rugby union club
+        - Q20738667  # under-23 national cycling team
+        # Hub update round 2
+        - Q15991290  # professional sports league
+        - Q15221215  # rugby league team
+        # Hub update round 3
+        - Q11422536  # international sport governing body
+        - Q1478443   # association football federation
+        - Q94579592  # defunct association football club
+        - Q103229495 # men's association football team
+        - Q20639847  # professional cycling team
+        - Q58840819  # national rugby union team
+        - Q135641761 # men's association football league
+        - Q75179296  # ice hockey league
+        - Q6631808   # baseball league
+        # Hub update round 4
+        - Q382927    # UCI Professional Continental Team
+        - Q20638319  # UCI ProTeam
+        - Q2466826   # UCI Women's Team
+        - Q20653564  # UCI Trade Team II
+        - Q6154783   # UCI WorldTeam
+        - Q51481377  # women's association football club
+        - Q86255944  # national cricket team
+        - Q17271186  # Canadian football team
+        - Q59239320  # national rugby league team
+        # Hub update round 5
+        - Q18536323  # basketball league
+        - Q26849121  # amateur cycling team
+        - Q13580678  # multisports club
+        # Hub update round 6
+        - Q78464255  # UCI ProTeam
+        - Q119942457 # UCI Women's Continental Team
+        - Q20652655  # amateur cycling team
+        # Hub update round 7
+        - Q135408445 # men's national association football team
+        - Q20653566  # UCI Trade Team III
+        # Hub update round 10
+        - Q113517220 # ice hockey club
+        - Q80425135  # UCI Women's WorldTeam
+        # Hub update round 1 (second pass)
+        - Q1756006   # UCI Continental Team
+        # Hub update round 3 (second pass)
+        - Q23726798  # elite national cycling team
+        # Hub update round 4 (second pass)
+        - Q63171169  # rugby union franchise
+        # Hub update: manual batch
+        - Q54190181  # NCAA Division I women's basketball team
+      P115:        # home venue
+      P118:        # league or competition
+      P286:        # head coach
+      P641:        # sport
+      P831:        # parent club
+      P1532:       # country for sport
+      P2094:       # competition class
+    value_props:
+      - P115    # home venue
+      - P118    # league or competition
+      - P286    # head coach
+      - P641    # sport
+      - P831    # parent club
+      - P1532   # country for sport
+      - P2094   # competition class
+
+  broadcast:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q14350    # radio station
+        - Q11032    # newspaper
+        - Q1616075  # television station
+        - Q15265344 # broadcaster
+        - Q1254874  # television network
+        - Q192283   # news agency
+        - Q1331793  # media company
+        - Q186165   # web portal
+        - Q17232649 # news website
+        - Q2516866  # publisher
+        - Q2085381  # publishing house
+        - Q2001305   # television channel
+        - Q1110794   # daily newspaper
+        - Q1320047   # book publisher
+        - Q81529763  # postcard publishing company
+        - Q1153191   # online newspaper
+        - Q2305295   # weekly newspaper
+        - Q1137109   # video game publisher
+        # Hub update round 3
+        - Q561068    # specialty channel
+        # Hub update round 4
+        - Q1126006   # public broadcaster
+        # Hub update round 5
+        - Q5009242   # cable channel
+        - Q2608849   # imprint
+        # Hub update round 8
+        - Q479716    # university press
+        # Hub update round 4 (second pass)
+        - Q1802587   # German public state broadcaster
+    value_props:
+      - P407    # language of work or name
+      - P1408   # licensed to broadcast to
+      - P2144   # frequency
+      - P1476   # title
+
+  finance:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q22687    # bank
+        - Q72984778  # Federal Bank
+        - Q730038  # credit institution
+        - Q66789788  # Karnataka Bank Limited branch
+      P414:        # stock exchange
+    value_props:
+      - P137    # operator
+      - P169    # chief executive officer
+      - P414    # stock exchange
+      - P452    # industry
+
+
+  society:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q43229   # organization
+        - Q1965390 # Narrenzunft
+        - Q8436    # family
+        - Q79913   # non-governmental organization
+        - Q13417114 # noble family
+        - Q163740  # nonprofit organization
+        - Q48204   # voluntary association
+        - Q157031  # foundation
+        - Q15911314  # association
+        - Q955824    # learned society
+        - Q708676    # charitable organization
+        - Q1415423   # quilombo community
+        - Q829080    # professional association
+        - Q2178147   # trade association
+        - Q1530022   # religious organization
+        - Q1685451   # student society
+        - Q155271    # think tank
+        - Q2882257   # First Nation band
+        - Q1156831   # umbrella organization
+        # Hub update round 4
+        - Q178790    # labor union
+        # Hub update round 6
+        - Q748019    # scientific society
+        # Hub update round 4 (second pass)
+        - Q174921    # Burschenschaft
+        - Q12057459  # writers union
+        # Hub update round 5 (second pass)
+        - Q996839    # fraternal organization
+        - Q1666019   # pressure group
+        # Hub update: manual batch
+        - Q14515311  # German Student Corps
+    value_props:
+      - P101    # field of work
+      - P452    # industry
+
+  healthcare:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q4287745  # medical organization
+        - Q16917    # hospital
+        - Q7257872  # public hospital
+        - Q64578911 # former hospital
+        - Q4260475  # medical facility
+        # Hub update round 2
+        - Q1059324   # university hospital
+        # Hub update round 5
+        - Q1774587   # hospital network
+        # Hub update round 1 (second pass)
+        - Q6954197   # NHS trust
+        # Hub update round 2 (second pass)
+        - Q6954187   # NHS foundation trust
+        # Hub update round 4 (second pass)
+        - Q644264    # children's hospital
+        # Hub update round 5 (second pass)
+        - Q5691177   # health trust
+        - Q18534571  # medical research center
+        # Hub update: manual batch
+        - Q112359735 # Integrated Care Board
+    value_props:
+      - P137    # operator
+      - P138    # named after
+      - P1435   # heritage designation
+
+  military:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q176799   # military unit
+        - Q1875630   # aircraft fleet
+        - Q679165    # squadron
+        - Q52371     # regiment
+        - Q169534    # military division
+        - Q334453    # division
+        - Q10358588  # infantry regiment
+        # Hub update round 1
+        - Q37726     # army
+        - Q4508      # navy
+        # Hub update round 2
+        - Q917182    # military academy
+        - Q61883     # air force
+        # Hub update round 3
+        - Q1935049   # military school
+        - Q772547    # armed forces
+        - Q207320    # paramilitary organization
+        - Q781132    # military branch
+        - Q17149090  # armed organization
+        # Hub update round 5
+        - Q17127659  # terrorist organization
+        - Q138796    # resistance movement
+        # Hub update round 10
+        - Q51977     # field army
+        - Q20642011  # guerrilla movement
+        - Q1898357   # naval academy
+        # Hub update round 2 (second pass)
+        - Q204310    # gendarmerie
+        # Hub update round 3 (second pass)
+        - Q1898583   # marine force
+        # Hub update round 4 (second pass)
+        - Q66746269  # U-boat flotilla
+        # Hub update round 5 (second pass)
+        - Q137258492 # PLA university
+        # Hub update: manual batch
+        - Q690109    # branch of service
+      P241:        # military branch
+      P607:        # participated in conflict
+      P945:        # allegiance
+    value_props:
+      - P121    # item operated
+      - P137    # operator
+      - P241    # military branch
+      - P607    # participated in conflict
+      - P945    # allegiance
+
+  legal:
+    type: relational
+    indicators:
+      P31:  # instance of
+        # Hub update round 2
+        - Q190752    # supreme court
+      P1454:       # legal form
+    value_props:
+      - P452    # industry
+      - P1056   # product or material produced
+      - P1454   # legal form
+
+  transportation:
+    type: relational
+    indicators:
+      P31:  # instance of
+        - Q46970  # airline
+        - Q15141321  # train service
+        - Q15145593  # tram service
+        - Q91908084  # passenger train service
+        - Q67454740  # named passenger train service
+        # Hub update round 2
+        - Q249556    # railway company
+        # Hub update round 5
+        - Q50331459  # S-Bahn service
+        - Q17377208  # railway undertaking
+        # Hub update round 6
+        - Q85907346  # rail company (Japan)
+        # Hub update round 7
+        - Q17102188  # train operating company
+        # Hub update round 2 (second pass)
+        - Q7835189   # transit district
+        # Hub update round 3 (second pass)
+        - Q18325841  # public transport network
+        # Hub update: manual batch
+        - Q521458    # railway infrastructure manager
+        - Q63383616  # Indian Railways division
+        - Q124130081 # commuter rail network
+        - Q30014735  # bus-based transport system
+        - Q2678338   # railway network
+      P16:         # transport network
+      P113:        # airline hub
+      P559:        # terminus
+      P1064:       # track gauge
+    value_props:
+      - P16     # transport network
+      - P113    # airline hub
+      - P121    # item operated
+      - P137    # operator
+      - P138    # named after
+      - P559    # terminus
+      - P1064   # track gauge
+      - P5817   # state of use
+
+  entertainment:
+    type: relational
+    indicators:
+      P31:
+        - Q11396960  # production company
+        - Q210167    # video game developer
+        - Q2416217   # theatre troupe
+        - Q11812394  # theatre company
+        - Q215380    # musical group
+        - Q5741069   # rock band
+        - Q18127     # record label
+        - Q1762059   # film production company
+        - Q2088357   # musical ensemble
+        - Q9212979   # musical duo
+        - Q10648343  # duo
+        - Q131186    # choir
+        - Q42998     # orchestra
+        - Q14073567  # sibling duo
+        - Q375336    # film studio
+        - Q10689397  # television production company
+        - Q641066    # girl band
+        - Q2393314   # dance troupe
+        - Q1107679   # animation studio
+        - Q25391823  # punk band
+        # Hub update round 6
+        - Q1542343   # independent record label
+        # Hub update round 9
+        - Q216337    # boy band
+        - Q56816954  # heavy metal band
+      P345:          # IMDb ID
+      P136:        # genre
+      P264:        # record label
+    value_props:
+      - P136    # genre
+      - P264    # record label
+
+  award:
+    type: relational
+    indicators:
+      P166:        # award received
+      P1411:       # nominated for
+    value_props:
+      - P136    # genre
+      - P166    # award received
+      - P452    # industry
+      - P1411   # nominated for
+
+  food:
+    type: relational
+    indicators:
+      P452:    # industry
+        - Q540912    # food industry
+        - Q1283714   # crop production
+        - Q11451     # agriculture
+        - Q11707     # restaurant
+        - Q131734    # brewery
+    value_props:
+      - P414    # stock exchange
+      - P452    # industry
+      - P1056   # product or material produced

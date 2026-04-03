@@ -1,0 +1,630 @@
+# Creative Works & Media Category Tags
+
+gate_qids:
+  - Q571      # book
+  - Q8261     # novel
+  - Q7725634  # literary work
+  - Q25379    # play
+  - Q11424    # film
+  - Q24862    # short film
+  - Q506240   # television film
+  - Q5398426  # television series
+  - Q21191270 # television series episode
+  - Q1259759  # miniseries
+  - Q526877   # web series
+  - Q202866   # animated film
+  - Q482994   # album
+  - Q7366     # song
+  - Q105543609 # musical work/composition
+  - Q134556   # single
+  - Q169930   # extended play
+  - Q15632617 # fictional human
+  - Q3331189  # version, edition or translation
+  - Q47461344 # written work
+  - Q15416    # television program
+  - Q3464665  # television series season
+  - Q3305213  # painting
+  - Q860861   # sculpture
+  - Q125191   # photograph
+  - Q1004     # comics
+  - Q838795   # comic strip
+  - Q41298    # magazine
+  - Q5633421  # scientific journal
+  - Q61855877 # podcast episode
+  # Museum/Collection items
+  - Q2668072  # collection
+  - Q18593264 # item of collection or exhibition
+  - Q11060274 # print
+  - Q93184    # drawing
+  - Q87167    # manuscript
+  - Q220659   # archaeological artefact
+
+  - Q1107  # anime
+  - Q13002315  # legendary figure
+  - Q2239243  # mythical creature
+  - Q4271324  # mythical character
+  - Q838948  # work of art
+  # Music additions
+  - Q55850593 # music track with vocals
+  # Literature additions
+  - Q602446   # lyrics
+  - Q637866   # book review
+  - Q732577   # publication
+  - Q1980247  # chapter
+  - Q17537576 # creative work
+  # Entertainment additions
+  - Q43099500 # performing arts production
+  - Q737498    # academic journal
+  - Q55089312  # edition of commercial catalogue
+  - Q58483083  # dramatico-musical work
+  - Q18761202  # watercolor painting
+  - Q91257459  # PM20 country/subject folder
+  - Q24634210  # podcast show
+  - Q110039749 # Saturday Night Live sketch
+  - Q21198342  # manga series
+  - Q210723    # chalice
+  - Q7777570   # theatrical production
+  - Q13464614  # ceramic art
+  - Q60474998  # digitized collection
+  - Q3052382   # fonds
+  - Q29382731  # metal artwork
+  - Q49094714  # portfolio
+  - Q106805967 # performed music
+  - Q188451    # music genre
+  - Q102364578  # anime television series episode
+  - Q22988604  # mythological Greek character
+  - Q7302866  # audio track
+  - Q277759  # book series
+  - Q1555508  # radio program
+  - Q17517379  # animated short film
+  - Q97072190  # religious ceramic panel
+  - Q11835431  # engraving
+  - Q631931  # decorative art
+  - Q1114461  # comics character
+  # Character additions
+  - Q15773317  # television character
+  - Q3658341   # literary character
+  - Q15773347  # film character
+  - Q50386450  # operatic character
+  - Q63975020  # musical theatre character
+  - Q80447738  # anime character
+  - Q87576284  # manga character
+  - Q1569167   # video game character
+  - Q3375722   # theatrical character
+  - Q15711870  # animated character
+  - Q11688446  # Roman deity
+  - Q106748215 # wealth deity
+  # Television additions
+  - Q63952888  # anime television series
+  - Q117467246 # animated television series
+  - Q116048824 # animated series episode
+  - Q1464125   # web series episode
+  - Q100269041 # anime television series season
+  - Q29555881  # segment of a television episode
+  - Q61220733  # Star Trek episode
+  - Q399811    # Japanese television drama
+  - Q3297186   # limited series
+  # Art additions
+  - Q245117    # relief sculpture
+  - Q1066288   # figurine
+  - Q219423    # mural
+  - Q22669139  # fresco
+  - Q113650147 # commemorative bust
+  - Q241045    # bust
+  - Q184296    # tapestry
+  - Q133067    # mosaic
+  - Q15727816  # painting series
+  - Q15709879  # artwork series
+  - Q20437094  # installation artwork
+  - Q4502142   # visual artwork
+  - Q21281546  # gouache painting
+  - Q22669850  # calligraphic work
+  # Literature additions
+  - Q14406742  # comic book series
+  - Q57933693  # book edition
+  - Q1760610   # comic book
+  - Q1667921   # novel series
+  - Q7433672   # scientific book
+  - Q104213567 # light novel series
+  - Q1711593   # edited volume
+  - Q56855534  # comic story
+  - Q693       # fable
+  - Q2831984   # comic book album
+  - Q3374808   # penny dreadful
+  - Q20540385  # non-fiction work
+  # Entertainment additions
+  - Q55850643  # music track without lyrics
+  - Q2635894   # radio drama
+  - Q10590726  # video album
+  - Q57608327  # radio series episode
+  - Q193977    # music video
+  - Q3511312   # radio drama series
+  - Q6128115   # 7″ single
+  - Q67911299  # compilation album series
+  - Q108352496 # single release
+  - Q196600    # media franchise
+  - Q110879246 # video work
+  # Museum additions
+  - Q66018222  # cuneiform clay tablet
+  - Q7379880   # runic inscription
+  - Q1640824   # inscription
+  - Q23017336  # cuneiform sign
+  - Q3026325   # slide
+  - Q48498     # illuminated manuscript
+  # Photography additions
+  - Q18219090  # woodcut print
+  - Q18396864  # aquatint print
+  - Q15123870  # lithograph print
+  - Q18218093  # etching print
+  - Q56055236  # photographic print
+  - Q100575647 # photomechanical print
+  # Film additions
+  - Q226730    # silent film
+  - Q20650540  # anime film
+  - Q24856     # film series
+  - Q368290    # film distributor
+  - Q201658    # film genre
+  - Q18011172  # film project
+  # Comics additions
+  - Q53460949  # manga chapter
+  - Q3496994   # Star Trek comic
+  # Periodical additions
+  - Q7433680   # science fiction fanzine
+  - Q1368848   # literary magazine
+  # Character additions
+  - Q123126876 # animated television character
+  - Q2775969   # fictional planet
+  - Q108059870 # Star Wars planet
+  # Religion additions
+  - Q178885    # deity
+  # Hub update round 2 — character
+  - Q559618    # fictional universe
+  # Hub update round 7 — periodical
+  - Q15296520  # manga magazine
+  # Hub update round 7 — television
+  - Q125354488 # animated television season
+  # Hub update round 7 — comics
+  - Q213369    # webcomic
+  # Hub update round 8 — film
+  - Q113791292 # animated short film series
+  # Hub update round 9 — art
+  - Q19960510  # series of prints
+  # Hub update round 3 (second pass) — periodical
+  - Q21834496  # archaeology journal
+  # Hub update: manual batch — gate only
+  - Q7328910   # art collection
+  - Q36524     # authority file
+  - Q5141544   # coin catalog
+  - Q2982955   # public collection
+  - Q1224984   # digital archive
+  - Q62809234  # red list
+  # Hub update: manual batch — publication
+  - Q746654    # law review
+  - Q13136     # reference work
+  - Q2065227   # government gazette
+  - Q4117139   # biological database
+  - Q1235234   # document repository
+
+core:
+  props:
+    - P31    # instance of
+    - P1476  # title
+    - P577   # publication date
+    - P136   # genre
+    - P407   # language of work or name
+    - P18    # image
+    - P571   # inception
+    - P921   # main subject
+    - P180   # depicts
+
+modules:
+  literature:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q571      # book
+        - Q8261     # novel
+        - Q7725634  # literary work
+        - Q25379    # play
+        - Q3331189  # version, edition or translation
+        - Q47461344 # written work
+        - Q602446   # lyrics
+        - Q637866   # book review
+        - Q732577   # publication
+        - Q1980247  # chapter
+        - Q55089312 # edition of commercial catalogue
+        - Q58483083 # dramatico-musical work
+        - Q277759   # book series
+        - Q14406742  # comic book series
+        - Q57933693  # book edition
+        - Q1760610   # comic book
+        - Q1667921   # novel series
+        - Q7433672   # scientific book
+        - Q104213567 # light novel series
+        - Q1711593   # edited volume
+        - Q56855534  # comic story
+        - Q693       # fable
+        - Q2831984   # comic book album
+        - Q3374808   # penny dreadful
+        - Q20540385  # non-fiction work
+    value_props:
+      - P1104   # number of pages
+      - P7937   # form of creative work
+
+  film:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q11424    # film
+        - Q24862    # short film
+        - Q202866   # animated film
+        - Q1107     # anime
+        - Q17517379 # animated short film
+        - Q226730    # silent film
+        - Q20650540  # anime film
+        - Q24856     # film series
+        - Q368290    # film distributor
+        - Q201658    # film genre
+        - Q18011172  # film project
+        # Hub update round 8
+        - Q113791292 # animated short film series
+    value_props:
+      - P364    # original language of film or TV show
+      - P462    # color
+      - P2047   # duration
+      - P437    # distribution format
+      - P144    # based on
+
+  television:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q5398426   # television series
+        - Q21191270  # television series episode
+        - Q15416     # television program
+        - Q3464665   # television series season
+        - Q506240    # television film
+        - Q1259759   # miniseries
+        - Q526877    # web series
+        - Q102364578 # anime television series episode
+        - Q63952888  # anime television series
+        - Q117467246 # animated television series
+        - Q116048824 # animated series episode
+        - Q1464125   # web series episode
+        - Q100269041 # anime television series season
+        - Q29555881  # segment of a television episode
+        - Q61220733  # Star Trek episode
+        - Q399811    # Japanese television drama
+        - Q3297186   # limited series
+        # Hub update round 7
+        - Q125354488 # animated television season
+    value_props:
+      - P364    # original language of film or TV show
+      - P1113   # number of episodes
+      - P2437   # number of seasons
+      - P2047   # duration
+
+  art:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q838948   # work of art
+        - Q3305213  # painting
+        - Q860861   # sculpture
+        - Q18761202 # watercolor painting
+        - Q13464614 # ceramic art
+        - Q29382731 # metal artwork
+        - Q49094714 # portfolio
+        - Q97072190  # religious ceramic panel
+        - Q11835431  # engraving
+        - Q631931  # decorative art
+        - Q245117    # relief sculpture
+        - Q1066288   # figurine
+        - Q219423    # mural
+        - Q22669139  # fresco
+        - Q113650147 # commemorative bust
+        - Q241045    # bust
+        - Q184296    # tapestry
+        - Q133067    # mosaic
+        - Q15727816  # painting series
+        - Q15709879  # artwork series
+        - Q20437094  # installation artwork
+        - Q4502142   # visual artwork
+        - Q21281546  # gouache painting
+        - Q22669850  # calligraphic work
+        # Merged from photography
+        - Q125191   # photograph
+        - Q18219090  # woodcut print
+        - Q18396864  # aquatint print
+        - Q15123870  # lithograph print
+        - Q18218093  # etching print
+        - Q56055236  # photographic print
+        - Q100575647 # photomechanical print
+        # Hub update round 9
+        - Q19960510  # series of prints
+    value_props:
+      - P186    # made from material
+      - P2048   # height
+      - P2049   # width
+      - P217    # inventory number
+      - P6216   # copyright status
+      - P2079   # fabrication method
+
+  comics:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q838795   # comic strip
+        - Q1004     # comics
+        - Q21198342 # manga series
+        - Q1114461  # comics character
+        - Q53460949  # manga chapter
+        - Q3496994   # Star Trek comic
+        # Hub update round 7
+        - Q213369    # webcomic
+    value_props:
+      - P2360   # intended public
+      - P1080   # from narrative universe
+
+  periodical:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q41298   # magazine
+        - Q5633421 # scientific journal
+        - Q737498  # academic journal
+        - Q7433680  # science fiction fanzine
+        - Q1368848  # literary magazine
+        # Hub update round 7
+        - Q15296520 # manga magazine
+        # Hub update round 3 (second pass)
+        - Q21834496 # archaeology journal
+        # Hub update: manual batch
+        - Q746654   # law review
+        - Q13136    # reference work
+        - Q2065227  # government gazette
+        - Q4117139  # biological database
+        - Q1235234  # document repository
+    value_props:
+      - P8875   # indexed in bibliographic review
+      - P275    # copyright license
+      - P576    # dissolved, abolished or demolished date
+
+  revenue:
+    type: intrinsic
+    indicators:
+      P2142:   # box office
+      P2139:   # total revenue
+    value_props:
+      - P2142  # box office
+      - P2139  # total revenue
+
+
+  museum:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q2668072  # collection
+        - Q18593264 # item of collection or exhibition
+        - Q11060274 # print
+        - Q93184    # drawing
+        - Q87167    # manuscript
+        - Q220659   # archaeological artefact
+        - Q91257459 # PM20 country/subject folder
+        - Q210723   # chalice
+        - Q60474998 # digitized collection
+        - Q3052382  # fonds
+        - Q66018222  # cuneiform clay tablet
+        - Q7379880   # runic inscription
+        - Q1640824   # inscription
+        - Q23017336  # cuneiform sign
+        - Q3026325   # slide
+        - Q48498     # illuminated manuscript
+    value_props:
+      - P6224   # level of description
+      - P7228   # access restriction status
+      - P7261   # use restriction status
+      - P1436   # collection or exhibition size
+      - P217    # inventory number
+      - P186    # made from material
+      - P2079   # fabrication method
+
+  music:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q43099500  # performing arts production
+        - Q110039749 # Saturday Night Live sketch
+        - Q7777570   # theatrical production
+        - Q1555508   # radio program
+        - Q482994    # album
+        - Q7366      # song
+        - Q134556    # single
+        - Q105543609 # musical work/composition
+        - Q169930    # extended play
+        - Q55850593  # music track with vocals
+        - Q106805967 # performed music
+        - Q188451    # music genre
+        - Q7302866   # audio track
+        - Q61855877  # podcast episode
+        - Q24634210  # podcast show
+        - Q55850643  # music track without lyrics
+        - Q2635894   # radio drama
+        - Q10590726  # video album
+        - Q57608327  # radio series episode
+        - Q193977    # music video
+        - Q3511312   # radio drama series
+        - Q6128115   # 7″ single
+        - Q67911299  # compilation album series
+        - Q108352496 # single release
+        - Q196600    # media franchise
+        - Q110879246 # video work
+    value_props:
+      - P437   # distribution format
+
+  sports:
+    type: relational
+    indicators:
+      P641:    # sport
+    value_props:
+      - P641   # sport
+
+  military:
+    type: relational
+    indicators:
+      P607:    # participated in conflict
+    value_props:
+      - P607   # participated in conflict
+
+  religion:
+    type: relational
+    indicators:
+      P140:    # religion or worldview
+      P31:  # instance of
+        - Q4271324  # mythical character
+        - Q2239243  # mythical creature
+        - Q13002315 # legendary figure
+        - Q22988604 # mythological Greek character
+        - Q178885    # deity
+    value_props:
+      - P140   # religion or worldview
+
+  character:
+    type: intrinsic
+    indicators:
+      P31:  # instance of
+        - Q15632617  # fictional human
+        - Q15773317  # television character
+        - Q3658341   # literary character
+        - Q15773347  # film character
+        - Q50386450  # operatic character
+        - Q63975020  # musical theatre character
+        - Q80447738  # anime character
+        - Q87576284  # manga character
+        - Q1569167   # video game character
+        - Q3375722   # theatrical character
+        - Q15711870  # animated character
+        - Q123126876 # animated television character
+        - Q11688446  # Roman deity
+        - Q106748215 # wealth deity
+        - Q2775969   # fictional planet
+        - Q108059870 # Star Wars planet
+        # Hub update round 2
+        - Q559618    # fictional universe
+    value_props:
+      - P21     # sex or gender
+      - P4584   # first appearance
+      - P5800   # narrative role
+
+  culture:
+    type: relational
+    indicators:
+      P1435:       # heritage designation
+    value_props:
+      - P1435  # heritage designation
+
+  award:
+    type: relational
+    indicators:
+      P166:        # award received
+      P1411:       # nominated for
+    value_props:
+      - P166   # award received
+      - P1411  # nominated for
+
+  authorship:
+    type: relational
+    indicators:
+      P50:       # author
+      P170:      # creator
+      P175:      # performer
+      P57:       # director
+      P123:      # publisher
+      P86:       # composer
+      P161:      # cast member
+      P162:      # producer
+      P58:       # screenwriter
+      P264:      # record label
+      P126:      # maintained by
+      P127:      # owned by
+      P272:      # production company
+      P449:      # original broadcaster
+      P750:      # distributed by
+      P344:      # director of photography
+      P655:      # translator
+      P676:      # lyricist
+      P98:       # editor
+      P110:      # illustrator
+      P725:      # voice actor
+      P1433:     # published in
+    value_props:
+      - P50     # author
+      - P170    # creator
+      - P175    # performer
+      - P126    # maintained by
+      - P57     # director
+      - P123    # publisher
+      - P264    # record label
+      - P86     # composer
+      - P161    # cast member
+      - P162    # producer
+      - P58     # screenwriter
+      - P272    # production company
+      - P449    # original broadcaster
+      - P750    # distributed by
+      - P344    # director of photography
+      - P127    # owned by
+      - P655    # translator
+      - P676    # lyricist
+      - P98     # editor
+      - P110    # illustrator
+      - P725    # voice actor
+      - P1433   # published in
+
+  location:
+    type: relational
+    indicators:
+      P276:      # location
+      P291:      # place of publication
+      P17:       # country
+      P131:      # located in the administrative territorial entity
+      P495:      # country of origin
+      P840:      # narrative location
+      P1071:     # location of creation
+      P189:      # location of discovery
+    value_props:
+      - P276    # location
+      - P291    # place of publication
+      - P495    # country of origin
+      - P17     # country
+      - P840    # narrative location
+      - P131    # located in the administrative territorial entity
+      - P1071   # location of creation
+      - P189    # location of discovery
+
+  hierarchy:
+    type: relational
+    indicators:
+      P195:      # collection
+      P361:      # part of
+      P179:      # part of the series
+      P155:      # follows
+      P156:      # followed by
+      P4908:     # season
+      P629:      # edition or translation of
+      P747:      # has edition or translation
+      P1441:     # present in work
+      P1080:     # from narrative universe
+      P8345:     # media franchise
+    value_props:
+      - P195    # collection
+      - P361    # part of
+      - P155    # follows
+      - P156    # followed by
+      - P179    # part of the series
+      - P4908   # season
+      - P629    # edition or translation of
+      - P747    # has edition or translation
+      - P1441   # present in work
+      - P1080   # from narrative universe
+      - P8345   # media franchise

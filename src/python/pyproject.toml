@@ -1,0 +1,14 @@
+[project]
+name = "wikidata-python"
+version = "0.1.0"
+description = "Python helpers for Wikidata dump processing."
+requires-python = ">=3.12"
+dependencies = [
+  "duckdb>=1.4.4",
+  "lmdb==1.7.5",
+  "pyyaml>=6.0.3",
+  "zstandard>=0.25.0",
+  "pyarrow>=19.0.0",
+  "neo4j>=5.0.0",
+  "openai>=1.0.0",
+]

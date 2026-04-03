@@ -1,0 +1,649 @@
+# People Category Tags
+# Gate: P31 = Q5 (human)
+
+gate_qids:
+  - Q5  # human
+  - Q20643955  # human biblical figure
+
+core:
+  props:
+    - P21   # sex or gender
+    - P569  # date of birth
+    - P570  # date of death
+    - P106  # occupation
+    - P27   # country of citizenship
+    - P19   # place of birth
+    - P20   # place of death
+    - P735  # given name
+    - P734  # family name
+    - P18   # image
+
+modules:
+  entertainment:
+    type: relational
+    indicators:
+      P136:    # genre
+      P345:    # IMDb ID
+      P1258:   # Rotten Tomatoes ID
+      P1953:   # Discogs artist ID
+      P1283:   # filmography
+      P358:    # discography
+      P264:    # record label
+      P106:    # occupation
+        - Q33999     # actor
+        - Q10800557  # film actor
+        - Q10798782  # television actor
+        - Q2259451   # stage actor
+        - Q2526255   # film director
+        - Q28389     # screenwriter
+        - Q3282637   # film producer
+        - Q3455803   # director
+        - Q177220    # singer
+        - Q488205    # singer-songwriter
+        - Q639669    # musician
+        - Q36834     # composer
+        - Q486748    # pianist
+        - Q765778    # organist
+        - Q2865819   # opera singer
+        - Q753110    # songwriter
+        - Q158852    # conductor
+        - Q5716684   # dancer
+        - Q947873    # television presenter
+        - Q222344    # cinematographer
+        - Q214917    # playwright
+        - Q876864    # editing staff
+        - Q4610556   # model
+        - Q18581305  # beauty pageant contestant
+        - Q1079215   # AV idol
+        - Q11620676  # rakugoka
+        - Q128124    # audio engineer
+        - Q1371925   # announcer
+        - Q47541952  # producer
+        - Q622807    # seiyū
+        - Q18535215  # recording supervisor
+        - Q1259917   # violinist
+        - Q2722764   # radio personality
+        - Q2962070   # production designer
+        - Q7042855   # film editor
+        - Q488111    # pornographic actor
+        - Q2490358   # choreographer
+        - Q2705098   # tarento
+        - Q2405480   # voice actor
+        - Q805221    # ballet dancer
+        - Q1323191   # costume designer
+        - Q3387717   # theatrical director
+        - Q2252262   # rapper
+        - Q855091    # guitarist
+        - Q17125263  # YouTuber
+        - Q822146    # lyricist
+        - Q266569    # animator
+        - Q578109    # television producer
+        - Q245068    # comedian
+        - Q1424726   # gaffer
+        - Q183945    # record producer
+        - Q2707485   # scenographer
+        - Q12330954  # owarai tarento
+        - Q1757008   # assistant director
+        - Q1430377   # property master
+        - Q130857    # disc jockey
+        - Q1208175   # camera operator
+        - Q935666    # make-up artist
+        - Q1414443   # filmmaker
+        - Q226008    # Japanese idol
+        - Q13219637  # cellist
+        - Q970153    # child actor
+        - Q2442108   # tonmeister
+        - Q1076502   # choir director
+        - Q386854    # drummer
+        - Q487596    # dramaturge
+        - Q15981151  # jazz musician
+        - Q8178443   # librettist
+        - Q13590141  # presenter
+        - Q15855449  # magician
+        - Q713200    # performing artist
+        - Q1278335   # instrumentalist
+        - Q24961653  # cancionista
+        - Q54845077  # role-playing game designer
+        - Q1823479   # lighting designer
+        - Q222836    # music publisher
+        - Q1643514   # music arranger
+    value_props:
+      - P136   # genre
+      - P264   # record label
+
+  creativity:
+    type: relational
+    indicators:
+      P136:    # genre
+      P1877:   # after a work by
+      P135:    # movement
+      P2750:   # Photographers' Identities Catalog ID
+      P106:    # occupation
+        - Q36180     # writer
+        - Q49757     # poet
+        - Q482980    # author
+        - Q6625963   # novelist
+        - Q4853732   # children's writer
+        - Q1930187   # journalist
+        - Q6051619   # opinion journalist
+        - Q333634    # translator
+        - Q1607826   # editor
+        - Q124634459 # journal editor
+        - Q2516866   # publisher
+        - Q1028181   # painter
+        - Q483501    # artist
+        - Q3391743   # visual artist
+        - Q33231     # photographer
+        - Q1281618   # sculptor
+        - Q644687    # illustrator
+        - Q1925963   # graphic artist
+        - Q15296811  # draftsperson
+        - Q42973     # architect
+        - Q11569986  # printmaker
+        - Q329439    # engraver
+        - Q10694573  # textile artist
+        - Q16947657  # lithographer
+        - Q7541856   # ceramicist
+        - Q5322166   # designer
+        - Q33082999  # ukiyo-e artist
+        - Q211423    # goldsmith
+        - Q175151    # printer
+        - Q191633    # mangaka
+        - Q715301    # comics artist
+        - Q3501317   # fashion designer
+        - Q998550    # bookseller
+        - Q10732476  # art collector
+        - Q15980158  # non-fiction writer
+        - Q1937431   # organ builder
+        - Q1114448   # cartoonist
+        - Q627325    # graphic designer
+        - Q957729    # photojournalist
+        - Q18216771  # video artist
+        - Q19507792  # scientific illustrator
+        - Q1955150   # musical instrument maker
+        - Q3303330   # calligrapher
+        - Q2216340   # silversmith
+        - Q3357567   # fashion model
+        - Q2341443   # instrument maker
+        - Q2815948   # landscape architect
+        - Q173950    # art dealer
+        - Q124605835 # map drawer
+        - Q739437    # poster artist
+        - Q11774202  # essayist
+        - Q1229025   # typographer
+        - Q40881196  # book printer
+        - Q2519376   # jewelry designer
+        - Q17351648  # newspaper editor
+        - Q3400050   # potter
+        - Q1708232   # medalist
+        - Q13365770  # copper engraver
+        - Q2133309   # interior designer
+        - Q6138343   # wood carver
+        - Q3658608   # caricaturist
+        - Q1413170   # bookbinder
+        - Q18844224  # science fiction writer
+        - Q8246794   # blogger
+        - Q18074503  # installation artist
+        - Q12144794  # prose writer
+        - Q11386386  # haiku poet
+        - Q15472169  # patron of the arts
+        - Q4164507   # art critic
+        - Q1340643   # master builder
+        - Q885444    # bladesmith
+        - Q157798    # watchmaker
+        - Q1284709   # master craftsman
+        - Q242468    # tailor
+        - Q474306    # bell founder
+        - Q1437754   # xylographer
+        - Q3148760   # botanical illustrator
+        - Q3809586   # Wikimedian in residence
+    value_props:
+      - P800   # notable work
+      - P136   # genre
+      - P1877  # after a work by
+      - P135   # movement
+      - P6886  # writing language
+
+  education:
+    type: relational
+    indicators:
+      P101:    # field of work
+      P69:     # educated at
+      P496:    # ORCID iD
+      P1416:   # affiliation
+      P803:    # professorship
+      P512:    # academic degree
+      P184:    # doctoral advisor
+      P185:    # doctoral student
+      P106:    # occupation
+        - Q1650915   # researcher
+        - Q901       # scientist
+        - Q3400985   # academic
+        - Q1622272   # university teacher
+        - Q121594    # professor
+        - Q37226     # teacher
+        - Q1231865   # pedagogue
+        - Q5758653   # secondary school teacher
+        - Q201788    # historian
+        - Q1792450   # art historian
+        - Q170790    # mathematician
+        - Q169470    # physicist
+        - Q593644    # chemist
+        - Q82594     # computer scientist
+        - Q864503    # biologist
+        - Q2374149   # botanist
+        - Q2083925   # botanical collector
+        - Q350979    # zoologist
+        - Q3055126   # entomologist
+        - Q188094    # economist
+        - Q1238570   # political scientist
+        - Q2306091   # sociologist
+        - Q212980    # psychologist
+        - Q4964182   # philosopher
+        - Q81096     # engineer
+        - Q14467526  # linguist
+        - Q13418253  # philologist
+        - Q3621491   # archaeologist
+        - Q182436    # librarian
+        - Q520549    # geologist
+        - Q13582652  # civil engineer
+        - Q974144    # educator
+        - Q205375    # inventor
+        - Q16271064  # herpetologist
+        - Q17167049  # literary scholar
+        - Q11063     # astronomer
+        - Q901402    # geographer
+        - Q1662561   # paleontologist
+        - Q635734    # archivist
+        - Q4205432   # ichthyologist
+        - Q4773904   # anthropologist
+        - Q1906857   # mechanical engineer
+        - Q1781198   # agronomist
+        - Q1595570   # local historian
+        - Q2732142   # statistician
+        - Q2599593   # germanist
+        - Q17344952  # arachnologist
+        - Q294126    # surveyor
+        - Q1326886   # electrical engineer
+        - Q1225716   # ornithologist
+        - Q2487799   # mycologist
+        - Q16145150  # music educator
+        - Q1056391   # head teacher
+        - Q2919046   # biochemist
+        - Q16267607  # classical philologist
+        - Q3779582   # microbiologist
+        - Q18805     # naturalist
+        - Q1371378   # ethnologist
+        - Q4263842   # literary critic
+        - Q2251335   # school teacher
+        - Q2310145   # meteorologist
+        - Q2675537   # music teacher
+        - Q462390    # docent
+        - Q2504617   # romanist
+        - Q16308156  # scholar of English
+        - Q3075052   # folklorist
+        - Q16868721  # carcinologist
+        - Q1569495   # lecturer
+        - Q13570226  # literary historian
+        - Q13416354  # mineralogist
+        - Q18524075  # mining engineer
+        - Q6673651   # literary scholar
+        - Q12358881  # phycologist
+        - Q15839134  # ecologist
+        - Q3140857   # horticulturist
+        - Q1731155   # orientalist
+        - Q16271261  # malacologist
+        - Q15319501  # social scientist
+        - Q3410028   # psychoanalyst
+        - Q7888586   # chemical engineer
+        - Q12773412  # parasitologist
+        - Q10272925  # agricultural engineer
+        - Q14915627  # musicologist
+        - Q48282     # student
+        - Q1734662   # cartographer
+        - Q1895303   # forester
+        - Q19798999  # acarologist
+        - Q3640160   # marine biologist
+        - Q21244999  # forestry scientist
+    value_props:
+      - P101   # field of work
+      - P69    # educated at
+      - P512   # academic degree
+      - P184   # doctoral advisor
+      - P185   # doctoral student
+      - P1416  # affiliation
+      - P803   # professorship
+
+  politics:
+    type: relational
+    indicators:
+      P39:     # position held
+      P102:    # member of political party
+      P3602:   # candidacy in election
+      P1344:   # participant in
+      P106:    # occupation
+        - Q82955     # politician
+        - Q193391    # diplomat
+        - Q83307     # minister
+        - Q15253558  # activist
+        - Q30185     # mayor
+        - Q372436    # statesperson
+        - Q10547393  # local politician
+        - Q708492    # council member
+        - Q11499147  # political activist
+    value_props:
+      - P39    # position held
+      - P102   # member of political party
+      - P3602  # candidacy in election
+      - P1344  # participant in
+
+  sports:
+    type: relational
+    indicators:
+      P54:     # member of sports team
+      P641:    # sport
+      P413:    # position played on team / speciality
+      P1532:   # country for sport
+      P118:    # league or competition
+      P106:    # occupation
+        - Q2066131   # athlete
+        - Q937857    # association football player
+        - Q628099    # association football coach
+        - Q3665646   # basketball player
+        - Q19204627  # American football player
+        - Q11774891  # ice hockey player
+        - Q10871364  # baseball player
+        - Q11513337  # athletics competitor
+        - Q2309784   # sport cyclist
+        - Q12299841  # cricketer
+        - Q13141064  # badminton player
+        - Q10873124  # chess player
+        - Q14089670  # rugby union player
+        - Q14373094  # rugby league player
+        - Q15117302  # volleyball player
+        - Q13382576  # rower
+        - Q378622    # racing driver
+        - Q41583     # coach
+        - Q11313148  # sports journalist
+        - Q26481809  # sports executive
+        - Q12840545  # handball player
+        - Q3246315   # head coach
+        - Q2986228   # sports commentator
+        - Q11598549  # boat racer
+        - Q202648    # referee
+        - Q17486376  # sport shooter
+        - Q19587958  # sports scientist
+    value_props:
+      - P641   # sport
+      - P54    # member of sports team
+      - P413   # position played on team / speciality
+      - P1532  # country for sport
+      - P118   # league
+
+  religion:
+    type: relational
+    indicators:
+      P611:    # religious order
+      P140:    # religion or worldview
+      P411:    # canonization status
+      P106:    # occupation
+        - Q42603     # priest
+        - Q250867    # Catholic priest
+        - Q611644    # Catholic bishop
+        - Q152002    # pastor
+        - Q1234713   # theologian
+        - Q15995642  # religious leader
+        - Q117936754 # Catholic missionary
+        - Q219477    # missionary
+        - Q1753370   # curate
+        - Q114371470 # coadjutor
+        - Q3315492   # clergyman
+        - Q1423891   # Christian minister
+        - Q1172458   # muhaddith
+        - Q2259532   # cleric
+        - Q733786    # monk
+        - Q854997    # Buddhist monk
+        - Q432386    # preacher
+        - Q19829980  # religious studies scholar
+        - Q98833890  # Catholic theologian
+        - Q133485    # rabbi
+        - Q191808    # nun
+        - Q3409375   # Anglican priest
+        - Q955464    # parson
+        - Q98833883  # Protestant theologian
+        - Q208762    # chaplain
+        - Q1104153   # canon
+        - Q13424456  # hymnwriter
+        - Q1999841   # Islamic jurist
+        - Q4504549   # religious figure
+        - Q2566598   # religious
+    value_props:
+      - P140   # religion or worldview
+      - P611   # religious order
+      - P411   # canonization status
+
+  finance:
+    type: relational
+    indicators:
+      P108:   # employer
+      P1830:   # owner of
+      P106:    # occupation
+        - Q806798    # banker
+        - Q43845     # businessperson
+        - Q131524    # entrepreneur
+        - Q215536    # merchant
+        - Q3704253   # trader
+        - Q2961975   # business executive
+        - Q2462658   # manager
+        - Q6606110   # industrialist
+        - Q1162163   # director
+        - Q832136    # business manager
+        - Q484876    # chief executive officer
+        - Q15978655  # consultant
+        - Q326653    # accountant
+        - Q107100767 # company director
+        - Q13235160  # manufacturer
+        - Q500251    # ship-owner
+    value_props:
+      - P108   # employer
+      - P1830  # owner of
+      - P3320  # board member of
+
+  military:
+    type: relational
+    indicators:
+      P607:    # participated in conflict
+      P106:    # occupation
+        - Q47064     # military personnel
+        - Q189290    # military officer
+        - Q4991371   # soldier
+        - Q10669499  # naval officer
+        - Q11545923  # military commander
+        - Q1402561   # military leader
+        - Q222982    # flying ace
+        - Q3492027   # submariner
+        - Q16102070  # Marineoffizier
+        - Q2095549   # aircraft pilot
+        - Q1975935   # bushi
+        - Q1397808   # resistance fighter
+        - Q212948    # partisan
+        - Q23833535  # French resistance fighter
+        - Q849424    # ship captain
+        - Q45199     # sailor
+        - Q9352089   # spy
+      P410:    # military, police or special rank
+      P241:    # military branch
+    value_props:
+      - P410   # military, police or special rank
+      - P241   # military branch
+      - P607   # participated in conflict
+
+  society:
+    type: relational
+    indicators:
+      P4638:   # The Peerage person ID
+      P97:     # noble title
+      P106:    # occupation
+        - Q2478141   # aristocrat
+        - Q131512    # farmer
+        - Q38126150  # housewife
+        - Q844586    # gentry
+        - Q715222    # lady-in-waiting
+        - Q860918    # Esperantist
+        - Q15627169  # trade unionist
+        - Q3242115   # revolutionary
+        - Q12362622  # philanthropist
+        - Q27532437  # suffragist
+        - Q1476215   # human rights defender
+        - Q7019111   # social worker
+        - Q3578589   # environmentalist
+        - Q28692502  # women's rights activist
+        - Q19509201  # LGBTQ rights activist
+        - Q8359428   # social activist
+        - Q116       # monarch
+        - Q1483709   # land owner
+        - Q1409420   # feudatory
+        - Q1815782   # lord of the manor
+        - Q2304859   # sovereign
+        - Q512314    # socialite
+        - Q838811    # peasant
+    value_props:
+      - P97    # noble title
+
+  crime:
+    type: relational
+    indicators:
+      P1399:   # convicted of
+      P106:    # occupation
+        - Q484188    # serial killer
+        - Q2159907   # criminal
+    value_props:
+      - P1399  # convicted of
+
+
+  family:
+    type: relational
+    indicators:
+      P22:     # father
+      P25:     # mother
+      P40:     # child
+      P26:     # spouse
+      P3373:   # sibling
+    value_props:
+      - P22    # father
+      - P25    # mother
+      - P40    # child
+      - P26    # spouse
+      - P3373  # sibling
+
+  award:
+    type: relational
+    indicators:
+      P166:    # award received
+      P1411:   # nominated for
+    value_props:
+      - P166   # award received
+      - P1411  # nominated for
+
+  healthcare:
+    type: relational
+    indicators:
+      P106:    # occupation
+        - Q39631     # physician
+        - Q774306    # surgeon
+        - Q186360    # nurse
+        - Q27349     # dentist
+        - Q105186    # pharmacist
+        - Q185196    # midwife
+        - Q211346    # psychiatrist
+        - Q12013238  # ophthalmologist
+        - Q783906    # neurologist
+        - Q15924224  # internist
+        - Q1919436   # pediatrician
+        - Q2640827   # gynecologist
+        - Q3264451   # cardiologist
+        - Q3368718   # pathologist
+        - Q1900167   # psychotherapist
+        - Q15401884  # medical researcher
+        - Q202883    # veterinarian
+        - Q2114605   # pharmacologist
+    value_props:
+      - P101   # field of work
+      - P463   # member of
+      - P937   # work location
+
+  legal:
+    type: relational
+    indicators:
+      P106:    # occupation
+        - Q40348     # lawyer
+        - Q185351    # jurist
+        - Q16533     # judge
+        - Q16009129  # magistrate
+        - Q808967    # barrister
+        - Q189010    # notary
+        - Q4594605   # magistrate
+        - Q16012028  # legal scholar
+    value_props:
+      - P39    # position held
+      - P463   # member of
+      - P937   # work location
+      - P101   # field of work
+
+  culture:
+    type: relational
+    indicators:
+      P106:  # occupation
+        - Q674426    # curator
+      P1435:       # heritage designation
+    value_props:
+      - P1435  # heritage designation
+      - P101   # field of work
+      - P463   # member of
+      - P937   # work location
+
+  government:
+    type: relational
+    indicators:
+      P39:     # position held
+      P463:    # member of
+      P106:  # occupation
+        - Q212238    # civil servant
+        - Q599151    # official
+        - Q16258947  # Beamter
+        - Q514725    # Landrat
+        - Q384593    # police officer
+        - Q572700    # bureaucrat
+        - Q264323    # chamberlain
+        - Q80687     # secretary
+    value_props:
+      - P39    # position held
+      - P463   # member of
+      - P937   # work location
+
+  technology:
+    type: relational
+    indicators:
+      P2037:       # GitHub account
+      P106:  # occupation
+        - Q183888    # software developer
+        - Q5482740   # programmer
+        - Q15976092  # artificial intelligence researcher
+        - Q58287519  # video game developer
+    value_props:
+      - P101   # field of work
+      - P800   # notable work
+      - P463   # member of
+
+  food:
+    type: relational
+    indicators:
+      P106:    # occupation
+        - Q3499072   # chef
+        - Q156839    # cook
+        - Q3427922   # restaurateur
+        - Q45748643  # vigneron
+    value_props:
+      - P108   # employer
+      - P937   # work location
+      - P101   # field of work

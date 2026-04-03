@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>OntoKG Classification Results</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300;1,9..40,400&family=JetBrains+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body>
+    <div class="app">
+      <!-- Top bar -->
+      <header class="topbar">
+        <div class="topbar-brand">
+          <span class="topbar-sigil">W</span>
+          <div>
+            <h1 class="topbar-title">OntoKG Classification Results</h1>
+            <p class="topbar-sub">34.6M core entities across 8 categories and 94 modules</p>
+          </div>
+        </div>
+        <nav class="topbar-nav" id="mainNav">
+          <button class="nav-pill active" data-view="overview">
+            <svg width="14" height="14" viewBox="0 0 14 14"><rect x="1" y="1" width="5" height="5" rx="1" fill="currentColor"/><rect x="8" y="1" width="5" height="5" rx="1" fill="currentColor" opacity=".5"/><rect x="1" y="8" width="5" height="5" rx="1" fill="currentColor" opacity=".5"/><rect x="8" y="8" width="5" height="5" rx="1" fill="currentColor" opacity=".3"/></svg>
+            Overview
+          </button>
+          <button class="nav-pill" data-view="sunburst">
+            <svg width="14" height="14" viewBox="0 0 14 14"><circle cx="7" cy="7" r="6" fill="none" stroke="currentColor" stroke-width="1.5"/><circle cx="7" cy="7" r="3" fill="currentColor" opacity=".4"/></svg>
+            Distribution
+          </button>
+<button class="nav-pill" data-view="graph">
+            <svg width="14" height="14" viewBox="0 0 14 14"><circle cx="4" cy="4" r="2" fill="currentColor"/><circle cx="10" cy="4" r="1.5" fill="currentColor" opacity=".5"/><circle cx="7" cy="11" r="2" fill="currentColor" opacity=".7"/><line x1="4" y1="4" x2="10" y2="4" stroke="currentColor" stroke-width="1" opacity=".3"/><line x1="4" y1="4" x2="7" y2="11" stroke="currentColor" stroke-width="1" opacity=".3"/></svg>
+            Network
+          </button>
+          <button class="nav-pill" data-view="hierarchy">
+            <svg width="14" height="14" viewBox="0 0 14 14"><line x1="3" y1="3" x2="3" y2="12" stroke="currentColor" stroke-width="1.5" opacity=".3"/><rect x="5" y="2" width="7" height="2" rx="1" fill="currentColor"/><rect x="5" y="6" width="5" height="2" rx="1" fill="currentColor" opacity=".6"/><rect x="5" y="10" width="6" height="2" rx="1" fill="currentColor" opacity=".3"/></svg>
+            Hierarchy
+          </button>
+          <button class="nav-pill" data-view="schema">
+            <svg width="14" height="14" viewBox="0 0 14 14"><circle cx="7" cy="7" r="5.5" fill="none" stroke="currentColor" stroke-width="1.2" opacity=".4"/><path d="M3.5 4.5 Q7 7 10.5 4.5" fill="none" stroke="currentColor" stroke-width="1.3" opacity=".7"/><path d="M3 9 Q7 6 11 9.5" fill="none" stroke="currentColor" stroke-width="1.3" opacity=".5"/><circle cx="3.5" cy="4.5" r="1.2" fill="currentColor"/><circle cx="10.5" cy="4.5" r="1.2" fill="currentColor" opacity=".7"/><circle cx="3" cy="9" r="1.2" fill="currentColor" opacity=".5"/><circle cx="11" cy="9.5" r="1.2" fill="currentColor" opacity=".6"/></svg>
+            Schema
+          </button>
+        </nav>
+        <div class="topbar-actions">
+          <button id="refreshBtn" class="btn-ghost">Reload</button>
+        </div>
+      </header>
+
+      <div class="workspace">
+        <!-- Sidebar: Category files -->
+        <aside class="sidebar" id="sidebar">
+          <div class="sidebar-head">
+            <span class="sidebar-label">Categories</span>
+            <input id="fileFilter" type="search" placeholder="Filter..." class="sidebar-search" />
+          </div>
+          <div id="fileList" class="file-list"></div>
+          <div class="sidebar-foot">
+            <span>src/tags</span>
+          </div>
+        </aside>
+
+        <!-- Main content -->
+        <main class="content" id="mainContent">
+          <!-- Overview -->
+          <section id="overviewView" class="view">
+            <div class="view-head">
+              <h2>Observatory</h2>
+              <p class="view-sub">Classification system at a glance</p>
+            </div>
+            <div id="overviewContent">
+              <div class="loading-state">Mapping the knowledge graph...</div>
+            </div>
+          </section>
+
+          <!-- Pie / Distribution -->
+          <section id="sunburstView" class="view hidden">
+            <div class="view-head">
+              <div>
+                <h2 id="pieTitle">Entity Distribution</h2>
+                <p id="pieMeta" class="view-sub">Click a slice to drill into modules</p>
+              </div>
+              <button id="sunburstReset" class="btn-ghost">Reset</button>
+            </div>
+            <div id="sunburstContent" class="chart-area"></div>
+          </section>
+
+<!-- Network Graph -->
+          <section id="graphView" class="view hidden">
+            <div class="view-head">
+              <div>
+                <h2>Network Graph</h2>
+                <p class="view-sub">Drag nodes to explore category-module relationships</p>
+              </div>
+              <button id="graphReset" class="btn-ghost">Reset</button>
+            </div>
+            <div id="graphContent" class="chart-area chart-area--graph"></div>
+          </section>
+
+          <!-- Schema (Chord Diagram) -->
+          <section id="schemaView" class="view hidden">
+            <div class="view-head">
+              <div>
+                <h2>Category Schema</h2>
+                <p class="view-sub">How categories connect through relational modules</p>
+              </div>
+              <div class="schema-controls">
+                <select id="schemaFilter" class="select-ctrl">
+                  <option value="all">All modules</option>
+                </select>
+                <button id="schemaReset" class="btn-ghost">Reset</button>
+              </div>
+            </div>
+            <div class="schema-layout">
+              <div id="schemaChord" class="schema-chord-area"></div>
+              <div id="schemaDetail" class="schema-detail-panel"></div>
+            </div>
+          </section>
+
+          <!-- Taxonomy -->
+          <section id="hierarchyView" class="view hidden">
+            <div class="view-head">
+              <div>
+                <h2>Taxonomy</h2>
+                <p class="view-sub">Categories and their shared relational modules</p>
+              </div>
+            </div>
+            <div id="hierarchyContent" class="taxonomy-container"></div>
+          </section>
+
+
+          <!-- Single File View -->
+          <section id="fileView" class="view hidden">
+            <div class="view-head">
+              <div>
+                <h2 id="fileTitle">Select a file</h2>
+                <p id="fileMeta" class="view-sub"></p>
+              </div>
+              <div class="view-toggle" id="viewToggle">
+                <button data-view="tree" class="active">Tree</button>
+                <button data-view="summary">Summary</button>
+                <button data-view="raw">Raw YAML</button>
+              </div>
+            </div>
+
+            <div id="summaryPanel" class="panel hidden"></div>
+
+            <div id="treePanel" class="panel">
+              <div id="fileTreemap" class="file-treemap-container"></div>
+              <div class="tree-toolbar">
+                <button id="expandAll" class="btn-ghost">Expand all</button>
+                <button id="collapseAll" class="btn-ghost">Collapse all</button>
+              </div>
+              <div id="treeRoot" class="tree"></div>
+            </div>
+
+            <div id="rawPanel" class="panel hidden">
+              <pre class="code-block"><code id="rawCode"></code></pre>
+            </div>
+          </section>
+        </main>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

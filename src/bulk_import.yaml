@@ -1,0 +1,457 @@
+# Standalone bulk-import detection configuration.
+# NOT part of src/tags/. Read by detect_bulk binary only.
+
+# ============================================================
+# SECTION 1: Source Database Definitions
+# ============================================================
+# Each source_database defines a group of external database
+# properties that typically co-occur in bulk-imported entities.
+
+source_databases:
+
+  crossref:
+    description: "CrossRef / OpenAlex scholarly article metadata"
+    properties:
+      - P356    # DOI
+      - P698    # PubMed ID
+      - P932    # PMCID
+      - P1433   # published in (journal)
+      - P304    # page(s)
+      - P478    # volume
+      - P433    # issue
+      - P2860   # cites work
+      - P2093   # author name string
+    signature_props:
+      - P356    # DOI
+      - P698    # PubMed ID
+
+  astronomy_catalogs:
+    description: "Minor Planet Center, SIMBAD, Gaia DR2/DR3"
+    properties:
+      - P6259   # epoch
+      - P59     # constellation
+      - P215    # spectral class
+      - P223    # galaxy morphological type
+      - P2583   # distance from Earth
+      - P2216   # radial velocity
+      - P1215   # apparent magnitude
+      - P1457   # absolute magnitude
+      - P528    # catalog code
+      - P5736   # Minor Planet Center body ID
+      - P716    # JPL Small-Body Database SPK-ID
+    signature_props:
+      - P6259   # epoch
+      - P59     # constellation
+
+  taxonomy:
+    description: "ITIS, GBIF, Catalogue of Life, NCBI Taxonomy"
+    properties:
+      - P171    # parent taxon
+      - P105    # taxon rank
+      - P225    # taxon name
+      - P815    # ITIS TSN
+      - P1420   # taxon synonym
+      - P685    # NCBI taxonomy ID
+      - P846    # GBIF taxon ID
+      - P3151   # iNaturalist taxon ID
+    signature_props:
+      - P171    # parent taxon
+      - P105    # taxon rank
+
+  chemistry:
+    description: "PubChem, ChEBI, DrugBank, CAS"
+    properties:
+      - P274    # chemical formula
+      - P233    # canonical SMILES
+      - P234    # InChI
+      - P231    # CAS Registry Number
+      - P662    # PubChem CID
+      - P661    # ChemSpider ID
+      - P683    # ChEBI ID
+      - P2017   # isomeric SMILES
+      - P2275   # World Health Organisation International Nonproprietary Name
+    signature_props:
+      - P274    # chemical formula
+      - P233    # canonical SMILES
+
+  genomics:
+    description: "NCBI Gene, Ensembl, HGNC"
+    properties:
+      - P351    # Entrez Gene ID
+      - P703    # found in taxon
+      - P644    # genomic start
+      - P645    # genomic end
+      - P684    # ortholog
+      - P688    # encodes
+      - P1057   # chromosome
+      - P594    # Ensembl gene ID
+      - P593    # HomoloGene ID
+    signature_props:
+      - P351    # Entrez Gene ID
+      - P644    # genomic start
+
+  proteomics:
+    description: "UniProt, PDB, InterPro"
+    properties:
+      - P352    # UniProt protein ID
+      - P680    # molecular function
+      - P681    # cell component
+      - P682    # biological process
+      - P637    # RefSeq protein ID
+      - P638    # PDB structure ID
+      - P703    # found in taxon
+    signature_props:
+      - P352    # UniProt protein ID
+
+  library_authority:
+    description: "VIAF, ISNI, GND, Library of Congress, IdRef, BnF"
+    properties:
+      - P214    # VIAF cluster ID
+      - P213    # ISNI
+      - P244    # Library of Congress authority ID
+      - P227    # GND ID
+      - P269    # IdRef ID
+      - P268    # Bibliotheque nationale de France ID
+      - P396    # SBN author ID
+      - P1006   # Nationale Thesaurus voor Auteursnamen ID
+      - P409    # Libraries Australia ID
+      - P349    # National Diet Library ID
+    signature_props:
+      - P214    # VIAF cluster ID
+      - P213    # ISNI
+
+  genealogy:
+    description: "WikiTree, Geni.com, genealogics.org, Roglo"
+    properties:
+      - P2949   # WikiTree person ID
+      - P2600   # Geni.com profile ID
+      - P1819   # genealogics.org person ID
+      - P7929   # Roglo person ID
+      - P3029   # National Archives ID (UK genealogy)
+    signature_props:
+      - P2949   # WikiTree person ID
+      - P2600   # Geni.com profile ID
+
+  sinology:
+    description: "CBDB (Harvard/Academia Sinica), Shanghai Library"
+    properties:
+      - P497    # CBDB ID
+      - P6702   # Shanghai Library person ID
+      - P6705   # Academia Sinica authority ID
+      - P9613   # ctext data entity ID
+    signature_props:
+      - P497    # CBDB ID
+      - P6702   # Shanghai Library person ID
+
+  holocaust_memorial:
+    description: "Holocaust.cz, Terezin Memorial, Memorial Book Bundesarchiv, Memento Vienna, USHMM"
+    properties:
+      - P9109   # Holocaust.cz person ID
+      - P9300   # Terezin Memorial Database ID
+      - P7571   # Memorial Book Bundesarchiv ID
+      - P9543   # Memento Vienna person ID
+      - P4130   # USHMM person ID
+      - P2632   # place of detention
+      - P793    # significant event
+      - P2868   # subject has role
+      - P569    # date of birth
+      - P570    # date of death
+      - P551    # residence
+      - P19     # place of birth
+      - P20     # place of death
+      - P734    # family name
+      - P735    # given name
+      - P21     # sex or gender
+      - P2561   # name
+    signature_props:
+      - P9109   # Holocaust.cz person ID
+      - P9300   # Terezin Memorial Database ID
+      - P7571   # Memorial Book Bundesarchiv ID
+      - P4130   # USHMM person ID
+
+  numismatics:
+    description: "Numista and other numismatic/coin catalog databases"
+    properties:
+      - P10205   # Numista ID
+      - P10197   # Numista mint ID
+      - P11835   # Numista ruling authority ID
+      - P3934    # face value
+      - P2386    # diameter
+      - P462     # color
+    signature_props:
+      - P10205   # Numista ID
+      - P10197   # Numista mint ID
+
+  museum_collections:
+    description: "Rijksmuseum, Smithsonian, NARA, institutional collections"
+    properties:
+      - P195    # collection
+      - P217    # inventory number
+      - P186    # made from material
+      - P2048   # height
+      - P2049   # width
+    signature_props:
+      - P217    # inventory number
+      - P195    # collection
+
+  britannica:
+    description: "Encyclopaedia Britannica Online stub articles"
+    properties:
+      - P1417   # Encyclopædia Britannica Online ID
+      - P2093   # author name string
+    signature_props:
+      - P1417   # Encyclopædia Britannica Online ID
+
+  elmcip:
+    description: "ELMCIP Electronic Literature Knowledge Base"
+    properties:
+      - P12204  # ELMCIP ID
+      - P50     # author
+      - P577    # publication date
+      - P407    # language of work or name
+      - P437    # distribution format
+    signature_props:
+      - P12204  # ELMCIP ID
+
+  hkbu_heritage:
+    description: "HKBU Heritage digitized collection"
+    properties:
+      - P276    # location
+      - P361    # part of
+      - P856    # official website
+      - P17     # country
+    signature_props: []
+    signature_value_props:
+      P361:
+        - Q106967147   # HKBU Heritage
+      P276:
+        - Q95977692    # Hong Kong Baptist University Library
+
+  medical_ontology:
+    description: "FMA / UMLS / UBERON / MeSH / Disease Ontology / OMIM medical ontology classes"
+    properties:
+      - P1402   # Foundational Model of Anatomy ID
+      - P2892   # UMLS CUI
+      - P1554   # UBERON ID
+      - P1323   # Terminologia Anatomica 98 ID
+      - P3982   # TA98 Latin term
+      - P7173   # TA2 ID
+      - P7807   # ICD-11 ID (Foundation)
+      - P7329   # ICD-11 ID (MMS)
+      - P486    # MeSH descriptor ID
+      - P672    # MeSH tree code
+      - P492    # OMIM ID
+      - P5270   # Mondo ID
+      - P4317   # GARD rare disease ID
+      - P699    # Disease Ontology ID
+      - P1748   # NCI Thesaurus ID
+      - P11956  # Experimental Factor Ontology ID
+      - P11430  # UniProt disease ID
+    signature_props:
+      - P1402   # Foundational Model of Anatomy ID
+      - P2892   # UMLS CUI
+      - P486    # MeSH descriptor ID
+      - P672    # MeSH tree code
+
+  freebase:
+    description: "Freebase / Google Knowledge Graph stub entities"
+    properties:
+      - P646    # Freebase ID
+      - P2671   # Google Knowledge Graph ID
+    signature_props:
+      - P646    # Freebase ID
+      - P2671   # Google Knowledge Graph ID
+
+  microsoft_academic:
+    description: "Microsoft Academic / OpenAlex stub entities"
+    properties:
+      - P6366   # Microsoft Academic ID (discontinued)
+      - P10283  # OpenAlex ID
+    signature_props:
+      - P6366   # Microsoft Academic ID (discontinued)
+      - P10283  # OpenAlex ID
+
+  wikimedia_bots:
+    description: "Wikimedia auto-generated infrastructure"
+    properties:
+      - P143    # imported from Wikimedia project
+      - P4656   # Wikimedia import URL
+      - P1151   # topic's main Wikimedia portal
+      - P910    # topic's main category
+      - P1754   # category related to list
+      - P301    # category's main topic
+    signature_props:
+      - P143    # imported from Wikimedia project
+      - P4656   # Wikimedia import URL
+
+# ============================================================
+# SECTION 2: Human Curation Indicators
+# ============================================================
+# Properties that signal genuine human curation.
+# Their presence on an entity protects it from bulk-import flagging.
+
+human_curation_indicators:
+
+  # Strong protection signals (weight: 3 each)
+  strong:
+    - P18     # image
+    - P625    # coordinate location
+    - P856    # official website
+    - P1559   # name in native language
+    - P154    # logo image
+    - P109    # signature
+    - P41     # flag image
+    - P94     # coat of arms image
+    - P373    # Commons category
+
+  # Medium protection signals (weight: 2 each)
+  medium:
+    - P1566   # GeoNames ID
+    - P1441   # present in work
+    - P800    # notable work
+    - P166    # award received
+    - P135    # movement
+    - P1435   # heritage designation
+    - P1343   # described by source
+    - P136    # genre
+    - P641    # sport
+
+  # Weak protection signals (weight: 1 each)
+  weak:
+    - P17     # country
+    - P131    # located in administrative entity
+    - P279    # subclass of
+    - P361    # part of
+    - P452    # industry
+    - P170    # creator
+
+  # People-specific strong signals (weight: 2 each)
+  # Properties requiring independent research; not present in bulk imports
+  people_strong:
+    - P106    # occupation
+    - P69     # educated at
+    - P108    # employer
+    - P101    # field of work
+    - P102    # member of political party
+    - P410    # military, police or special rank
+    - P241    # military branch
+    - P611    # religious order
+
+  # People-specific weak signals (weight: 1 each)
+  # Somewhat informative but present in bulk imports at moderate rates
+  people_weak:
+    - P19     # place of birth
+    - P20     # place of death
+    - P39     # position held
+    - P512    # academic degree
+
+  # Removed (weight 0) — overwhelmingly present in bulk imports:
+  # P569 (date of birth), P570 (date of death), P27 (country of citizenship),
+  # P551 (residence), P22 (father), P25 (mother), P40 (child), P26 (spouse)
+
+# ============================================================
+# SECTION 3: Detection Rules
+# ============================================================
+
+detection_rules:
+  bulk_ratio_threshold: 0.70
+  curation_score_protect: 3
+  # Entities with these P31 values are always structural (Wikimedia infra, auto-generated)
+  structural_p31_qids:
+    # --- Original Wikimedia infrastructure (Round 2) ---
+    - Q4167836    # Wikimedia category
+    - Q11266439   # Wikimedia template
+    - Q4167410    # Wikimedia disambiguation page
+    - Q13406463   # Wikimedia list article
+    - Q15184295   # Wikimedia module
+    - Q24046192   # Wikimedia category of stubs
+    - Q56428020   # Wikimedia lists category
+    - Q59541917   # Wikimedia topic category
+    # --- Additional Wikimedia infrastructure (Round 4) ---
+    - Q22808320   # Wikimedia human name disambiguation page
+    - Q17362920   # Wikimedia duplicated page
+    - Q11753321   # Wikimedia navigational template
+    - Q23894233   # Wikimedia templates category
+    - Q15647814   # Wikimedia administration category
+    - Q14204246   # Wikimedia project page
+    - Q106612246  # Wikimedia albums-by-performer category
+    - Q98645843   # Wikimedia music-related list
+    - Q59191021   # Wikimedia albums discography
+    - Q20010800   # Wikimedia user language category
+    - Q17146139   # Wikimedia route diagram
+    - Q104635718  # Wikimedia artist discography
+    - Q108783631  # Wikimedia country data template
+    - Q17442446   # Wikimedia internal item
+    - Q30432511   # Wikimedia meta category
+    - Q16695773   # WikiProject
+    - Q104696061  # Wikibook page
+    - Q115668764  # Wiktionary rhymes page
+    - Q94574287   # Wikinews date page
+    - Q67131190   # Wikimedia tracking category
+    - Q19887878   # Wikimedia infobox template
+    - Q63032896   # Wikimedia list of fictional characters
+    - Q125101257  # Wikimedia category of redirects
+    - Q18711811   # map data module
+    # --- Auto-generated number/calendar entities (Round 4) ---
+    - Q49008      # prime number
+    - Q29654788   # Unicode character
+    - Q28920044   # positive integer
+    - Q47150325   # calendar day of a given year
+    - Q125390868  # hijri month of a given year
+    - Q3186692    # calendar year
+    # --- Auto-generated archives/templates (Round 5) ---
+    - Q113376528  # PM20 ware/country folder
+    - Q91257459   # PM20 country/subject folder
+    - Q66050470   # conjugation table for French verb
+    - Q96323920   # volume of Complete Library in Four Sections
+    - Q115595777  # taxonomy template
+    - Q74817647   # aspect in a geographic region
+    - Q26267864   # Wikimedia KML file
+  # P31 QIDs that directly classify entities as extended (bulk-imported domain content)
+  extended_p31_qids:
+    # --- Indian bank branch stubs ---
+    - Q65954115   # State Bank of India branch
+    - Q65954144   # Canara Bank branch
+    - Q65954135   # ICICI Bank branch
+    - Q66619497   # HDFC Bank branch
+    - Q65954142   # Bank of Baroda branch
+    - Q65954138   # Axis Bank branch
+    - Q73580208   # Central Bank of India branch
+    - Q71713967   # Union Bank of India branch
+    - Q73839412   # Indian Overseas Bank branch
+    - Q65954125   # Yes Bank branch
+    - Q69529214   # Allahabad Bank branch
+    - Q73986959   # Indian Bank branch
+    - Q73717181   # Industrial Development Bank of India branch
+    - Q66496996   # Andhra Bank branch
+    - Q66877717   # UCO Bank branch
+    - Q66768699   # Corporation Bank branch
+    - Q66576265   # Bank of India branch
+    - Q73865589   # Syndicate Bank branch
+    - Q71574305   # United Bank of India branch
+    - Q70081950   # Bank of Maharashtra branch
+    - Q74539826   # Kotak Mahindra Bank branch
+    - Q66771621   # Dena Bank branch
+    - Q73887153   # Oriental Bank of Commerce branch
+    # --- Bulk-imported school stubs ---
+    - Q67015940   # Government Boys' Primary School
+    - Q67015944   # Government Girls Primary School
+    # --- Indian infrastructure stubs ---
+    - Q61443690   # branch post office
+    - Q61443650   # sub post office
+    - Q61278455   # health sub-centre
+
+# ============================================================
+# SECTION 4: People Quality Tiers
+# ============================================================
+
+people_quality:
+  core_biographical_props:
+    - P569    # date of birth
+    - P19     # place of birth
+    - P570    # date of death
+    - P20     # place of death
+    - P27     # country of citizenship
+    - P21     # sex or gender
+    - P106    # occupation
+  min_core_props_for_low: 2
