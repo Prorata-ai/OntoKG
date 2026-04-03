@@ -24,6 +24,7 @@ All commands run from the project root.
 | `export_neo4j.py` | Export classified Parquets to Neo4j CSV (nodes + edges + stubs) |
 | `extract_category.py` | Extract a single category from classified Parquets |
 | `export_labels.py` | Export QID/PID labels from LMDB to JSON |
+| `convert_labels.py` | Convert label lookup table between LMDB and Parquet formats |
 
 ```bash
 # Example: classify a dump shard
