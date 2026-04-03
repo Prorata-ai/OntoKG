@@ -47,7 +47,7 @@ OntoKG/
 
 Pre-built outputs (classified Parquet files, LMDB label store, Neo4j CSVs) are available on HuggingFace:
 
-https://huggingface.co/datasets/yitao416/wikidata-schema-as-artifact
+https://huggingface.co/datasets/yitao416/OntoKG
 
 Some benchmark helpers also expect a prebuilt `data_dump_core_output/classified_with_sitelinks.parquet` artifact from that HuggingFace release for fast Wikipedia-title lookup.
 
